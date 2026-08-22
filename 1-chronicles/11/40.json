@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "ml",
   "chapter": 11,
-  "translation": "ഇരാ ⟨the⟩ യിത്രി, ഗാരെബ് ⟨the⟩ യിത്രി.",
+  "translation": "ഇരാ യിത്രി, ഗാരെബ് യിത്രി.",
   "tokens": [
     {
       "surface": "עירא",
@@ -24,6 +24,6 @@
       "gloss": "യിത്രി"
     }
   ],
-  "timestamp": "2026-08-22T17:52:02.463999380Z",
+  "timestamp": "2026-08-22T20:03:31.948344783Z",
   "model": "glm-5.3"
 }

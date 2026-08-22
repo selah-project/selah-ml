@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "നാം നമ്മുടെ ഹൃദയത്തെ കൈകളിലേക്ക് ഉയർത്തുക, ആകാശങ്ങളിലുള്ള ഏലിന്നേക്ക്.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "ഉയർത്തുക"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "നമ്മുടെ ഹൃദയം"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ലേക്ക്"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "കൈകൾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ലേക്ക്"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ഏൽ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ആകാശങ്ങളിൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:08:10.438025874Z",
+  "model": "glm-5.3"
+}

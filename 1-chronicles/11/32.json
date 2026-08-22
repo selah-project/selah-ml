@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "ഹൂരായ് ഗാഅശിന്റെ താഴ്വരകളിൽ നിന്ന്, അബീയേൽ അരബാത്തി.",
+  "tokens": [
+    {
+      "surface": "חורי",
+      "gloss": "ഹൂരായ്"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "താഴ്വരകളിൽ നിന്ന്"
+    },
+    {
+      "surface": "געש",
+      "gloss": "ഗാഅശിന്റെ"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "അബീയേൽ"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "അരബാത്തി"
+    }
+  ],
+  "timestamp": "2026-08-22T17:52:06.690045304Z",
+  "model": "glm-5.3"
+}

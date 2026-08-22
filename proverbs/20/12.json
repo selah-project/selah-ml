@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 20:12",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 20,
+  "translation": "കേൾക്കുന്ന ചെവിയും കാണുന്ന കണ്ണും — യാഹ്‌വെ അവ രണ്ടും ഉണ്ടാക്കി.",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "ചെവി"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "കേൾക്കുന്ന"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "കണ്ണും"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "കാണുന്ന"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ഉണ്ടാക്കി"
+    },
+    {
+      "surface": "גם",
+      "gloss": "പോലും"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "അവ രണ്ടും"
+    }
+  ],
+  "timestamp": "2026-08-22T16:35:45.699134982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 21,
+  "translation": "ദോഷം ഉണ്ടായാൽ, പ്രാണന് പകരം പ്രാണൻ നൽകും.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ആയാൽ"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "ദോഷം"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ഉണ്ടാകും"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "നൽകും"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "പ്രാണൻ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "പകരം"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "പ്രാണൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T09:22:03.893618018Z",
+  "model": "glm-5.3"
+}

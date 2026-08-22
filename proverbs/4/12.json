@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 4,
+  "translation": "നീ നടക്കുമ്പോൾ നിന്റെ ചുവട് ങ്ങരുത; നീ ഓടുമ്പോൾ ഇടറുകയില്ല.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "നീ നടക്കുമ്പോൾ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "വേണ്ട"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ങ്ങുകയില്ല"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "നിന്റെ ചുവട്"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "നീ ഓടുമ്പോൾ"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "ഓടുക"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "ഇടറുകയില്ല"
+    }
+  ],
+  "timestamp": "2026-08-22T16:28:20.021844603Z",
+  "model": "glm-5.3"
+}

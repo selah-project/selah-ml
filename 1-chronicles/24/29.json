@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 24:29",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 24,
+  "translation": "ലെഖിഷിന്റെ: ഖിഷിന്റെ പുത്രന്മാർ — യെരഖ്മെല്.",
+  "tokens": [
+    {
+      "surface": "לקיש",
+      "gloss": "ലെഖിഷിന്റെ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "ഖിഷിന്റെ"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "യെരഖ്മെല്"
+    }
+  ],
+  "timestamp": "2026-08-22T18:00:31.729453859Z",
+  "model": "glm-5.3"
+}

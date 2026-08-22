@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 34,
+  "translation": "ഉം ⟨את⟩ നെഗെബ്, ഉം ⟨את⟩ താഴ്വര — യെരീഹോയുടെ താഴ്വാരം, ഈന്തപ്പനകളുടെ പട്ടണം — സോഅർ വരെ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ഉം ⟨את⟩"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "നെഗെബ്"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ഉം ⟨את⟩"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "താഴ്വര"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "താഴ്വാരം"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "യെരീഹോയുടെ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "പട്ടണം"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "ഈന്തപ്പനകളുടെ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "വരെ"
+    },
+    {
+      "surface": "צער",
+      "gloss": "സോഅർ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:23:16.408076712Z",
+  "model": "glm-5.3"
+}

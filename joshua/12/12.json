@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 12,
+  "translation": "എഗ്ലോന്റെ രാജാവ് ഒരാൾ; ഗെസെരിന്റെ രാജാവ് ഒരാൾ.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "രാജാവ്"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "എഗ്ലോന്റെ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ഒരാൾ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "രാജാവ്"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "ഗെസെരിന്റെ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ഒരാൾ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:31:06.718516528Z",
+  "model": "glm-5.3"
+}

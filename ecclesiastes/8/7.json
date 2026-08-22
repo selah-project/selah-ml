@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "ml",
+  "chapter": 8,
+  "translation": "എന്തു സംഭവിക്കും എന്ന് അവൻ അറിയുന്നില്ല; എന്തു സംഭവിക്കുമ്പോൾ, അത് അവനോട് ആരു അറിയിക്കും?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "കാരണം"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "അവൻ…ഇല്ല"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "അറിയുന്ന"
+    },
+    {
+      "surface": "מה",
+      "gloss": "എന്തു"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "സംഭവിക്കും"
+    },
+    {
+      "surface": "כי",
+      "gloss": "എന്തു"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…മ്പോൾ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "സംഭവിക്കുമ്പോൾ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ആരു"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "അറിയിക്കും"
+    },
+    {
+      "surface": "לו",
+      "gloss": "അവനോട്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:15:16.956774998Z",
+  "model": "glm-5.3"
+}

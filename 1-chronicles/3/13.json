@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 3:13",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "അഹാസ് അവന്റെ മകൻ, ഹിസ്കിയാഹു അവന്റെ മകൻ, മനശ്ശെ അവന്റെ മകൻ.",
+  "tokens": [
+    {
+      "surface": "אחז",
+      "gloss": "അഹാസ്"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "അവന്റെ മകൻ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ഹിസ്കിയാഹു"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "അവന്റെ മകൻ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "മനശ്ശെ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "അവന്റെ മകൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:48:35.135377096Z",
+  "model": "glm-5.3"
+}

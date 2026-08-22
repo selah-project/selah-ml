@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 5:28",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 5,
+  "translation": "കെഹാതിന്റെ പുത്രന്മാർ: അംറാം, യിത്സഹാർ, ഹെബ്രോൺ, ഉസ്സീയേൽ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "കെഹാതിന്റെ"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "അംറാം"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "യിത്സഹാർ"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "ഹെബ്രോൺ"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "ഉസ്സീയേൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:49:53.884870583Z",
+  "model": "glm-5.3"
+}

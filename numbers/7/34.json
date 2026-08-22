@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 7:34",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ആടുകളുടെ ഒരു കൊറ്റൻ — പാപയാഗത്തിനു.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "കൊറ്റൻ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ആടുകളുടെ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ഒരു"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "പാപയാഗത്തിനു"
+    }
+  ],
+  "timestamp": "2026-08-22T10:22:52.105000577Z",
+  "model": "glm-5.3"
+}

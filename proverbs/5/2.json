@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 5:2",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 5,
+  "translation": "വിവേകം കാക്കാനും വിജ്ഞാനം നിന്റെ അധരങ്ങൾ കാക്കാനും.",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "കാക്കാനും"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "വിവേകം"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "വിജ്ഞാനം"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "നിന്റെ അധരങ്ങൾ"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "കാക്കും"
+    }
+  ],
+  "timestamp": "2026-08-22T16:29:19.466772928Z",
+  "model": "glm-5.3"
+}

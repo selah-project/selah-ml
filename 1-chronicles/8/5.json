@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 8:5",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 8,
+  "translation": "ഗേരായും ശെഫൂഫാനും ഹുരാമും",
+  "tokens": [
+    {
+      "surface": "וגרא",
+      "gloss": "ഗേരായും"
+    },
+    {
+      "surface": "ושפופן",
+      "gloss": "ശെഫൂഫാനും"
+    },
+    {
+      "surface": "וחורם",
+      "gloss": "ഹുരാമും"
+    }
+  ],
+  "timestamp": "2026-08-22T17:50:31.618259613Z",
+  "model": "glm-5.3"
+}

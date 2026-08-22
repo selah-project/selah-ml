@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 39,
+  "translation": "മൂന്നാമത്തെ വരി: ലെശെം, ശെബോ, അഖ്ലാമാ.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "വരി"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "മൂന്നാമത്തെ"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ലെശെം"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ശെബോ"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "അഖ്ലാമാ"
+    }
+  ],
+  "timestamp": "2026-08-22T09:42:13.049624465Z",
+  "model": "glm-5.3"
+}

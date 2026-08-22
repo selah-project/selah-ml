@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "നീതിമാന്റെ ഫലം ജീവന്റെ വൃക്ഷം; നെഫെശുകളെ നേടുന്നവൻ ജ്ഞാനി.",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "ഫലം"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "നീതിമാന്റെ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "വൃക്ഷം"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ജീവന്റെ"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "നേടുന്നവൻ"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "നെഫെശുകളെ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ജ്ഞാനി"
+    }
+  ],
+  "timestamp": "2026-08-22T16:33:03.068871711Z",
+  "model": "glm-5.3"
+}

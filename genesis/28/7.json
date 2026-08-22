@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 28,
+  "translation": "യാക്കോവ് അച്ഛന്റെ വാക്കും അമ്മയുടെ വാക്കും അനുസരിച്ചു, പദ്ദാൻ അരാമിലേക്ക് പോയി.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "അനുസരിച്ചു"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "യാക്കോവ്"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "അച്ഛന്റെ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ഉം"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "അമ്മയുടെ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "പോയി"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "പദ്ദാൻ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "അരാം"
+    }
+  ],
+  "timestamp": "2026-08-22T08:35:46.971759477Z",
+  "model": "glm-5.3"
+}

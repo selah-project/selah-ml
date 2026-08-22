@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "കരയാൻ ഒരു കാലം, ചിരിക്കാൻ ഒരു കാലം; വിലപിടിക്കാൻ ഒരു കാലം, നൃത്തം ചെയ്യാൻ ഒരു കാലം.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ഒരു കാലം"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "കരയാൻ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ഒരു കാലം"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "ചിരിക്കാൻ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ഒരു കാലം"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "വിലപിടിക്കാൻ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ഒരു കാലം"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "നൃത്തം ചെയ്യാൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:12:08.324675154Z",
+  "model": "glm-5.3"
+}

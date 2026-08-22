@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "⟨את⟩ വാഹ്‌ഏവാലിനെയും ⟨את⟩ അവിമാഏലിനെയും ⟨את⟩ ശെബായെയും ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ വാഹ്‌ഏവാലിനെയും",
+      "marks": "ഏവാൽ"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "ഏവാലിനെയും"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "അവിമാഏൽ"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "അവിമാഏലിനെയും"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ശെബാ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ശെബായെയും"
+    }
+  ],
+  "timestamp": "2026-08-22T17:46:25.994853254Z",
+  "model": "glm-5.3"
+}

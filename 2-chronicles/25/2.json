@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 25:2",
+  "book": "2-chronicles",
+  "lang": "ml",
+  "chapter": 25,
+  "translation": "യാഹ്‌വെയുടെ കണ്ണുകളിൽ നേരായതു അവൻ ചെയ്തു — പക്ഷേ പൂർണ്ണഹൃദയത്തോടെ അല്ല.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ചെയ്തു"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "നേരായതു"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "കണ്ണുകളിൽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "പക്ഷേ മാത്രം"
+    },
+    {
+      "surface": "לא",
+      "gloss": "അല്ല"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "ഹൃദയത്തോടെ"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "പൂർണ്ണ"
+    }
+  ],
+  "timestamp": "2026-08-22T18:19:50.952946402Z",
+  "model": "glm-5.3"
+}

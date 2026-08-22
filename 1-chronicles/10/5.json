@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "അവന്റെ ആയുധവാഹകൻ ശാവൂൽ മരിച്ചുവെന്നു കണ്ടു; അവനും വാളിൽ വീണു മരിച്ചു.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "കണ്ടു"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "വാഹകൻ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "അവന്റെ ആയുധങ്ങൾ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "എന്നു"
+    },
+    {
+      "surface": "מת",
+      "gloss": "മരിച്ചു"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ശാവൂൽ"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "വീണു"
+    },
+    {
+      "surface": "גם",
+      "gloss": "അവനും"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "അവൻ"
+    },
+    {
+      "surface": "על",
+      "gloss": "വാളിൽ"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "വാൾ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "മരിച്ചു"
+    }
+  ],
+  "timestamp": "2026-08-22T17:53:40.677441302Z",
+  "model": "glm-5.3"
+}

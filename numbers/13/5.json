@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 13:5",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 13,
+  "translation": "ശിമ്ഓൻ ഗോത്രത്തിന്റെ ⟨സന്തതിയിൽ⟩ — ശാഫാത്ത്, ഹോരിയുടെ മകൻ.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ഗോത്രത്തിന്റെ സന്തതിയിൽ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ശിമ്ഓൻ"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ശാഫാത്ത്"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "ഹോരി"
+    }
+  ],
+  "timestamp": "2026-08-22T10:28:24.743920392Z",
+  "model": "glm-5.3"
+}

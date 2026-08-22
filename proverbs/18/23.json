@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 18:23",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 18,
+  "translation": "ദരിദ്രൻ അപേക്ഷകൾ ഉയർത്തും; ധനികൻ കഠിനതയോടെ മറുപടി പറയും.",
+  "tokens": [
+    {
+      "surface": "תחנונים",
+      "gloss": "അപേക്ഷകൾ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "പറയും"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ദരിദ്രൻ"
+    },
+    {
+      "surface": "ועשיר",
+      "gloss": "ധനികനാകട്ടെ"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "മറുപടി പറയും"
+    },
+    {
+      "surface": "עזות",
+      "gloss": "കഠിനതയോടെ"
+    }
+  ],
+  "timestamp": "2026-08-22T16:35:41.585463250Z",
+  "model": "glm-5.3"
+}

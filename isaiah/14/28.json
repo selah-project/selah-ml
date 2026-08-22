@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "ml",
+  "chapter": 14,
+  "translation": "അരചൻ അഹാസ് മരിച്ച ആണ്ടിൽ ഈ ഭാരം ഉണ്ടായിരുന്നു.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ആണ്ടിൽ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "മരിച്ച"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "അരചൻ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "അഹാസ്"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ഉണ്ടായിരുന്നു"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "ഭാരം"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ഈ"
+    }
+  ],
+  "timestamp": "2026-08-22T13:26:54.430364646Z",
+  "model": "glm-5.3"
+}

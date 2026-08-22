@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "എന്തു രക്തം തിന്നുന്ന ഏതു നെഫെശും — ആ നെഫെശ് തന്റെ ജനത്തിൽ നിന്നു ഛേദിക്കപ്പെടും.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ഏതു"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "നെഫെശും"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ആ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "തിന്നുന്ന"
+    },
+    {
+      "surface": "כל",
+      "gloss": "എന്തു"
+    },
+    {
+      "surface": "דם",
+      "gloss": "രക്തം"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "ഛേദിക്കപ്പെടും"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "നെഫെശ്"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ആ"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "തന്റെ ജനത്തിൽ നിന്നു"
+    }
+  ],
+  "timestamp": "2026-08-22T09:50:36.005419569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 15:12",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 15,
+  "translation": "നീ നിന്റെ വലങ്കൈ നീട്ടി; ഭൂമി അവരെ വിഴുങ്ങി.",
+  "tokens": [
+    {
+      "surface": "נטית",
+      "gloss": "നീ നീട്ടി"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "നിന്റെ വലങ്കൈ"
+    },
+    {
+      "surface": "תבלעמו",
+      "gloss": "വിഴുങ്ങി"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ഭൂമി"
+    }
+  ],
+  "timestamp": "2026-08-22T09:12:15.018071366Z",
+  "model": "glm-5.3"
+}

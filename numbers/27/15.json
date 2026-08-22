@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 27:15",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 27,
+  "translation": "മോശെ യാഹ്‌വെയോട് അരുളുവാൻ കൊണ്ട് സംസാരിച്ചു.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "സംസാരിച്ചു"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "യാഹ്‌വെയോട്"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "അരുളുവാൻ കൊണ്ട്"
+    }
+  ],
+  "timestamp": "2026-08-22T10:46:36.309750718Z",
+  "model": "glm-5.3"
+}

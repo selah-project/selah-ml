@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "ml",
+  "chapter": 42,
+  "translation": "തെക്കേ ദിക്ക് ⟨את⟩ അളന്നു — അഞ്ഞൂറ് കോൽ, അളവുകോലിൽക്കൊണ്ട്.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "തെക്കേ ദിക്ക്"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ദിക്ക്"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "തെക്കേ"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "അളന്നു"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "അഞ്ഞൂറ്"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "קנים",
+      "gloss": "കോൽ"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "കോലിൽക്കൊണ്ട്"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "അളവ്"
+    }
+  ],
+  "timestamp": "2026-08-22T15:04:40.862118168Z",
+  "model": "glm-5.3"
+}

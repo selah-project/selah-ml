@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 4:34",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 4,
+  "translation": "മെഷോബാവ്, യാമ്‌ലെഖ്, അമത്‌സ്യാഹിന്റെ മകൻ യോശാഹ് എന്നിവരും.",
+  "tokens": [
+    {
+      "surface": "ומשובב",
+      "gloss": "മെഷോബാവ്"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "യാമ്‌ലെഖ്"
+    },
+    {
+      "surface": "ויושה",
+      "gloss": "യോശാഹ്"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "അമത്‌സ്യാഹ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:49:05.582038481Z",
+  "model": "glm-5.3"
+}

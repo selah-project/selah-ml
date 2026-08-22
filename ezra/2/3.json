@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "പരോശിന്റെ മക്കൾ — രണ്ടായിരം നൂറ്റി എഴുപത്തിരണ്ട്.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "പരോശിന്റെ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "രണ്ടായിരം"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "നൂറ്റി"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "എഴുപത്തി"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "രണ്ട്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:31:19.269208988Z",
+  "model": "glm-5.3"
+}

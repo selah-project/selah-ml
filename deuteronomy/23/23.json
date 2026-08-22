@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 23,
+  "translation": "നീ നേർച്ച നേരുന്നതു വിട്ടുമാറിയാൽ നിന്നിൽ പാപം ഉണ്ടായിരിക്കയില്ല",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "എന്നാൽ"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "വിട്ടുമാറിയാൽ"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "നേർച്ച നേരുന്നതു"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ഉണ്ടായിരിക്ക"
+    },
+    {
+      "surface": "בך",
+      "gloss": "നിന്നിൽ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "പാപം"
+    }
+  ],
+  "timestamp": "2026-08-22T11:14:42.869539561Z",
+  "model": "glm-5.3"
+}

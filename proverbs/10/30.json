@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "നീതിമാൻ എന്നും ഇളകില്ല; എന്നാൽ ദുഷ്ടർ ഭൂമിയിൽ വസിക്കില്ല.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "നീതിമാൻ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "എന്നും"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ഇളകും"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "എന്നാൽ ദുഷ്ടർ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "വസിക്കും"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ഭൂമിയിൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T16:31:29.670249132Z",
+  "model": "glm-5.3"
+}

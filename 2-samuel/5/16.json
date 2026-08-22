@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 5:16",
+  "book": "2-samuel",
+  "lang": "ml",
+  "chapter": 5,
+  "translation": "എലീശാമഅ്, എലീയാദഅ്, എലീപ്പാലെറ്റ്.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "എലീശാമഅ്"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "എലീയാദഅ്"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "എലീപ്പാലെറ്റ്"
+    }
+  ],
+  "timestamp": "2026-08-22T12:25:01.036092780Z",
+  "model": "glm-5.3"
+}

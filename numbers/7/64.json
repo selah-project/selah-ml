@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 7:64",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "പാപാർപ്പണത്തിന് ആൺകുട്ടികളിൽ ഒന്ന്.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ആൺകുട്ടികളിൽ ഒന്ന്"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ആടുകളുടെ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": ""
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "പാപാർപ്പണത്തിന്"
+    }
+  ],
+  "timestamp": "2026-08-22T10:25:20.318654128Z",
+  "model": "glm-5.3"
+}

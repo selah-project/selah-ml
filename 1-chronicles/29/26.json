@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 29:26",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 29,
+  "translation": "യിഷായിയുടെ മകൻ ദാവീദ് യിസ്രായേലിന്റെ എല്ലാവരുടെയും മേൽ രാജാവായി ഭരണം ചെയ്തു.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "ദാവീദ്"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "യിഷായിയുടെ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ഭരണം ചെയ്തു"
+    },
+    {
+      "surface": "על",
+      "gloss": "മേൽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "എല്ലാ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "യിസ്രായേലിന്റെ"
+    }
+  ],
+  "timestamp": "2026-08-22T18:03:01.132997084Z",
+  "model": "glm-5.3"
+}

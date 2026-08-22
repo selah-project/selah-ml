@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 105,
+  "translation": "അവൻ തന്റെ ദാസനായ മോശെയെയും താൻ തിരഞ്ഞെടുത്ത അഹരോനെയും അയച്ചു.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "അയച്ചു"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "തന്റെ ദാസൻ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "അഹരോൻ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ആയ"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "തിരഞ്ഞെടുത്ത"
+    },
+    {
+      "surface": "בו",
+      "gloss": "അവനെ"
+    }
+  ],
+  "timestamp": "2026-08-22T16:14:34.912424768Z",
+  "model": "glm-5.3"
+}

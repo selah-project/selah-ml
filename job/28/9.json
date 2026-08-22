@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 28:9",
+  "book": "job",
+  "lang": "ml",
+  "chapter": 28,
+  "translation": "ഖനീയ പാറയിൽ അവൻ കൈ നീട്ടി; മലകളെ വേരോടെ മറിച്ചു.",
+  "tokens": [
+    {
+      "surface": "בחלמיש",
+      "gloss": "ഖനീയ പാറയിൽ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "നീട്ടി"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "കൈ"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "മറിച്ചു"
+    },
+    {
+      "surface": "משרש",
+      "gloss": "വേരോടെ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "മലകളെ"
+    }
+  ],
+  "timestamp": "2026-08-22T16:53:09.430187452Z",
+  "model": "glm-5.3"
+}

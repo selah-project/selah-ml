@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 1:27",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "അവ്രാം — അവൻ ⟨ആണ്⟩ അവ്രാഹാം.",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "അവ്രാം"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "അവൻ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "അവ്രാഹാം"
+    }
+  ],
+  "timestamp": "2026-08-22T17:46:22.365186441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 33,
+  "translation": "കാരണം അവൻ പറഞ്ഞു — അതു ഉണ്ടായി; അവൻ കൽപ്പിച്ചു — അതു നിലകൊണ്ടു.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "കാരണം"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "അവൻ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "പറഞ്ഞു"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "അതു ഉണ്ടായി"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "അവൻ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "കൽപ്പിച്ചു"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "അതു നിലകൊണ്ടു"
+    }
+  ],
+  "timestamp": "2026-08-22T15:48:30.108884Z",
+  "model": "glm-5.3"
+}

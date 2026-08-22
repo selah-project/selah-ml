@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "മകനേ, പാപികൾ നിന്നെ വശീകരിച്ചാൽ, സമ്മതിക്കരുത്.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "മകനേ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "എങ്കിൽ"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "വശീകരിച്ചാൽ"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "പാപികൾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "വേണ്ട"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "സമ്മതിക്കരുത്"
+    }
+  ],
+  "timestamp": "2026-08-22T16:26:25.324980011Z",
+  "model": "glm-5.3"
+}

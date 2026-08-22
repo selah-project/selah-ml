@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 7:15",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ബിന്നൂവിന്റെ പുത്രന്മാർ — അറുനൂറ്റി നാപ്പത്തെട്ട്.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "ബിന്നൂവിന്റെ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ആറ്"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "നൂറുകൾ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "നാപ്പത്"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "എട്ട്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:41:47.618077887Z",
+  "model": "glm-5.3"
+}

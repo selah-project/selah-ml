@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 6:23",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "കാരണം കല്പന ⟨is⟩ വിളക്ക്, തോറ ⟨is⟩ വെളിച്ചം, ജീവപഥം ⟨is⟩ ശിക്ഷണത്തിന്റെ തിരുത്തലുകൾ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "കാരണം"
+    },
+    {
+      "surface": "נר",
+      "gloss": "വിളക്ക്"
+    },
+    {
+      "surface": "ധత్స—מצוה",
+      "gloss": "കല്പന"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "തോറ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "വെളിച്ചം"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "വഴി"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ജീവന്റെ"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "തിരുത്തലുകൾ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ശിക്ഷണത്തിന്റെ"
+    }
+  ],
+  "timestamp": "2026-08-22T16:29:57.093221559Z",
+  "model": "glm-5.3"
+}

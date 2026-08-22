@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 21:1",
+  "book": "job",
+  "lang": "ml",
+  "chapter": 21,
+  "translation": "അപ്പോൾ അയ്യോബ് ഉത്തരം പറഞ്ഞു:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ഉത്തരം പറഞ്ഞു"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "അയ്യോബ്"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "പറഞ്ഞു"
+    }
+  ],
+  "timestamp": "2026-08-22T16:52:02.645806356Z",
+  "model": "glm-5.3"
+}

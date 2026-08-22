@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 1:2",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "കേനാൻ, മഹലലേൽ, യെരെദ്,",
+  "tokens": [
+    {
+      "surface": "קינן",
+      "gloss": "കേനാൻ"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "മഹലലേൽ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "യെരെദ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:46:21.771701373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 1:54",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "അലൂഫ് മഗ്ദിയേൽ, അലൂഫ് ഇരാം — ഇവർ ⟨ആണ്⟩ എദോമിന്റെ അലൂഫുകൾ.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "അലൂഫ്"
+    },
+    {
+      "surface": "מגדיאל",
+      "gloss": "മഗ്ദിയേൽ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "അലൂഫ്"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "ഇരാം"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ഇവർ"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "അലൂഫുകൾ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "എദോമിന്റെ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:46:18.183668956Z",
+  "model": "glm-5.3"
+}

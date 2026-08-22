@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "ml",
+  "chapter": 22,
+  "translation": "എന്റെ കൽപ്പനകൾ പാലിച്ച് ⟨את⟩ അവ പ്രവർത്തിക്കുവിൻ; ഞാൻ യാഹ്‌വെ.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "പാലിച്ച്"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "എന്റെ കൽപ്പനകൾ"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "പ്രവർത്തിക്കുവിൻ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "അവ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ഞാൻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    }
+  ],
+  "timestamp": "2026-08-22T10:07:36.186490245Z",
+  "model": "glm-5.3"
+}

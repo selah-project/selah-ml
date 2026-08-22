@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 16:19",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 16,
+  "translation": "മോശെ അവരോട് പറഞ്ഞു: ആരും അതിൽ നിന്ന് പുറത്തിടരുത് പ്രഭാതം വരെ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "പറഞ്ഞു"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "അവരോട്"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ആരും"
+    },
+    {
+      "surface": "אל",
+      "gloss": "അരുത്"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "പുറത്തിടരുത്"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "അതിൽ നിന്ന്"
+    },
+    {
+      "surface": "עד",
+      "gloss": "വരെ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "പ്രഭാതം"
+    }
+  ],
+  "timestamp": "2026-08-22T09:17:05.095236080Z",
+  "model": "glm-5.3"
+}

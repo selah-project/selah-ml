@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 18:27",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 18,
+  "translation": "റെകെം, യിർപ്വെഏൽ, തരാല —",
+  "tokens": [
+    {
+      "surface": "ורקם",
+      "gloss": "റെകെം"
+    },
+    {
+      "surface": "וירפאל",
+      "gloss": "യിർപ്വെഏൽ"
+    },
+    {
+      "surface": "ותראלה",
+      "gloss": "തരാല"
+    }
+  ],
+  "timestamp": "2026-08-22T11:33:42.145922530Z",
+  "model": "glm-5.3"
+}

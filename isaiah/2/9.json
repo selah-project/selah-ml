@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "മനുഷ്യൻ കുനിഞ്ഞു, പുരുഷൻ താഴ്ന്നു — അവർക്ക് ⟨ക്ഷമ⟩ ചെയ്യരുത്.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "കുനിഞ്ഞു"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "മനുഷ്യൻ"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "താഴ്ന്നു"
+    },
+    {
+      "surface": "איש",
+      "gloss": "പുരുഷൻ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "വേണ്ട"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ചുമക്കരുത്"
+    },
+    {
+      "surface": "להם",
+      "gloss": "അവർക്ക്"
+    }
+  ],
+  "timestamp": "2026-08-22T13:18:45.784666340Z",
+  "model": "glm-5.3"
+}

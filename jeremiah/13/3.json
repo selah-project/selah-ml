@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 13:3",
+  "book": "jeremiah",
+  "lang": "ml",
+  "chapter": 13,
+  "translation": "വീണ്ടും യാഹ്‌വെയുടെ വചനം എനിക്കു രണ്ടാം തവണ വന്നു, അരുളുന്നതു:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "വന്നു"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "വചനം"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെയുടെ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "എനിക്കു"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "രണ്ടാം തവണ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "അരുളുന്നതു"
+    }
+  ],
+  "timestamp": "2026-08-22T14:07:24.980240011Z",
+  "model": "glm-5.3"
+}

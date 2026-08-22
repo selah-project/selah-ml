@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 24:23",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 24,
+  "translation": "ഇവയും ജ്ഞാനികൾക്കുള്ളവ ⟨are⟩; വിധിയിൽ മുഖം തിരിച്ചറിയുന്നത് നല്ലതല്ല.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ഇവയും"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ഇവ…"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "ജ്ഞാനികൾക്കുള്ളവ"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "തിരിച്ചറിയുന്നത്"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "മുഖം"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "വിധിയിൽ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "…അല്ല"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "നല്ലത്"
+    }
+  ],
+  "timestamp": "2026-08-22T16:38:40.869965913Z",
+  "model": "glm-5.3"
+}

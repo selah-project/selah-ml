@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 24:13",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 24,
+  "translation": "പതിമൂന്നാമത് ഹുപ്പായ്ക്ക്, പതിനാലാമത് യിശെബെആവിന്.",
+  "tokens": [
+    {
+      "surface": "לחפה",
+      "gloss": "ഹുപ്പായ്ക്ക്"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "മൂന്ന്"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "പതിമൂന്നാമത്"
+    },
+    {
+      "surface": "לישבאב",
+      "gloss": "യിശെബെആവിന്"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "നാല്"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "പതിനാലാമത്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:59:40.311781468Z",
+  "model": "glm-5.3"
+}

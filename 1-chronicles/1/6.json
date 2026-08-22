@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "ഗോമെരിന്റെ മക്കൾ: അശ്കെനാസ്, ദീഫത്, തോഗർമാ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ഗോമെരിന്റെ"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "അശ്കെനാസ്"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "ദീഫത്"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "തോഗർമാ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:46:35.850777617Z",
+  "model": "glm-5.3"
+}

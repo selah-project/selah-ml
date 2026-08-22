@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "nehemiah 7:40",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ഇമ്മേരിന്റെ പുത്രന്മാർ — ആയിരം അമ്പത്തി രണ്ട്.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ഇമ്മേരിന്റെ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ആയിരം"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "അമ്പത്തി"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "രണ്ട്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:42:13.964752055Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "ശമ്മായിന്റെ മകൻ ⟨ആയിരുന്നു⟩ മാഓൻ; മാഓൻ ബേത്-സൂരിന്റെ പിതാവ് ⟨ആയിരുന്നു⟩.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ശമ്മായ്"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "മാഓൻ"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "മാഓൻ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "പിതാവ്"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ബേത്"
+    },
+    {
+      "surface": "צור",
+      "gloss": "സൂർ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:47:12.488829197Z",
+  "model": "glm-5.3"
+}

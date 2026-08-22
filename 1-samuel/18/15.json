@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "ml",
+  "chapter": 18,
+  "translation": "അവൻ വളരെ വിവേകി ആണെന്നു ശവൂൽ കണ്ടു; അവനെ അവൻ ഭയന്നു.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "കണ്ടു"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ശവൂൽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "എന്നു"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "അവൻ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "വിവേകി"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "വളരെ"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "ഭയന്നു"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "അവനെ"
+    }
+  ],
+  "timestamp": "2026-08-22T12:12:28.118872719Z",
+  "model": "glm-5.3"
+}

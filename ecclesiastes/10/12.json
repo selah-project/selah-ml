@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "ജ്ഞാനിയുടെ വാക്കുകൾ അനുഗ്രഹമാണ്; മണ്ടന്റെ ഉത്തുംഗങ്ങൾ ⟨അവനെ⟩ വിഴുങ്ങും.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "വാക്കുകൾ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "വായിലെ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ജ്ഞാനിയുടെ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "അനുഗ്രഹം"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "ഉത്തുംഗങ്ങൾ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "മണ്ടന്റെ"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "വിഴുങ്ങും"
+    }
+  ],
+  "timestamp": "2026-08-22T17:13:31.130195701Z",
+  "model": "glm-5.3"
+}

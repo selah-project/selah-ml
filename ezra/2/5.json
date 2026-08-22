@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "അരഖിന്റെ പുത്രന്മാർ — എഴുനൂറ്റി എഴുപത്തഞ്ചു്.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "അരഖിന്റെ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "എഴു"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "നൂറ്റി"
+    },
+    {
+      "surface": "ഗמשה",
+      "gloss": "അഞ്ചു്"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "എഴുപത്തിന്റെ കൂടെ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:30:44.941948216Z",
+  "model": "glm-5.3"
+}

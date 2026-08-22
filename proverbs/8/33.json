@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 8:33",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 8,
+  "translation": "ശിക്ഷണം കേൾക്കുക, ജ്ഞാനികളാകുക, അത് നിരസിക്കരുത്.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "കേൾക്കുക"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ശിക്ഷണം"
+    },
+    {
+      "surface": "וחכמו",
+      "gloss": "ജ്ഞാനികളാകുക"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "വേണ്ട"
+    },
+    {
+      "surface": "תפרעו",
+      "gloss": "നിരസിക്കരുത്"
+    }
+  ],
+  "timestamp": "2026-08-22T16:30:17.595912768Z",
+  "model": "glm-5.3"
+}

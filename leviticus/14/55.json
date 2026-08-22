@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "ml",
+  "chapter": 14,
+  "translation": "വസ്ത്രത്തിന്റെ ചർമ്മരോഗത്തിനും വീടിന്റെയും:",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "ചർമ്മരോഗത്തിനും"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "വസ്ത്രത്തിന്റെ"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "വീടിന്റെയും"
+    }
+  ],
+  "timestamp": "2026-08-22T09:57:34.558901266Z",
+  "model": "glm-5.3"
+}

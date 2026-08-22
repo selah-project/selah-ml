@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "nehemiah 7:44",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "പാട്ടുകാർ: ആസാഫിന്റെ പുത്രന്മാർ — നൂറ്റിനാല്പത്തിയെട്ടുപേർ.",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "പാട്ടുകാർ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ആസാഫിന്റെ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "നൂറ്"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "നാല്പത്"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "എട്ട്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:41:52.964769377Z",
+  "model": "glm-5.3"
+}

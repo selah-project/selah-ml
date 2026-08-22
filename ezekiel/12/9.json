@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 12:9",
+  "book": "ezekiel",
+  "lang": "ml",
+  "chapter": 12,
+  "translation": "മനുഷ്യപുത്രാ, കലാപവീടായ യിസ്രായേൽ വീട് നിന്നോട് പറഞ്ഞില്ലേ — നീ എന്തു ചെയ്യുന്നു?",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "പുത്രാ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "മനുഷ്യ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "അല്ലേ"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "പറഞ്ഞില്ലേ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "നിന്നോട്"
+    },
+    {
+      "surface": "בית",
+      "gloss": "വീട്"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "യിസ്രായേൽ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "വീട്"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "കലാപ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "എന്തു"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "നീ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ചെയ്യുന്നു"
+    }
+  ],
+  "timestamp": "2026-08-22T14:40:56.951606426Z",
+  "model": "glm-5.3"
+}

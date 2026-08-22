@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 8:20",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 8,
+  "translation": "എല്യെനായ്, സില്ലെതായ്, എല്യെഏൽ.",
+  "tokens": [
+    {
+      "surface": "ואליעני",
+      "gloss": "എല്യെനായ്"
+    },
+    {
+      "surface": "וצלתי",
+      "gloss": "സില്ലെതായ്"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "എല്യെഏൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:50:09.776280516Z",
+  "model": "glm-5.3"
+}

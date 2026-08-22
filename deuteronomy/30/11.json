@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 30:11",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 30,
+  "translation": "ഞാൻ ഇന്നു നിനക്കു കല്പിക്കുന്ന ഈ കല്പന നിന്നിൽനിന്നു അത്ഭുതകരമല്ല, ദൂരെയുമല്ല.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "കാരണം"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "കല്പന"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ഈ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ഏതെന്നോ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ഞാൻ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "നിനക്കു കല്പിക്കുന്ന"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ഇന്നു"
+    },
+    {
+      "surface": "לא",
+      "gloss": "അല്ല"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "അത്ഭുതകരമായ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "അതു"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "നിന്നിൽനിന്നു"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "അല്ല"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "ദൂരെയുമായ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "അതു"
+    }
+  ],
+  "timestamp": "2026-08-22T11:20:01.750193123Z",
+  "model": "glm-5.3"
+}

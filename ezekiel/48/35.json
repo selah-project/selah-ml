@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 48:35",
+  "book": "ezekiel",
+  "lang": "ml",
+  "chapter": 48,
+  "translation": "ചുറ്റും പതിനെട്ടായിരം; ആ ദിവസം മുതൽ നഗരത്തിന്റെ പേര്: യാഹ്‌വെ ⟨is⟩ അവിടെ.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "ചുറ്റും"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "എട്ട്"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "പത്ത്"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ആയിരം"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "പേര്"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "നഗരത്തിന്റെ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ആ ദിവസം മുതൽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "അവിടെ"
+    }
+  ],
+  "timestamp": "2026-08-22T15:09:50.596103227Z",
+  "model": "glm-5.3"
+}

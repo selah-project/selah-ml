@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "⟨את⟩ എല്ലാ കാക്കയെയും അതിന്റെ വർഗ്ഗത്തോടെ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "എല്ലാ കാക്കയെയും"
+    },
+    {
+      "surface": "כל",
+      "gloss": "എല്ലാ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "കാക്ക"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "അതിന്റെ വർഗ്ഗത്തോടെ"
+    }
+  ],
+  "timestamp": "2026-08-22T09:52:32.791442026Z",
+  "model": "glm-5.3"
+}

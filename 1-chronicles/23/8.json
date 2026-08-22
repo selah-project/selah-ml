@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 23,
+  "translation": "ലഅ്ദാന്റെ പുത്രന്മാർ — പ്രധാനൻ യെഹിയേൽ, സേതാം, യോഎൽ; മൂന്നു പേർ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "ലഅ്ദാന്റെ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "പ്രധാനൻ"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "യെഹിയേൽ"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "സേതാം"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "യോഎൽ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "മൂന്നു പേർ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:59:33.151083596Z",
+  "model": "glm-5.3"
+}

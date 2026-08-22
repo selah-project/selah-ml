@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "ml",
+  "chapter": 34,
+  "translation": "അതിനാൽ ഇടയന്മാരേ, കേൾക്കുവിൻ യാഹ്‌വെയുടെ വചനം —",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "അതിനാൽ"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ഇടയന്മാരേ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "കേൾക്കുവിൻ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "വചനം"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    }
+  ],
+  "timestamp": "2026-08-22T14:58:25.705010563Z",
+  "model": "glm-5.3"
+}

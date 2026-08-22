@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 15:22",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 15,
+  "translation": "കീനാ, ദിമോനാ, അദാദാ —",
+  "tokens": [
+    {
+      "surface": "וקינה",
+      "gloss": "കീനാ"
+    },
+    {
+      "surface": "ודימונה",
+      "gloss": "ദിമോനാ"
+    },
+    {
+      "surface": "ועדעדה",
+      "gloss": "അദാദാ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:33:23.770362405Z",
+  "model": "glm-5.3"
+}

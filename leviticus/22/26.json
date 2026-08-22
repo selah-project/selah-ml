@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 22:26",
+  "book": "leviticus",
+  "lang": "ml",
+  "chapter": 22,
+  "translation": "യാഹ്‌വെ മോശെയോട് അരുളീട്ടു, പറയുന്നതു:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "അരുളീട്ടു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "മോശെയോട്"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയുന്നതു"
+    }
+  ],
+  "timestamp": "2026-08-22T10:07:47.707279935Z",
+  "model": "glm-5.3"
+}

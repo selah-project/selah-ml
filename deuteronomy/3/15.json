@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "മാഖീരിന് ഞാൻ ⟨את⟩ ഗില്യാദ് കൊടുത്തു.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "മാഖീരിന്"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ഞാൻ കൊടുത്തു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ഗില്യാദിനെ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ഗില്യാദ്"
+    }
+  ],
+  "timestamp": "2026-08-22T10:57:41.746393495Z",
+  "model": "glm-5.3"
+}

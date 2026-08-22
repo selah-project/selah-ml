@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 3:19",
+  "book": "lamentations",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "ഓർക്കുക എന്റെ ദുരിതം, എന്റെ അലയലും, നഞ്ചുപുല്ലും വിഷവും.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ഓർക്കുക"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "എന്റെ ദുരിതം"
+    },
+    {
+      "surface": "ומרודי",
+      "gloss": "എന്റെ അലയലും"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "നഞ്ചുപുല്ല്"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "വിഷവും"
+    }
+  ],
+  "timestamp": "2026-08-22T17:08:05.289138622Z",
+  "model": "glm-5.3"
+}

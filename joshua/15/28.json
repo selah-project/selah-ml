@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 15:28",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 15,
+  "translation": "ഹസർ-ഷുവാൽ, ബെയെർ-ഷെവാ, ബിസ്യോത്യാഹ്;",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "ഹസർ"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "ഷുവാൽ"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "ബെയെർ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ഷെവാ"
+    },
+    {
+      "surface": "ובזיותיה",
+      "gloss": "ബിസ്യോത്യാഹ്"
+    }
+  ],
+  "timestamp": "2026-08-22T11:33:21.136762419Z",
+  "model": "glm-5.3"
+}

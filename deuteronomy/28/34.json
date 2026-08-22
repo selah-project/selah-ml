@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 28:34",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 28,
+  "translation": "നിന്റെ കണ്ണുകൾ കാണുന്ന കാഴ്ചകൊണ്ട് നീ ഭ്രാന്തൻ ആയിത്തീരും.",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "നീ ആയിത്തീരും"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "ഭ്രാന്തൻ"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "കാഴ്ചകൊണ്ട്"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "നിന്റെ കണ്ണുകൾ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "അത്"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "കാണുന്ന"
+    }
+  ],
+  "timestamp": "2026-08-22T11:18:53.861274927Z",
+  "model": "glm-5.3"
+}

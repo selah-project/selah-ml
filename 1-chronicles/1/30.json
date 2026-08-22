@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 1:30",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "മിശ്മാ, ദുമാ, മാസ്സാ, ഹദാദ്, തെമാ.",
+  "tokens": [
+    {
+      "surface": "משמע",
+      "gloss": "മിശ്മാ"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "ദുമാ"
+    },
+    {
+      "surface": "משא",
+      "gloss": "മാസ്സാ"
+    },
+    {
+      "surface": "חדד",
+      "gloss": "ഹദാദ്"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "തെമാ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:46:26.943292302Z",
+  "model": "glm-5.3"
+}

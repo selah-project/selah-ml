@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "അദോരയിം ⟨את⟩-ഉം, ലഖീശ് ⟨את⟩-ഉം, അസേക്കാ ⟨את⟩-ഉം",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "അദോരയിം"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "അദോരയിം"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ലഖീശ്"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "ലഖീശ്"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "അസേക്കാ"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "അസേക്കാ"
+    }
+  ],
+  "timestamp": "2026-08-22T18:08:35.186223894Z",
+  "model": "glm-5.3"
+}

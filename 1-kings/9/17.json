@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "ml",
+  "chapter": 9,
+  "translation": "ശ്ലോമോ ⟨את⟩ ഗെസെറും ⟨את⟩ താഴ്ന്ന ബേത്-ഖോറോനും പണിതു.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "പണിതു"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ശ്ലോമോ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ഗെസെർ"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "ഗെസെർ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ബേത്-ഖോറോൻ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ബേത്"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "ഖോറോൻ"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "താഴ്ന്നത്"
+    }
+  ],
+  "timestamp": "2026-08-22T12:48:03.984969396Z",
+  "model": "glm-5.3"
+}

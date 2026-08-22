@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "കൂടാതെ ⟨את⟩ ഹദോരാമിനെയും ⟨את⟩ ഊസാലിനെയും ⟨את⟩ ദിക്ലായെയും.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ഹദോരാമിനെ"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "ഹദോരാം"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ഊസാലിനെ"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "ഊസാൽ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ദിക്ലായെ"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "ദിക്ലാ"
+    }
+  ],
+  "timestamp": "2026-08-22T08:20:11.719364012Z",
+  "model": "glm-5.3"
+}

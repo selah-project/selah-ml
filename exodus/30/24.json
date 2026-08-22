@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 30:24",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 30,
+  "translation": "കസ്സിയ അഞ്ഞൂറ് — വിശുദ്ധിയുടെ ശേഖെലിൽ — ഒലിവെണ്ണ ഒരു ഹീൻ.",
+  "tokens": [
+    {
+      "surface": "וקדה",
+      "gloss": "കസ്സിയ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "അഞ്ച്"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "നൂറ്"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ശേഖെലിൽ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "വിശുദ്ധിയുടെ"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "എണ്ണ"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ഒലിവ്"
+    },
+    {
+      "surface": "הין",
+      "gloss": "ഹീൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T09:30:21.924927311Z",
+  "model": "glm-5.3"
+}

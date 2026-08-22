@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 28:30",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 28,
+  "translation": "ഴിക്കിൻ കുട്ടങ്ങളിൽ ഒന്ന്, നിങ്ങളുടെ പൊറുതിക്കായി.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ഴിക്കിൻ കുട്ടം"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ഴികൾ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ഒന്ന്"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "പൊറുതിക്കായി"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "നിങ്ങളുടെ…മേൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T10:45:30.382897261Z",
+  "model": "glm-5.3"
+}

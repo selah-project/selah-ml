@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 2:33",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "യോനതാന്റെ മക്കൾ പെലെത്തും സാസായും; ഇവർ യെരഖ്മെലിന്റെ മക്കൾ ആയിരുന്നു.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "യോനതാന്റെ"
+    },
+    {
+      "surface": "פלת",
+      "gloss": "പെലെത്ത്"
+    },
+    {
+      "surface": "וזזא",
+      "gloss": "സാസാ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ഇവർ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ആയിരുന്നു"
+    },
+    {
+      "surface": "בני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "യെരഖ്മെലിന്റെ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:47:06.435515150Z",
+  "model": "glm-5.3"
+}

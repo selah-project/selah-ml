@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 19:5",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 19,
+  "translation": "സിക്ലാഗ്, ബെയിത്-ഹമ്മർക്കാവോത്, ഖത്സർ-സൂസാ എന്നിവയും,",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "സിക്ലാഗ്"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ബെയിത്"
+    },
+    {
+      "surface": "המרכבות",
+      "gloss": "ഹമ്മർക്കാവോത്"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "ഖത്സർ"
+    },
+    {
+      "surface": "סוסה",
+      "gloss": "സൂസാ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:34:15.978787209Z",
+  "model": "glm-5.3"
+}

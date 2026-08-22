@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 10:37",
+  "book": "ezra",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "മത്തന്യാഹ്, മത്തെനായ്, യാആസാവ്,",
+  "tokens": [
+    {
+      "surface": "מתניה",
+      "gloss": "മത്തന്യാഹ്"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "മത്തെനായ്"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "യാആസാവ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:36:13.679884880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "⟨את⟩ ഗത്തിനെയും ⟨את⟩ മാരേശായെയും ⟨את⟩ സിഫിനെയും.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ഗത്തിനെ"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ഗത്ത്"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "മാരേശായെ"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "മാരേശാ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "സിഫിനെ"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "സിഫ്"
+    }
+  ],
+  "timestamp": "2026-08-22T18:08:32.726140857Z",
+  "model": "glm-5.3"
+}

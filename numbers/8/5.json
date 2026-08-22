@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 8:5",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 8,
+  "translation": "യാഹ്‌വെ മോശെയോട് അരുളിച്ചെയ്തു:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "അരുളിച്ചെയ്തു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ഇതിനോട്"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറഞ്ഞുകൊണ്ട്"
+    }
+  ],
+  "timestamp": "2026-08-22T18:34:09.977927328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "ഖെത്സ്രോന്റെ മക്കൾ — അവന് ജനിച്ചവർ: ⟨את⟩ യെരഖ്മെലും ⟨את⟩ രാമും ⟨את⟩ കെലൂബായും.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ഖെത്സ്രോന്റെ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "ജനിച്ചവർ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "അവന്"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "യെരഖ്മെല്"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "യെരഖ്മെല്"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "രാം"
+    },
+    {
+      "surface": "רם",
+      "gloss": "രാം"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "കെലൂബായ്"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "കെലൂബായ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:47:10.235338601Z",
+  "model": "glm-5.3"
+}

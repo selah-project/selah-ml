@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 10:39",
+  "book": "ezra",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "ഉശെലെമ്യാഹ്, നാതാൻ, ഉഅദായാഹ് —",
+  "tokens": [
+    {
+      "surface": "ושלמיה",
+      "gloss": "ഉശെലെമ്യാഹ്"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "നാതാൻ"
+    },
+    {
+      "surface": "ועדיה",
+      "gloss": "ഉഅദായാഹ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:36:13.680215447Z",
+  "model": "glm-5.3"
+}

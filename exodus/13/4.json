@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 13,
+  "translation": "ഈ ദിവസം നിങ്ങൾ അബീബ് മാസത്തിൽ പുറപ്പെടുന്നു.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "ഈ ദിവസം"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "നിങ്ങൾ"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "പുറപ്പെടുന്നു"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "മാസത്തിൽ"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "അബീബ്"
+    }
+  ],
+  "timestamp": "2026-08-22T09:15:56.793240878Z",
+  "model": "glm-5.3"
+}

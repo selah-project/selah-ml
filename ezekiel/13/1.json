@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 13:1",
+  "book": "ezekiel",
+  "lang": "ml",
+  "chapter": 13,
+  "translation": "യാഹ്‌വെയുടെ വചനം എന്റെ അടുത്തേക്കു വന്നു, ⟨അവൻ⟩ പറയുന്നതു:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "വന്നു"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "വചനം"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെയുടെ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "എന്റെ അടുത്തേക്കു"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയുന്നതു"
+    }
+  ],
+  "timestamp": "2026-08-22T19:00:58.582949767Z",
+  "model": "glm-5.3"
+}

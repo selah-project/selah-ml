@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 18:26",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 18,
+  "translation": "മിസ്പെ, കെഫീര, മോസ —",
+  "tokens": [
+    {
+      "surface": "והמצפה",
+      "gloss": "മിസ്പെ"
+    },
+    {
+      "surface": "והכפירה",
+      "gloss": "കെഫീര"
+    },
+    {
+      "surface": "והמצה",
+      "gloss": "മോസ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:33:42.145777716Z",
+  "model": "glm-5.3"
+}

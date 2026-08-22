@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "ml",
+  "chapter": 4,
+  "translation": "വീണ്ടും, രണ്ടുപേർ ഒരുമിച്ചു കിടന്നാൽ അവർക്കു ചൂടുണ്ട്; ഒറ്റയാൾക്കോ എങ്ങനെ ചൂടാകും?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "വീണ്ടും"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ആയാൽ"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "കിടന്നാൽ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "രണ്ടുപേർ"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "ചൂടുണ്ട്"
+    },
+    {
+      "surface": "להם",
+      "gloss": "അവർക്ക്"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "ഒറ്റയാൾക്കോ"
+    },
+    {
+      "surface": "איך",
+      "gloss": "എങ്ങനെ"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "ചൂടാകും"
+    }
+  ],
+  "timestamp": "2026-08-22T17:11:48.001908430Z",
+  "model": "glm-5.3"
+}

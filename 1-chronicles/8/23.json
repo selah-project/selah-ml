@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 8:23",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 8,
+  "translation": "അവ്ദോൻ, സിക്രി, ഹാനാൻ.",
+  "tokens": [
+    {
+      "surface": "ועבדון",
+      "gloss": "അവ്ദോൻ"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "സിക്രി"
+    },
+    {
+      "surface": "וחנן",
+      "gloss": "ഹാനാൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:50:10.181012539Z",
+  "model": "glm-5.3"
+}

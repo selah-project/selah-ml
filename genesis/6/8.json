@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "നോഅഖ് എന്നാൽ യാഹ്‌വെയുടെ കണ്ണുകളിൽ കൃപ കണ്ടെത്തി.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "നോഅഖ് എന്നാൽ"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "കണ്ടെത്തി"
+    },
+    {
+      "surface": "חן",
+      "gloss": "കൃപ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "കണ്ണുകളിൽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെയുടെ"
+    }
+  ],
+  "timestamp": "2026-08-22T08:16:48.069509504Z",
+  "model": "glm-5.3"
+}

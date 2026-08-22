@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "ദാനിയേൽ കൂരെശ് രാജാവിന്റെ ഒന്നാം വർഷം വരെ നിലനിന്നു.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "നിലനിന്നു"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "ദാനിയേൽ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "വരെ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "വർഷം"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ഒന്നാം"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "കൂരെശിന്റെ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "രാജാവ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:18:43.794762242Z",
+  "model": "glm-5.3"
+}

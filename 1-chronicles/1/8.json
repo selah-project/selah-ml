@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "ഖാമിന്റെ മക്കൾ: കൂശ്, മിസ്രയീം, പൂത്, കനാഅൻ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ഖാമിന്റെ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "കൂശ്"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "മിസ്രയീം"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "പൂത്"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "കനാഅൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:46:35.851105549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 12,
+  "translation": "താമസക്കാരനും കൂലിക്കാരനും അതിൽ നിന്നു ഭക്ഷിക്കരുത്.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "താമസക്കാരൻ"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "കൂലിക്കാരൻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "അരുത്"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ഭക്ഷിക്കുക"
+    },
+    {
+      "surface": "בו",
+      "gloss": "അതിൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T09:13:59.818769693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 8:17",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 8,
+  "translation": "വ്‌സബദ്യാഹു, മെശുല്ലാം, ഖിസ്കീ, ഖാവേർ.",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "വ്‌സബദ്യാഹു"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "മെശുല്ലാം"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "ഖിസ്കീ"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "ഖാവേർ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:50:09.775875353Z",
+  "model": "glm-5.3"
+}

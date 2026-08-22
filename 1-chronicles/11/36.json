@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 11:36",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "മെഖേരാതിയായ ഖേഫെർ, പെലോനിയായ അഖിയാ,",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "ഖേഫെർ"
+    },
+    {
+      "surface": "המכרתי",
+      "gloss": "മെഖേരാതി"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "അഖിയാ"
+    },
+    {
+      "surface": "הפלני",
+      "gloss": "പെലോനി"
+    }
+  ],
+  "timestamp": "2026-08-22T17:52:20.353919313Z",
+  "model": "glm-5.3"
+}

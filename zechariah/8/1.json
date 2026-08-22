@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 8:1",
+  "book": "zechariah",
+  "lang": "ml",
+  "chapter": 8,
+  "translation": "യാഹ്‌വെ സേവാവോത്തിന്റെ വാക്കു ഉണ്ടായി, പറയുന്നതു:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ഉണ്ടായി"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "വാക്കു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെയുടെ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "സേവാവോത്തിന്റെ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയുന്നതു"
+    }
+  ],
+  "timestamp": "2026-08-22T15:34:18.615558174Z",
+  "model": "glm-5.3"
+}

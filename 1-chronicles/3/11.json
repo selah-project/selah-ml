@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 3:11",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "യോരാം അവന്റെ പുത്രൻ, അഹസ്യാഹു അവന്റെ പുത്രൻ, യോആഷ് അവന്റെ പുത്രൻ,",
+  "tokens": [
+    {
+      "surface": "יורם",
+      "gloss": "യോരാം"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "അവന്റെ പുത്രൻ"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "അഹസ്യാഹു"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "അവന്റെ പുത്രൻ"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "യോആഷ്"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "അവന്റെ പുത്രൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:48:36.023213757Z",
+  "model": "glm-5.3"
+}

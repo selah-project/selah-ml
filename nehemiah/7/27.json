@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 7:27",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "അനാതോത്തിലെ പുരുഷന്മാർ നൂറ്റിരുപത്തിയെട്ട്.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "പുരുഷന്മാർ"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "അനാതോത്ത്"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "നൂറ്"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ഇരുപത്"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "എട്ട്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:42:01.605854718Z",
+  "model": "glm-5.3"
+}

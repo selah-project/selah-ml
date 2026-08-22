@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 72,
+  "translation": "മലകൾ ജനത്തിനു സമാധാനം വഹിക്കും, കുന്നുകൾ നീതിയാൽ.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "വഹിക്കും"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "മലകൾ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "സമാധാനം"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ജനത്തിനു"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "കുന്നുകൾ"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "നീതിയാൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T16:01:16.805205004Z",
+  "model": "glm-5.3"
+}

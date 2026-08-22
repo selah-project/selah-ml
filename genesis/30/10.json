@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 30,
+  "translation": "ലേയായുടെ ദാസി സിൽപ്പാഹാ യാക്കോവിന് ഒരു മകനെ പ്രസവിച്ചു.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "പ്രസവിച്ചു"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "സിൽപ്പാഹാ"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "ദാസി"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ലേയായുടെ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "യാക്കോവിന്"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ഒരു മകനെ"
+    }
+  ],
+  "timestamp": "2026-08-22T08:36:13.558576260Z",
+  "model": "glm-5.3"
+}

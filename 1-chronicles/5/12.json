@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 5,
+  "translation": "യോവേൽ ശ്രേഷ്ഠൻ, ശാഫാം രണ്ടാമൻ; യാനായിയും ബാശാനിലെ ശാഫാത്തും.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "യോവേൽ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ശ്രേഷ്ഠൻ"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "ശാഫാം"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "രണ്ടാമൻ"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "യാനായി"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "ശാഫാത്ത്"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "ബാശാനിലെ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:49:16.887524499Z",
+  "model": "glm-5.3"
+}

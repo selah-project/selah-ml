@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 15:37",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 15,
+  "translation": "ത്സെനാൻ, ഹദാശാ, മിഗ്ദൽ-ഗാദ് —",
+  "tokens": [
+    {
+      "surface": "צנן",
+      "gloss": "ത്സെനാൻ"
+    },
+    {
+      "surface": "וחדשה",
+      "gloss": "ഹദാശാ"
+    },
+    {
+      "surface": "ומגדל",
+      "gloss": "മിഗ്ദൽ-ഗാദ്"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ഗാദ്"
+    }
+  ],
+  "timestamp": "2026-08-22T11:33:31.133782037Z",
+  "model": "glm-5.3"
+}

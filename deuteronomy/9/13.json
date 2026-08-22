@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 9,
+  "translation": "യാഹ്‌വെ എന്നോട് പറഞ്ഞു: ഈ ജനത്തെ ⟨את⟩ ഞാൻ കണ്ടു — നോക്കുക, അതു കഠിനമായ കഴുത്തുള്ള ജനം ⟨ആണ്⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "പറഞ്ഞു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "എന്നോട്"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയുന്നതു"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ഞാൻ കണ്ടു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ഈ ജനത്തെ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ജനത്തെ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ഈ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "നോക്കുക"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ജനം"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "കഠിനമായ"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "കഴുത്പിന്നിലുള്ള"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "അതു"
+    }
+  ],
+  "timestamp": "2026-08-22T11:04:38.019381513Z",
+  "model": "glm-5.3"
+}

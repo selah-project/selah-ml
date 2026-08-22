@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 13:14",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 13,
+  "translation": "നഫ്താലി ഗോത്രത്തിന്നു വോഫ്സിയുടെ മകൻ നഖ്ബി.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ഗോത്രത്തിന്നു"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "നഫ്താലി"
+    },
+    {
+      "surface": "נחבי",
+      "gloss": "നഖ്ബി"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "ופסי",
+      "gloss": "വോഫ്സി"
+    }
+  ],
+  "timestamp": "2026-08-22T10:28:34.219759126Z",
+  "model": "glm-5.3"
+}

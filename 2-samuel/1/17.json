@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "ദാവീദ് ⟨את⟩ ഈ വിലാപം ശൗലിന്റെ മേലും യെഹോനാതാൻ അവന്റെ മകന്റെ മേലും പാടി",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "പാടി"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ദാവീദ്"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ഈ വിലാപം"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "വിലാപം"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ഈ"
+    },
+    {
+      "surface": "על",
+      "gloss": "മേലും"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ശൗലിന്റെ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "മേലും"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "യെഹോനാതാൻ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "അവന്റെ മകൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T12:21:57.420110109Z",
+  "model": "glm-5.3"
+}

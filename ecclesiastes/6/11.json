@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "കാരണം ഹെബെല്‍ വർദ്ധിപ്പിക്കുന്ന വാക്കുകൾ അനവധി ഉണ്ട്; മനുഷ്യന് എന്താണ് അധികം?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "കാരണം"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ഉണ്ട്"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "വാക്കുകൾ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "അനവധി"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "വർദ്ധിപ്പിക്കുന്ന"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ഹെബെല്‍"
+    },
+    {
+      "surface": "מה",
+      "gloss": "എന്താണ്"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "അധികം"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "മനുഷ്യന്"
+    }
+  ],
+  "timestamp": "2026-08-22T19:14:29.051961579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 23,
+  "translation": "പുരാതന അതിർത്തി മാറ്റരുത്, അനാഥകളുടെ പറമ്പുകളിൽ കടക്കരുത്.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "അരുത്"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "മാറ്റ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "അതിർത്തി"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "പുരാതന"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "പറമ്പുകളിൽ"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "അനാഥകളുടെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "അരുത്"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "കടക്ക"
+    }
+  ],
+  "timestamp": "2026-08-22T16:37:59.669391844Z",
+  "model": "glm-5.3"
+}

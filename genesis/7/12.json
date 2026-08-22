@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "മഴ ഭൂമിയുടെ മേൽ നാൽപ്പതു ദിവസവും നാൽപ്പതു രാത്രിയും ആയി.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ആയി"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "മഴ"
+    },
+    {
+      "surface": "על",
+      "gloss": "മേൽ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ഭൂമിയുടെ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "നാൽപ്പതു"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ദിവസവും"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "നാൽപ്പതു"
+    },
+    {
+      "surface": "ലിലാ…",
+      "gloss": ""
+    },
+    {
+      "surface": "לילה",
+      "gloss": "രാത്രിയും"
+    }
+  ],
+  "timestamp": "2026-08-22T08:16:35.486129653Z",
+  "model": "glm-5.3"
+}

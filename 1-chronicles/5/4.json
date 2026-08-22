@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 5:4",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 5,
+  "translation": "യോയേലിന്റെ മക്കൾ: ശെമയ്യാ അവന്റെ മകൻ, ഗോഗ് അവന്റെ മകൻ, ശിമി അവന്റെ മകൻ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "യോയേലിന്റെ"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "ശെമയ്യാ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "അവന്റെ മകൻ"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "ഗോഗ്"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "അവന്റെ മകൻ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ശിമി"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "അവന്റെ മകൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:49:59.919205016Z",
+  "model": "glm-5.3"
+}

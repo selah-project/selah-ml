@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 12:8",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 12,
+  "translation": "ഗദോറിൽ നിന്നുള്ള യെരോഖാമിന്റെ പുത്രന്മാരായ യോഅേലാഹും സെവദ്യാഹും",
+  "tokens": [
+    {
+      "surface": "ויועאלה",
+      "gloss": "യോഅേലാഹ്"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "സെവദ്യാഹ്"
+    },
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "യെരോഖാം"
+    },
+    {
+      "surface": "מן",
+      "gloss": "നിന്ന്"
+    },
+    {
+      "surface": "הגדור",
+      "gloss": "ഗദോർ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:52:57.117447936Z",
+  "model": "glm-5.3"
+}

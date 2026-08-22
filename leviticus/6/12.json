@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 6:12",
+  "book": "leviticus",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "യാഹ്‌വെ മോശെയോടു അരുളിച്ചെയ്തതു:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "അരുളിച്ചെയ്തതു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ഇതിനോടു"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയുവാൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T09:49:17.521315738Z",
+  "model": "glm-5.3"
+}

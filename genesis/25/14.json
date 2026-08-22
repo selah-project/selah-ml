@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 25:14",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 25,
+  "translation": "മിശ്മാ, ദൂമാ, മാസ്സാ —",
+  "tokens": [
+    {
+      "surface": "ומשמע",
+      "gloss": "മിശ്മാ"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "ദൂമാ"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "മാസ്സാ"
+    }
+  ],
+  "timestamp": "2026-08-22T18:29:35.470434029Z",
+  "model": "glm-5.3"
+}

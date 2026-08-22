@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 7:38",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "യെതെരിന്റെ പുത്രന്മാർ: യെഫുന്നെ, പിസ്പാ, അരാ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "യെതെരിന്റെ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "യെഫുന്നെ"
+    },
+    {
+      "surface": "ופספה",
+      "gloss": "പിസ്പാ"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "അരാ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:50:53.818097445Z",
+  "model": "glm-5.3"
+}

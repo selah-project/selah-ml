@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 25:10",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 25,
+  "translation": "യാഹ്‌വെ മോശെയോട് അരുളിക്കൊണ്ട് പറയുകയായി:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "അരുളിക്കൊണ്ട് പറയുകയായി"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "മോശെയോട്"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയുന്നതു"
+    }
+  ],
+  "timestamp": "2026-08-22T10:42:52.260316076Z",
+  "model": "glm-5.3"
+}

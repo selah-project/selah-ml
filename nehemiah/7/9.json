@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 7:9",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ഷെഫാത്യാഹിന്റെ പുത്രന്മാർ — മുന്നൂറ്റിയെഴുപത്തിരണ്ടു പേർ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "ഷെഫാത്യാഹിന്റെ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "മൂന്ന്"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "നൂറ്"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "എഴുപത്"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "രണ്ട്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:39:32.973217027Z",
+  "model": "glm-5.3"
+}

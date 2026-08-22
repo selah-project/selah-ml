@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "ഏവർ മുപ്പത്തിനാലു വർഷം ജീവിച്ചു, പെലെഗിനെ ⟨את⟩ ജനിപ്പിച്ചു.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ജീവിച്ചു"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ഏവർ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "നാലു"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "മുപ്പത്"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "വർഷം"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ജനിപ്പിച്ചു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "പെലെഗിനെ"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "പെലെഗ്"
+    }
+  ],
+  "timestamp": "2026-08-22T08:20:05.555425476Z",
+  "model": "glm-5.3"
+}

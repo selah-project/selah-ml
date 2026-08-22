@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 56,
+  "translation": "ഞാൻ ഭയക്കുന്ന ദിവസം — ഞാൻ നിന്നിൽ വിശ്വസിച്ചുകൊള്ളാം.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ദിവസം"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ഞാൻ ഭയക്കുന്ന"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ഞാൻ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "നിന്നിൽ"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "വിശ്വസിച്ചുകൊള്ളാം"
+    }
+  ],
+  "timestamp": "2026-08-22T15:56:55.041723259Z",
+  "model": "glm-5.3"
+}

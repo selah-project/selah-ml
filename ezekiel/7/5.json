@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "അങ്ങനെ അരുളിച്ചെയ്തു അദോനായ് യാഹ്‌വെ: തിന്മ ⟨ഒറ്റ⟩ തിന്മ, നോക്കു, വരുന്നു.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "അങ്ങനെ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "അരുളിച്ചെയ്തു"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "അദോനായ്"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "തിന്മ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ഒറ്റ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "തിന്മ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "നോക്കു"
+    },
+    {
+      "surface": "באה",
+      "gloss": "വരുന്നു"
+    }
+  ],
+  "timestamp": "2026-08-22T18:57:56.998052737Z",
+  "model": "glm-5.3"
+}

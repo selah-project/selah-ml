@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "ശക്തരുടെ വില്ലുകൾ തകർന്നു, ഇടറിവീണവർ ശക്തി ചുറ്റി.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "വില്ലുകൾ"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "ശക്തരുടെ"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "തകർന്നു"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "ഇടറിവീണവർ"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "ചുറ്റി"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ശക്തി"
+    }
+  ],
+  "timestamp": "2026-08-22T12:01:04.477117573Z",
+  "model": "glm-5.3"
+}

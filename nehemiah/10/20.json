@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 10:20",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "ഖാരീഫ്, അനാത്തോത്, നോവായ്,",
+  "tokens": [
+    {
+      "surface": "חריף",
+      "gloss": "ഖാരീഫ്"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "അനാത്തോത്"
+    },
+    {
+      "surface": "נובי",
+      "gloss": "നോവായ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:44:02.960751840Z",
+  "model": "glm-5.3"
+}

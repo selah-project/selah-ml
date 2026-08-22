@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 28:18",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 28,
+  "translation": "ആദ്യ ദിവസം ⟨is⟩ വിശുദ്ധ സഭാവിളി; ഏതൊരു അടിമ-ജോലിയും നിങ്ങൾ ചെയ്യരുത്.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ദിവസം"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ആദ്യ"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "സഭാവിളി"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "വിശുദ്ധ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ഏതൊരു"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ജോലി"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "അടിമ-ജോലി"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ചെയ്യരുത്"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "നിങ്ങൾ ചെയ്യും"
+    }
+  ],
+  "timestamp": "2026-08-22T10:46:15.275274622Z",
+  "model": "glm-5.3"
+}

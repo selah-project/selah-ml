@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "പൊന്നത്തോരങ്ങൾ നിനക്കു നാം ഉണ്ടാക്കാം, വെള്ളിയുടെ പുള്ളികളോടുകൂടെ.",
+  "tokens": [
+    {
+      "surface": "תורי",
+      "gloss": "തോരങ്ങൾ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "പൊന്നത്ത്"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "നാം ഉണ്ടാക്കാം"
+    },
+    {
+      "surface": "לך",
+      "gloss": "നിനക്കു"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ഒപ്പം"
+    },
+    {
+      "surface": "נקדות",
+      "gloss": "പുള്ളികൾ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "വെള്ളിയുടെ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:01:40.842988916Z",
+  "model": "glm-5.3"
+}

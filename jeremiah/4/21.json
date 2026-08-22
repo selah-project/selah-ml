@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "ml",
+  "chapter": 4,
+  "translation": "എത്രക്കാലം ഞാൻ കൊടിയെ കാണും, ഞാൻ ഷോഫറിന്റെ ശബ്ദം കേൾക്കും?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "എത്രക്കാലം"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "എപ്പോഴേക്കും"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ഞാൻ കാണും"
+    },
+    {
+      "surface": "נס",
+      "gloss": "കൊടിയെ"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "ഞാൻ കേൾക്കും"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ശബ്ദം"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ഷോഫറിന്റെ"
+    }
+  ],
+  "timestamp": "2026-08-22T13:58:18.461113293Z",
+  "model": "glm-5.3"
+}

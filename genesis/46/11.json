@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 46:11",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 46,
+  "translation": "ലെവിയുടെ പുത്രന്മാർ: ഗെര്ശോൻ, ഖെഹാത്, മെരാരി.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ലെവിയുടെ"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "ഗെര്ശോൻ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ഖെഹാത്"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "മെരാരി"
+    }
+  ],
+  "timestamp": "2026-08-22T08:55:31.580809821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "ദാനന് — അമ്മിശദ്ദായിന്റെ മകനായ അഖിഎസെർ.",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "ദാനന്"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "അഖിഎസെർ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "അമ്മിശദ്ദായ്"
+    }
+  ],
+  "timestamp": "2026-08-22T10:14:35.121146548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 11:29",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "സിബ്ബെകായ് ഹുശാത്തി, ഇലായ് അഹോഹി.",
+  "tokens": [
+    {
+      "surface": "סבכי",
+      "gloss": "സിബ്ബെകായ്"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "ഹുശാത്തി"
+    },
+    {
+      "surface": "עילי",
+      "gloss": "ഇലായ്"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "അഹോഹി"
+    }
+  ],
+  "timestamp": "2026-08-22T17:52:06.689530105Z",
+  "model": "glm-5.3"
+}

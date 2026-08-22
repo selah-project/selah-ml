@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "ml",
+  "chapter": 12,
+  "translation": "ഹെബെൽ, ഹെബാലീം — കൊഹേലെത്ത് പറഞ്ഞു — എല്ലാം ഹെബെൽ.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "ഹെബെൽ"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "ഹെബാലീം"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "പറഞ്ഞു"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "കൊഹേലെത്ത്"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "എല്ലാം"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ഹെബെൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:16:47.088693116Z",
+  "model": "glm-5.3"
+}

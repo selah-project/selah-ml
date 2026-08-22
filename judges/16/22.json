@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 16:22",
+  "book": "judges",
+  "lang": "ml",
+  "chapter": 16,
+  "translation": "അവന്റെ തലമുടി മുറിച്ചുകളഞ്ഞതുപോലെ വീണ്ടും വളരാൻ തുടങ്ങി.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "തുടങ്ങി"
+    },
+    {
+      "surface": "שער",
+      "gloss": "മുടി"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "അവന്റെ തല"
+    },
+    {
+      "surface": "לצמח",
+      "gloss": "വളരാൻ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "പോലെ"
+    },
+    {
+      "surface": "גלח",
+      "gloss": "മുറിച്ചുകളഞ്ഞത്"
+    }
+  ],
+  "timestamp": "2026-08-22T11:56:36.088657545Z",
+  "model": "glm-5.3"
+}

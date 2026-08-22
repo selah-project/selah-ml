@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 5:11",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 5,
+  "translation": "ഗാദിന്റെ പുത്രന്മാർ അവരുടെ എതിരെ ബാശാൻ ദേശത്ത് സാൽക്കാവരെ പാർത്തു.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ഗാദിന്റെ"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "അവരുടെ എതിരെ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "പാർത്തു"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ദേശത്ത്"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ബാശാൻ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "വരെ"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "സാൽക്കാ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:49:16.887390777Z",
+  "model": "glm-5.3"
+}

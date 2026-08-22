@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 28:18",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 28,
+  "translation": "രണ്ടാമത്തെ വരി: നോഫെക്ക്, സപ്പീർ, യഹലോം.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "വരി"
+    },
+    {
+      "surface": "השני",
+      "gloss": "രണ്ടാമത്തെ"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "നോഫെക്ക്"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "സപ്പീർ"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "യഹലോം"
+    }
+  ],
+  "timestamp": "2026-08-22T09:28:57.032658551Z",
+  "model": "glm-5.3"
+}

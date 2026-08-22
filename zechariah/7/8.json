@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 7:8",
+  "book": "zechariah",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "യാഹ്‌വെയുടെ വചനം സെഖര്യാഹിനു ഉണ്ടായി, അരുളിച്ചെയ്യുന്നതു:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ഉണ്ടായി"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "വചനം"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെയുടെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "നേരെ"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "സെഖര്യാഹിനു"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "അരുളിച്ചെയ്യുന്നതു"
+    }
+  ],
+  "timestamp": "2026-08-22T15:33:16.468909275Z",
+  "model": "glm-5.3"
+}

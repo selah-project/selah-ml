@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "ഹബക്കൂക് പ്രവാചകൻ കണ്ട ഭാരം.",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "ഭാരം"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "കണ്ട"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ദർശനം"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "ഹബക്കൂക്"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "പ്രവാചകൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T19:04:53.858957492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 8,
+  "translation": "അദായാഹ്, ബെരായാഹ്, ശിംറാത് — ശിമെയിയുടെ പുത്രന്മാർ.",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "അദായാഹ്"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "ബെരായാഹ്"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ശിംറാത്"
+    },
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ശിമെയി"
+    }
+  ],
+  "timestamp": "2026-08-22T17:50:10.180650921Z",
+  "model": "glm-5.3"
+}

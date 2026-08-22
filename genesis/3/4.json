@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "സർപ്പം സ്ത്രീയോട് പറഞ്ഞു: \"മരിച്ചു നിങ്ങൾ മരിക്കയില്ല.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "പറഞ്ഞു"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "സർപ്പം"
+    },
+    {
+      "surface": "אל",
+      "gloss": "നേരെ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "സ്ത്രീയോട്"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "מות",
+      "gloss": "മരിച്ചു"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "നിങ്ങൾ മരിക്ക"
+    }
+  ],
+  "timestamp": "2026-08-22T08:14:53.821532426Z",
+  "model": "glm-5.3"
+}

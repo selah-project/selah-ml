@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 23,
+  "translation": "ദരിദ്രനെ അവന്റെ തർക്കത്തിൽ അനുകൂലിക്കരുത്.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "ദരിദ്രനെയും"
+    },
+    {
+      "surface": "לא",
+      "gloss": "വേണ്ട"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "ബഹുമാനിക്കരുത്"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "അവന്റെ തർക്കത്തിൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T09:23:10.244633952Z",
+  "model": "glm-5.3"
+}

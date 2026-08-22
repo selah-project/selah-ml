@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 5:3",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 5,
+  "translation": "രെഊബേന്റെ മക്കൾ — യിസ്രായേലിന്റെ ആദ്യജാതൻ: ഹനോഖ്, പല്ലൂ, ഹെസ്രോൻ, കർമി.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "രെഊബേന്റെ"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ആദ്യജാതൻ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "യിസ്രായേലിന്റെ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ഹനോഖ്"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "പല്ലൂ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ഹെസ്രോൻ"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "കർമി"
+    }
+  ],
+  "timestamp": "2026-08-22T17:49:59.919081515Z",
+  "model": "glm-5.3"
+}

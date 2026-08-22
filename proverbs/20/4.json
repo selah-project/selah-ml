@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 20,
+  "translation": "ശൈത്യകാലം കാരണം അലസൻ ഉഴുവില്ല; കൊയ്ത്തുസമയത്ത് അവൻ യാചിക്കും, പക്ഷേ ⟨there will be⟩ ഒന്നുമില്ല.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "ശൈത്യകാലം കാരണം"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "അലസൻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "ഉഴുവും"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "യാചിക്കും"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "കൊയ്ത്തിൽ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "പക്ഷേ ഒന്നുമില്ല"
+    }
+  ],
+  "timestamp": "2026-08-22T16:36:27.162752589Z",
+  "model": "glm-5.3"
+}

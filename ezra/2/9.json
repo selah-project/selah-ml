@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "സഖായിയുടെ പുത്രന്മാർ — എഴുനൂറ്റിഅറുപത്.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "സഖായിയുടെ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "എഴു"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "നൂറ്റി"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "അറുപത്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:30:38.653337147Z",
+  "model": "glm-5.3"
+}

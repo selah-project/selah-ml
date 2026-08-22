@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 31:25",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 31,
+  "translation": "യാഹ്‌വെ മോശെയോട് അരുളിച്ചു:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "അരുളിച്ചു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ഇതിനോട്"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെയോട്"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയുവാൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T10:48:00.986747134Z",
+  "model": "glm-5.3"
+}

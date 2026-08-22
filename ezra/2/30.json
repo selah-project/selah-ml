@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "മാഗ്ബീഷിന്റെ പുത്രന്മാർ — നൂറ്റമ്പത്താറു പേർ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "מגביש",
+      "gloss": "മാഗ്ബീഷിന്റെ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "നൂറ്റ്"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "അമ്പത്ത്"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ആറു"
+    }
+  ],
+  "timestamp": "2026-08-22T17:30:48.926044571Z",
+  "model": "glm-5.3"
+}

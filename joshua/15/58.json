@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "joshua 15:58",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 15,
+  "translation": "ഹൽഹൂൽ, ബേത്-സൂർ, ഗ്ദോർ.",
+  "tokens": [
+    {
+      "surface": "חלחול",
+      "gloss": "ഹൽഹൂൽ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ബേത്"
+    },
+    {
+      "surface": "צור",
+      "gloss": "സൂർ"
+    },
+    {
+      "surface": "וגדור",
+      "gloss": "ഗ്ദോർ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:33:40.329086413Z",
+  "model": "glm-5.3"
+}

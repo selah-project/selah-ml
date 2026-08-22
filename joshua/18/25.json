@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 18:25",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 18,
+  "translation": "ഗിബ്വോൻ, വെ-ഹാരാമ, ഉ-വെ-ബെഏരോത്ത് —",
+  "tokens": [
+    {
+      "surface": "גבעון",
+      "gloss": "ഗിബ്വോൻ"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "രാമ"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "ബെഏരോത്ത്"
+    }
+  ],
+  "timestamp": "2026-08-22T11:33:42.145415316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "ml",
+  "chapter": 21,
+  "translation": "എല്ലാ ജഡവും കാണും — ഞാൻ യാഹ്‌വെ അതിനെ കൊളുത്തി; അതു അണയില്ല എന്ന്.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "കാണും"
+    },
+    {
+      "surface": "כל",
+      "gloss": "എല്ലാ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ജഡവും"
+    },
+    {
+      "surface": "כי",
+      "gloss": "എന്ന്"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ഞാൻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "അതിനെ കൊളുത്തി"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "അണയില്ല"
+    }
+  ],
+  "timestamp": "2026-08-22T14:48:54.160697472Z",
+  "model": "glm-5.3"
+}

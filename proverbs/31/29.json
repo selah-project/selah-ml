@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 31:29",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 31,
+  "translation": "അനേകം പുത്രിമാർ വീരത ചെയ്തു, നീ എങ്കിലോ അവരെല്ലാം കവച്ചകവച്ച ഉയർന്നു.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "അനേകം"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "പുത്രിമാർ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ചെയ്തു"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "വീരത"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "നീ എങ്കിലോ"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "ഉയർന്നു"
+    },
+    {
+      "surface": "על",
+      "gloss": "കവച്ചകവച്ച"
+    },
+    {
+      "surface": "כלנה",
+      "gloss": "അവരെല്ലാം"
+    }
+  ],
+  "timestamp": "2026-08-22T16:41:48.429826961Z",
+  "model": "glm-5.3"
+}

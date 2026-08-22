@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "സംഭവിച്ചത് വളരെ ദൂരെയാണ്; ആഴം, ആഴം — ആർക്കു അത് കണ്ടെത്താനാകും?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "ദൂരെയാണ്"
+    },
+    {
+      "surface": "מה",
+      "gloss": "എത്ര"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "സംഭവിച്ചത്"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "വേണ്ടിയും ആഴം"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ആഴം"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ആർക്കു"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "അത് കണ്ടെത്താനാകും"
+    }
+  ],
+  "timestamp": "2026-08-22T17:13:55.217992547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 36,
+  "translation": "ഇവർ ദിശാന്റെ മക്കൾ: ഉത്സ്, അരാൻ.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ഇവർ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "ദിശാന്റെ"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ഉത്സ്"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "അരാൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T08:44:26.192948536Z",
+  "model": "glm-5.3"
+}

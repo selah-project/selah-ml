@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 36,
+  "translation": "പത്തു ആമയാണ് ⟨ഒരു⟩ പലകയുടെ നീളം; ഒരു ആമയും അര ആമയും ⟨ആണ്⟩ ഒരേ പലകയുടെ വീതി.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "പത്തു"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ആമ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "നീളം"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "പലക"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ഒരു ആമയും"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "അര"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ആമ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "വീതി"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "പലക"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ഒരേ"
+    }
+  ],
+  "timestamp": "2026-08-22T09:40:24.388170335Z",
+  "model": "glm-5.3"
+}

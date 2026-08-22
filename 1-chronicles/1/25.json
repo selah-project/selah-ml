@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 1:25",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "ഏബെർ, പേലെഗ്, രെഉ.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "ഏബെർ"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "പേലെഗ്"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "രെഉ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:46:22.364827078Z",
+  "model": "glm-5.3"
+}

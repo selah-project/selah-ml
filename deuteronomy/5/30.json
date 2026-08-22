@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 5,
+  "translation": "പോയി അവരോട് പറയുക: നിങ്ങളുടെ കൂടാരങ്ങളിലേക്ക് നിങ്ങൾ മടങ്ങിപ്പോകുക.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "പോയി"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "പറയുക"
+    },
+    {
+      "surface": "להם",
+      "gloss": "അവരോട്"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "മടങ്ങിപ്പോകുക"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "നിങ്ങൾ"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "കൂടാരങ്ങളിലേക്ക്"
+    }
+  ],
+  "timestamp": "2026-08-22T10:59:26.059499700Z",
+  "model": "glm-5.3"
+}

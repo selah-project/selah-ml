@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "പാമ്പു മന്ത്രം ചൊല്ലാതെ കടിച്ചാൽ, നാവിന്റെ ഉടമയ്ക്ക് ⟨ലാഭം⟩ ഇല്ല.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "എങ്കിൽ"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "കടിച്ചാൽ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "പാമ്പു"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "ഇല്ലാതെ"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "മന്ത്രം"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ലാഭം"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ഉടമയ്ക്ക്"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "നാവിന്റെ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:13:31.130071187Z",
+  "model": "glm-5.3"
+}

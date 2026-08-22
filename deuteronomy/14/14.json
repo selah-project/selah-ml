@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 14,
+  "translation": "ഉം ⟨את⟩ എല്ലാ കാക്കയെയും അതിന്റെ വർഗ്ഗത്തിന്നനുസരിച്ച്",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "എല്ലാ കാക്കയെയും"
+    },
+    {
+      "surface": "כל",
+      "gloss": "എല്ലാ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "കാക്കയെയും"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "അതിന്റെ വർഗ്ഗത്തിന്നനുസരിച്ച്"
+    }
+  ],
+  "timestamp": "2026-08-22T11:06:52.017898325Z",
+  "model": "glm-5.3"
+}

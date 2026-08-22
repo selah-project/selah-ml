@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 20,
+  "translation": "എലോഹീം ഈ വാക്കുകളെല്ലാം ⟨את⟩ സംസാരിച്ചു, പറയുന്നു:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "സംസാരിച്ചു"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "എലോഹീം"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ഈ വാക്കുകളെല്ലാം"
+    },
+    {
+      "surface": "כל",
+      "gloss": "എല്ലാം"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "വാക്കുകൾ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ഈ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയുന്നു"
+    }
+  ],
+  "timestamp": "2026-08-22T09:19:24.533836365Z",
+  "model": "glm-5.3"
+}

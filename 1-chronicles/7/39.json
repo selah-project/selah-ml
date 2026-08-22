@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 7:39",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ഉല്ലായുടെ പുത്രന്മാർ: അരഖ്, ഹന്നിയേൽ, രിത്സ്യാ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "עלא",
+      "gloss": "ഉല്ലായുടെ"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "അരഖ്"
+    },
+    {
+      "surface": "וחניאל",
+      "gloss": "ഹന്നിയേൽ"
+    },
+    {
+      "surface": "ורציא",
+      "gloss": "രിത്സ്യാ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:50:53.818203413Z",
+  "model": "glm-5.3"
+}

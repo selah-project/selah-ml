@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 103,
+  "translation": "",
+  "tokens": [],
+  "timestamp": "2026-08-22T16:11:26.618183545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 25,
+  "translation": "അവ്രാഹാം തനിക്കുള്ളതെല്ലാം ⟨את⟩ ⟨the⟩ കൂട്ടം യിത്സാക്കിന് നൽകി.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "നൽകി"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "അവ്രാഹാം"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "എല്ലാം"
+    },
+    {
+      "surface": "כל",
+      "gloss": "എല്ലാം"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "അതെല്ലാം"
+    },
+    {
+      "surface": "לו",
+      "gloss": "തനിക്കുള്ളത്"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "യിത്സാക്കിന്"
+    }
+  ],
+  "timestamp": "2026-08-22T08:33:04.669006686Z",
+  "model": "glm-5.3"
+}

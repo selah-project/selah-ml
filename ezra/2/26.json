@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezra 2:26",
+  "book": "ezra",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "രാമാ, ഗെബാ എന്നിവിടങ്ങളുടെ മക്കൾ — ആറ് നൂറ്റി ഇരുപത്തി ഒന്ന്.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "രാമാ"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "ഗെബാ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ആറ്"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "നൂറ്റി"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ഇരുപത്തി"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ഒന്ന്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:30:26.340033967Z",
+  "model": "glm-5.3"
+}

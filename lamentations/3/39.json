@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "എന്തിന് ജീവിക്കുന്ന മനുഷ്യൻ പിറുപറയും — പുരുഷൻ തന്റെ പാപത്തിന്റെ ശിക്ഷയെപ്പറ്റി?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "എന്തിന്"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "പിറുപറയും"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "മനുഷ്യൻ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ജീവിക്കുന്ന"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "പുരുഷൻ"
+    },
+    {
+      "surface": "על",
+      "gloss": "എന്നെ\/കാരണം"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "തന്റെ പാപം"
+    }
+  ],
+  "timestamp": "2026-08-22T17:08:40.292921353Z",
+  "model": "glm-5.3"
+}

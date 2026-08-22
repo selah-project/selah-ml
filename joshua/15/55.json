@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "joshua 15:55",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 15,
+  "translation": "മായോൻ, കർമേൽ, സീഫ്, യൂത്താഹ്",
+  "tokens": [
+    {
+      "surface": "מעון",
+      "gloss": "മായോൻ"
+    },
+    {
+      "surface": "כרמל",
+      "gloss": "കർമേൽ"
+    },
+    {
+      "surface": "וזיף",
+      "gloss": "സീഫ്"
+    },
+    {
+      "surface": "ויוטה",
+      "gloss": "യൂത്താഹ്"
+    }
+  ],
+  "timestamp": "2026-08-22T11:33:35.280846559Z",
+  "model": "glm-5.3"
+}

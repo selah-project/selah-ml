@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "nehemiah 7:38",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "സെനാഅഹിന്റെ പുത്രന്മാർ — മൂവ്വായിരം ഒമ്പതു നൂറ്റി മുപ്പത്.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "സെനാഅഹിന്റെ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "മൂന്ന്"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ആയിരം"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ഒമ്പതു"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "നൂറ്റി"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "മുപ്പത്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:42:13.964507736Z",
+  "model": "glm-5.3"
+}

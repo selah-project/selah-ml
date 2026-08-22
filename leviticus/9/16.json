@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "ml",
+  "chapter": 9,
+  "translation": "അവൻ ⟨את⟩ ഓലാഹ് സമീപിപ്പിച്ചു, വിധിപ്രകാരം അതിനെ ചെയ്തു.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "സമീപിപ്പിച്ചു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ഓലാഹ്"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ഓലാഹ്"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "അതിനെ ചെയ്തു"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "വിധിപ്രകാരം"
+    }
+  ],
+  "timestamp": "2026-08-22T18:32:33.406736166Z",
+  "model": "glm-5.3"
+}

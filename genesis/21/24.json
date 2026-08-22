@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 21,
+  "translation": "അവ്രാഹാം പറഞ്ഞു: ഞാൻ സത്യം ചെയ്യും.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "പറഞ്ഞു"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "അവ്രാഹാം"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ഞാൻ"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "സത്യം ചെയ്യും"
+    }
+  ],
+  "timestamp": "2026-08-22T08:28:32.799683050Z",
+  "model": "glm-5.3"
+}

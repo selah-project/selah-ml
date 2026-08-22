@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 26,
+  "translation": "കുതിരക്ക് ചാട്ടി, കഴുതക്ക് ലഗാം, മൂഢന്മാരുടെ പുറത്ത് ദണ്ഡ്.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "ചാട്ടി"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "കുതിരക്ക്"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "ലഗാം"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "കഴുതക്ക്"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "വേണ്ടി ദണ്ഡ്"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "പുറത്ത്"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "മൂഢന്മാർക്ക്"
+    }
+  ],
+  "timestamp": "2026-08-22T16:39:34.078286814Z",
+  "model": "glm-5.3"
+}

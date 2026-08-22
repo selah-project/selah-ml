@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 42,
+  "translation": "നാം അവനോട് പറഞ്ഞു: നാം നേരുള്ളവരാണ്; നാം ചാരന്മാരല്ല.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "പറഞ്ഞു"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "അവനോട്"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "നേരുള്ളവരാണ്"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "നാം"
+    },
+    {
+      "surface": "לא",
+      "gloss": "അല്ല"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "ആയിരുന്നില്ല"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "ചാരന്മാർ"
+    }
+  ],
+  "timestamp": "2026-08-22T08:52:47.026572613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 28:1",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 28,
+  "translation": "യാഹ്‌വെ മോശെയോട് അരുളിച്ചെയ്തു, പറയുന്നതു:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "അരുളിച്ചെയ്തു"
+    },
+    {
+      "surface": "യാഹ്‌വെ",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "അല്",
+      "gloss": "…യോട്"
+    },
+    {
+      "surface": "മശെ",
+      "gloss": "മോശെ"
+    },
+    {
+      "surface": "ലഅമ്ര്",
+      "gloss": "പറയുന്നതു"
+    }
+  ],
+  "timestamp": "2026-08-22T10:46:15.697272527Z",
+  "model": "glm-5.3"
+}

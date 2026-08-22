@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "അന്ന് ശലോമോ പറഞ്ഞു: യാഹ്‌വെ പറഞ്ഞു — ഘനീഭവിച്ച ഇരുട്ടിൽ വസിക്കാൻ.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "അന്ന്"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "പറഞ്ഞു"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ശലോമോ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "പറഞ്ഞു"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "വസിക്കാൻ"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "ഘനീഭവിച്ച ഇരുട്ടിൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T18:06:59.433079294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "lamentations 3:44",
+  "book": "lamentations",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "ഒരു മേഘത്താൽ നീ നിനക്കുതന്നെ മൂടി; പ്രാർഥന കടന്നുപോകാതിരിക്കേണ്ടതിന്.",
+  "tokens": [
+    {
+      "surface": "סכותה",
+      "gloss": "മൂടി"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "മേഘത്താൽ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "നിനക്ക്"
+    },
+    {
+      "surface": "מעבור",
+      "gloss": "കടന്നുപോകാതിരിക്കേണ്ടതിന്"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "പ്രാർഥന"
+    }
+  ],
+  "timestamp": "2026-08-22T17:08:10.438530431Z",
+  "model": "glm-5.3"
+}

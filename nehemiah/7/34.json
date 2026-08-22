@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 7:34",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "മറ്റേ എലാമിന്റെ മക്കൾ — ആയിരത്തി ഇരുന്നൂറ്റയമ്പത്തിനാലുപേർ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "എലാം"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "മറ്റേ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ആയിരം"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ഇരുന്നൂറ്"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "അമ്പത്"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "നാല്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:41:50.405271583Z",
+  "model": "glm-5.3"
+}

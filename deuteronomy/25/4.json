@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 25,
+  "translation": "തട്ടുന്ന കാളയെ അതിന്റെ മിത്തയിൽ വായടയ്ക്കരുത്.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "അരുത്"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "വായടയ്ക്ക"
+    },
+    {
+      "surface": "שור",
+      "gloss": "കാളയെ"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "അതിന്റെ മിത്തയിൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:15:16.734553261Z",
+  "model": "glm-5.3"
+}

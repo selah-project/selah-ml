@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "ഇപ്പോൾ നിങ്ങളുടെ മേൽ, ഹേ പുരോഹിതരേ, ⟨ഈ⟩ കൽപ്പന ⟨ആകുന്നു⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ഇപ്പോൾ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "നിങ്ങളുടെ മേൽ"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "കൽപ്പന"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ഈ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ഹേ പുരോഹിതരേ"
+    }
+  ],
+  "timestamp": "2026-08-22T15:36:52.446504185Z",
+  "model": "glm-5.3"
+}

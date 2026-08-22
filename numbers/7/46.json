@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 7:46",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ആടുകളുടെ ഒരു കോലായ്, പാപയാഗത്തിന്.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "കോലായ്"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ആടുകളുടെ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ഒരു"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "പാപയാഗത്തിന്"
+    }
+  ],
+  "timestamp": "2026-08-22T10:23:49.382069946Z",
+  "model": "glm-5.3"
+}

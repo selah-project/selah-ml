@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 12:17",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 12,
+  "translation": "തപ്പുവാഖിന്റെ രാജാവ് ഒരുവൻ; ഖെഫെറിന്റെ രാജാവ് ഒരുവൻ.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "രാജാവ്"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "തപ്പുവാഖ്"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ഒരുവൻ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "രാജാവ്"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "ഖെഫെർ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ഒരുവൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:31:05.841949564Z",
+  "model": "glm-5.3"
+}

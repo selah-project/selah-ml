@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 20:14",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 20,
+  "translation": "വ്യഭിചാരം ചെയ്യരുത്.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "അരുത്"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "വ്യഭിചാരം ചെയ്യരുത്"
+    }
+  ],
+  "timestamp": "2026-08-22T09:17:42.350228712Z",
+  "model": "glm-5.3"
+}

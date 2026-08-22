@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 7:20",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "അദീന്റെ പുത്രന്മാർ — അറുനൂറ്റിഅമ്പത്തഞ്ചു്.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "അദീന്റെ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ആറു്"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "നൂറ്റി"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "അമ്പത്തി"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "അഞ്ചു്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:41:58.588227383Z",
+  "model": "glm-5.3"
+}

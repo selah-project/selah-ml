@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "എന്നാൽ മൃഗങ്ങളെല്ലാം നഗരങ്ങളുടെ കൊള്ളയും നമുക്കായി കൊള്ളയടിച്ചു.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "എല്ലാം"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "മൃഗങ്ങളെല്ലാം"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "കൊള്ളയും"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "നഗരങ്ങളുടെ"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "കൊള്ളയടിച്ചു"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "നമുക്കായി"
+    }
+  ],
+  "timestamp": "2026-08-22T10:53:56.536964852Z",
+  "model": "glm-5.3"
+}

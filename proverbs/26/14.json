@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 26,
+  "translation": "വാതിൽ അതിന്റെ കീലിൽ തിരിയുന്നു; അലസനോ അവന്റെ കിടക്കയിൽ (തിരിയുന്നു).",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "വാതിൽ"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "തിരിയുന്നു"
+    },
+    {
+      "surface": "על",
+      "gloss": "മേൽ"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "കീൽ"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "അലസനോ"
+    },
+    {
+      "surface": "על",
+      "gloss": "മേൽ"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "അവന്റെ കിടക്കയിൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T16:39:29.362323900Z",
+  "model": "glm-5.3"
+}

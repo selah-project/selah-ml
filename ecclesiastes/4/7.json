@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "ml",
+  "chapter": 4,
+  "translation": "ഞാൻ മടങ്ങി വന്നു, ഞാൻ കണ്ടു — സൂര്യന്റെ കീഴിൽ വ്യർഥത.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "ഞാൻ മടങ്ങി വന്നു"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ഞാൻ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ഞാൻ കണ്ടു"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "വ്യർഥത"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "കീഴിൽ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "സൂര്യന്റെ"
+    }
+  ],
+  "timestamp": "2026-08-22T19:13:18.326061617Z",
+  "model": "glm-5.3"
+}

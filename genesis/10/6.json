@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "ഖാമിന്റെ പുത്രന്മാർ: കുഷ്, മിത്സ്രയിം, പുട്, കനാഅൻ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ഖാം"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "കുഷ്"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "മിത്സ്രയിം"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "പുട്"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "കനാഅൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T08:16:22.569655603Z",
+  "model": "glm-5.3"
+}

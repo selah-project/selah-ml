@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 8,
+  "translation": "അവ ⟨את⟩ അവയെ കൂന കൂന ആയി കുന്നുകൂട്ടി; ദേശം നാറി.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "കുന്നുകൂട്ടി"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "അവയെ"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "കൂന"
+    },
+    {
+      "surface": "חמרഝ",
+      "gloss": "കൂന"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "നാറി"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ദേശം"
+    }
+  ],
+  "timestamp": "2026-08-22T09:09:01.150547780Z",
+  "model": "glm-5.3"
+}

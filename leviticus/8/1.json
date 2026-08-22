@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 8:1",
+  "book": "leviticus",
+  "lang": "ml",
+  "chapter": 8,
+  "translation": "യാഹ്‌വെ മോശെയോട് അരുളിച്ചെയ്തു പറഞ്ഞതു്:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "അരുളിച്ചെയ്തു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "മോശെയോട്"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെയോട്"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറഞ്ഞതു്"
+    }
+  ],
+  "timestamp": "2026-08-22T09:50:54.432257456Z",
+  "model": "glm-5.3"
+}

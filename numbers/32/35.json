@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 32,
+  "translation": "അത്രോത്ത്-ശോഫാനും ⟨את⟩, യഅസേരും ⟨את⟩, യോഗ്ബെഹായും.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "അത്രോത്ത്-ശോഫാൻ"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "അത്രോത്ത്"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "ശോഫാനും"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "യഅസേർ"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "യഅസേരും"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "യോഗ്ബെഹായും"
+    }
+  ],
+  "timestamp": "2026-08-22T10:49:32.764351532Z",
+  "model": "glm-5.3"
+}

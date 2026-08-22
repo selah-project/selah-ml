@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 27:1",
+  "book": "leviticus",
+  "lang": "ml",
+  "chapter": 27,
+  "translation": "യാഹ്‌വെ മോശെയോടു അരുളിച്ചെയ്തു പറഞ്ഞു:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "അരുളിച്ചെയ്തു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ഉം (യോടു)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറഞ്ഞു"
+    }
+  ],
+  "timestamp": "2026-08-22T10:16:06.706973850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 15:42",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 15,
+  "translation": "ലിബ്നാ, വാഅെതെർ, വെ അശാൻ.",
+  "tokens": [
+    {
+      "surface": "לבנה",
+      "gloss": "ലിബ്നാ"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "വാഅെതെർ"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "വെ അശാൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:33:35.247068356Z",
+  "model": "glm-5.3"
+}

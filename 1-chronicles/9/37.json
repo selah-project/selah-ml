@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 9:37",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 9,
+  "translation": "ഗെദോറും, അഹ്യോവും, സെഖര്യാഹും, മിക്ലോത്തും.",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "ഗെദോറും"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "അഹ്യോവും"
+    },
+    {
+      "surface": "וזכריה",
+      "gloss": "സെഖര്യാഹും"
+    },
+    {
+      "surface": "ומקלות",
+      "gloss": "മിക്ലോത്തും"
+    }
+  ],
+  "timestamp": "2026-08-22T17:52:49.690548713Z",
+  "model": "glm-5.3"
+}

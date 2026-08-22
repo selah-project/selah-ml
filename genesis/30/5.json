@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 30,
+  "translation": "ബിൽഹാ ഗർഭം ധരിച്ചു, യാക്കോവിന് ഒരു മകനെ പ്രസവിച്ചു.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ഗർഭം ധരിച്ചു"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "ബിൽഹാ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "പ്രസവിച്ചു"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "യാക്കോവിന്"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T08:38:16.298188192Z",
+  "model": "glm-5.3"
+}

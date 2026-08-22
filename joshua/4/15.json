@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 4:15",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 4,
+  "translation": "യാഹ്‌വെ യെഹോശുവിനോടു അരുളിച്ചെയ്തു:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "അരുളിച്ചെയ്തു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "യെഹോശുവിനോടു"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "യെഹോശുവിനോടു"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "എന്നു"
+    }
+  ],
+  "timestamp": "2026-08-22T11:24:21.933243846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "ml",
+  "chapter": 23,
+  "translation": "ഒന്നാം ദിവസം വിശുദ്ധ സമാഗമം ⟨is⟩; ഏതു ജോലി-വേലയും നിങ്ങൾ ചെയ്യരുത്.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ഒന്നാം ദിവസം"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ഒന്നാം"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "സമാഗമം"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "വിശുദ്ധ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ഏതു"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ജോലി"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "വേല"
+    },
+    {
+      "surface": "לא",
+      "gloss": "അരുത്"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "നിങ്ങൾ ചെയ്യരുത്"
+    }
+  ],
+  "timestamp": "2026-08-22T18:33:25.815828593Z",
+  "model": "glm-5.3"
+}

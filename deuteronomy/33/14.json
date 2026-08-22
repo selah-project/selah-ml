@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 33:14",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 33,
+  "translation": "സൂര്യന്റെ വിളകളുടെ മേന്മയിൽ, മാസങ്ങളുടെ മുളച്ചുയരുന്നവയുടെ മേന്മയിൽ.",
+  "tokens": [
+    {
+      "surface": "וממגד",
+      "gloss": "വ-മേന്മ"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "വിളകൾ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "സൂര്യൻ"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "വ-മേന്മ"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "മുളച്ചുയരുന്നത്"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "മാസങ്ങൾ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:21:01.272481984Z",
+  "model": "glm-5.3"
+}

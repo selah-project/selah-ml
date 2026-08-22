@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 7:19",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ബിഗ്വായിന്റെ പുത്രന്മാർ — രണ്ടായിരം അറുപത്തിഏഴു്.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "ബിഗ്വായിന്റെ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "രണ്ടായിരം"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "അറുപത്തി"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ഏഴു്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:41:58.588066658Z",
+  "model": "glm-5.3"
+}

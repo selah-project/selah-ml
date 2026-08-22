@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "nehemiah 7:48",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ലെബാനായുടെ മക്കൾ, ഖഗാബായുടെ മക്കൾ, ഷല്മായിയുടെ മക്കൾ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ലെബാനായുടെ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "ഖഗാബായുടെ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "ഷല്മായിയുടെ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:42:17.252556420Z",
+  "model": "glm-5.3"
+}

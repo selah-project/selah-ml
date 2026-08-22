@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 12,
+  "translation": "അതു നീ തിന്നരുത്; അതിനെ ഭൂമിയിൽ വെള്ളംപോലെ നീ ഒഴിക്കും.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "അരുത്"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "നീ തിന്നരുത്"
+    },
+    {
+      "surface": "על",
+      "gloss": "ഇൽ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ഭൂമിയിൽ"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "നീ ഒഴിക്കും"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "വെള്ളംപോലെ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:07:38.618964274Z",
+  "model": "glm-5.3"
+}

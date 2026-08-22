@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 27:17",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 27,
+  "translation": "ലേവ്യരുടെ മേൽ ഖശബ്യാഹ് കെമുവേലിന്റെ മകൻ; അഹരോന്റെ മേൽ സാദോക്.",
+  "tokens": [
+    {
+      "surface": "ללוי",
+      "gloss": "ലേവ്യരുടെ മേൽ"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ഖശബ്യാഹ്"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "കെമുവേലിന്റെ"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "അഹരോന്റെ മേൽ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "സാദോക്"
+    }
+  ],
+  "timestamp": "2026-08-22T18:02:12.773443716Z",
+  "model": "glm-5.3"
+}

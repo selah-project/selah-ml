@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 140,
+  "translation": "സംഗീതാധ്യക്ഷനു്. ദാവീദിന്റെ മിസ്മോർ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "സംഗീതാധ്യക്ഷനു്"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "മിസ്മോർ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ദാവീദിന്റെ"
+    }
+  ],
+  "timestamp": "2026-08-22T16:24:09.886806082Z",
+  "model": "glm-5.3"
+}

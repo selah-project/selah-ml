@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "ഇവർ ⟨are⟩ ഗെർശോമിന്റെ പുത്രന്മാരുടെ പേരുകൾ: ലിബ്നി, ശിമെയ്.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ഇവർ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "പേരുകൾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാരുടെ"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "ഗെർശോമിന്റെ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ലിബ്നി"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "ശിമെയ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:49:25.227789035Z",
+  "model": "glm-5.3"
+}

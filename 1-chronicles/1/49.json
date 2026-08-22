@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 1:49",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "ശാവൂൽ മരിച്ചു; അദ്ദേഹത്തിന്റെ പകരം ബആൽ-ഖാനാൻ, അഖ്ബോറിന്റെ മകൻ, രാജാവായി.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "മരിച്ചു"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ശാവൂൽ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "രാജാവായി"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "അദ്ദേഹത്തിന്റെ പകരം"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ബആൽ-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ഖാനാൻ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "അഖ്ബോർ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:46:29.099165781Z",
+  "model": "glm-5.3"
+}

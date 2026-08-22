@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "ഞാൻ യെരൂശാലയിമിലേക്ക് വന്നു, അവിടെ മൂന്ന് ദിവസം ആയിരുന്നു.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "ഞാൻ വന്നു"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ലേക്ക്"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "യെരൂശാലയിമിൽ"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "ആയിരുന്നു"
+    },
+    {
+      "surface": "שם",
+      "gloss": "അവിടെ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ദിവസം"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "മൂന്ന്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:40:29.251751084Z",
+  "model": "glm-5.3"
+}

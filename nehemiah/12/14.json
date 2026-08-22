@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 12:14",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 12,
+  "translation": "മല്ലൂച്ചിനു യോനാഥാൻ; ശെബന്യാഹുവിനു യോസേഫ്;",
+  "tokens": [
+    {
+      "surface": "למלוכי",
+      "gloss": "മല്ലൂച്ചിനു"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "യോനാഥാൻ"
+    },
+    {
+      "surface": "לשבניה",
+      "gloss": "ശെബന്യാഹുവിനു"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "യോസേഫ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:44:21.957642225Z",
+  "model": "glm-5.3"
+}

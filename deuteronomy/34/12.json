@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 34:12",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 34,
+  "translation": "ശക്തമായ കൈയിലും മഹാ ഭയത്തിലും — മോശെ യിസ്രായേലിന്റെ മുഴുവൻ കണ്മുന്നിൽ ചെയ്തവയിലും.",
+  "tokens": [
+    {
+      "surface": "ולכל",
+      "gloss": "എല്ലാ"
+    },
+    {
+      "surface": "היד",
+      "gloss": "കൈയിലും"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "ശക്തമായ"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "എല്ലാ"
+    },
+    {
+      "surface": "המורא",
+      "gloss": "ഭയത്തിലും"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "മഹാ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ചെയ്ത"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെ"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "കണ്മുന്നിൽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "മുഴുവൻ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "യിസ്രായേലിന്റെ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:24:15.991229725Z",
+  "model": "glm-5.3"
+}

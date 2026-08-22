@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "ആകാശവും ഭൂമിയും അവയുടെ സകല സൈന്യവും ചെയ്തു തീർന്നു.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "ചെയ്തു തീർന്നു"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ആകാശവും"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ഭൂമിയും"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "സകല"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "അവയുടെ സൈന്യവും"
+    }
+  ],
+  "timestamp": "2026-08-22T08:12:38.970013474Z",
+  "model": "glm-5.3"
+}

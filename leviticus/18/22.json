@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "ml",
+  "chapter": 18,
+  "translation": "⟨את⟩ പുരുഷനോട് സ്ത്രീയുടെ ശയനങ്ങളിൽ കിടക്കരുത്; അത് തിരസ്കാര്യമാണ്.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "പുരുഷൻ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "പുരുഷൻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "അരുത്"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "കിടക്കരുത്"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "ശയനങ്ങളിൽ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "സ്ത്രീ"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "തിരസ്കാര്യം"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "അത്"
+    }
+  ],
+  "timestamp": "2026-08-22T10:02:45.117313783Z",
+  "model": "glm-5.3"
+}

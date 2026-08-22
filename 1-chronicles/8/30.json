@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 8,
+  "translation": "അവന്റെ ആദ്യജാതനായ മകൻ അബ്ദോൻ, സൂർ, ക്വീഷ്, ബാഅൽ, നദാബ്.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "അവന്റെ മകൻ"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ആദ്യജാതനായ"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "അബ്ദോൻ"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "സൂർ"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "ക്വീഷ്"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "ബാഅൽ"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "നദാബ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:51:29.328297159Z",
+  "model": "glm-5.3"
+}

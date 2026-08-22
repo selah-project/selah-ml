@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 1:4",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "നോഅഖ്, ശേം, ഖാം, ഉം യാഫെത്ത്.",
+  "tokens": [
+    {
+      "surface": "נח",
+      "gloss": "നോഅഖ്"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ശേം"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ഖാം"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "ഉം യാഫെത്ത്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:46:21.771892948Z",
+  "model": "glm-5.3"
+}

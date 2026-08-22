@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 29,
+  "translation": "യാക്കോവ് റാഹേലിന് ചുംബനം നൽകി, തന്റെ സ്വരം ⟨את⟩ ഉയർത്തി, കരഞ്ഞു.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "ചുംബനം നൽകി"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "യാക്കോവ്"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "റാഹേലിന്"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ഉയർത്തി"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "സ്വരം"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "സ്വരം"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "കരഞ്ഞു"
+    }
+  ],
+  "timestamp": "2026-08-22T08:36:23.306929591Z",
+  "model": "glm-5.3"
+}

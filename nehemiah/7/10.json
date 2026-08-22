@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 7:10",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "അരഖിന്റെ പുത്രന്മാർ — അറുനൂറ്റിയമ്പത്തിരണ്ടു പേർ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "അരഖിന്റെ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ആറ്"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "നൂറ്"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "അമ്പത്"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "രണ്ട്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:39:32.973525621Z",
+  "model": "glm-5.3"
+}

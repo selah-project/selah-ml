@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "ml",
+  "chapter": 4,
+  "translation": "⟨את⟩ ഒരു സമുദ്രം, വും ⟨את⟩ അതിനു കീഴിൽ പന്ത്രണ്ട് കാളകളെ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ഒരു സമുദ്രം"
+    },
+    {
+      "surface": "הים",
+      "gloss": "സമുദ്രം"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ഒന്ന്"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "കാളകളെ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "കാളകളെ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "രണ്ട്"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "പത്ത്"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "അതിനു കീഴിൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T18:06:56.696305818Z",
+  "model": "glm-5.3"
+}

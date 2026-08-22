@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 12:14",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 12,
+  "translation": "ഖോർമായുടെ രാജാവ് ഒന്ന്; അറാദിന്റെ രാജാവ് ഒന്ന്;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "രാജാവ്"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "ഖോർമായുടെ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ഒന്ന്"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "രാജാവ്"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "അറാദിന്റെ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ഒന്ന്"
+    }
+  ],
+  "timestamp": "2026-08-22T11:31:01.748487014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "ml",
+  "chapter": 25,
+  "translation": "യാഹ്‌വെ സീനായ് പർവ്വതത്തിൽ മോശെയോടു സംസാരിച്ചു, പറയാൻ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "സംസാരിച്ചു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "നോട്"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെയോടു"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "പർവ്വതത്തിൽ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "സീനായ്"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയാൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T18:33:19.986708430Z",
+  "model": "glm-5.3"
+}

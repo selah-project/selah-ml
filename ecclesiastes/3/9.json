@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "താൻ അദ്ധ്വാനിക്കുന്നതിൽ പ്രവർത്തിക്കുന്നവനു എന്താണ് ലാഭം?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "എന്ത്"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ലാഭം"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "പ്രവർത്തിക്കുന്നവൻ"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "അതിൽ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "അവൻ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "അദ്ധ്വാനിക്കുന്നത്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:12:00.643708170Z",
+  "model": "glm-5.3"
+}

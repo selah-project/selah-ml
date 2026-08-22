@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 1:7",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "യാവാന്റെ മക്കൾ: എലീശാ, തർശീശാ, കിത്തീം, രോദാനീം.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "יון",
+      "gloss": "യാവാന്റെ"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "എലീശാ"
+    },
+    {
+      "surface": "ותרשישה",
+      "gloss": "തർശീശാ"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "കിത്തീം"
+    },
+    {
+      "surface": "ורודנים",
+      "gloss": "רോദാനീം"
+    }
+  ],
+  "timestamp": "2026-08-22T17:46:35.850920917Z",
+  "model": "glm-5.3"
+}

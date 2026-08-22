@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 7:12",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ഏലാമിന്റെ പുത്രന്മാർ — ആയിരത്തി ഇരുനൂറ്റിയമ്പത്തിനാലു പേർ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ഏലാമിന്റെ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ആയിരം"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ഇരുനൂറ്"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "അമ്പത്"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "നാല്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:39:32.973806070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 12:15",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 12,
+  "translation": "ലിബ്നായുടെ രാജാവ് ഒന്ന്; അദുല്ലാമിന്റെ രാജാവ് ഒന്ന്;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "രാജാവ്"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ലിബ്നായുടെ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ഒന്ന്"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "രാജാവ്"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "അദുല്ലാമിന്റെ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ഒന്ന്"
+    }
+  ],
+  "timestamp": "2026-08-22T11:31:01.748638991Z",
+  "model": "glm-5.3"
+}

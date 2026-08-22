@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 6:17",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "ഉയർന്ന കണ്ണുകൾ, കളവു നാക്ക്, നിഷ്കളങ്കരുടെ രക്തം ചൊരിയുന്ന കൈകൾ,",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "കണ്ണുകൾ"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "ഉയർന്ന"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "നാക്ക്"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "കളവു"
+    },
+    {
+      "surface": "וידים",
+      "gloss": "കൈകൾ"
+    },
+    {
+      "surface": "שפכות",
+      "gloss": "ചൊരിയുന്ന"
+    },
+    {
+      "surface": "דם",
+      "gloss": "രക്തം"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "നിഷ്കളങ്കരുടെ"
+    }
+  ],
+  "timestamp": "2026-08-22T16:29:46.852059946Z",
+  "model": "glm-5.3"
+}

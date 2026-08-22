@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "യെഹൂദാവിന് — അമ്മീനദാബിന്റെ മകൻ നഖ്ശോൻ.",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "യെഹൂദാവിന്"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "നഖ്ശോൻ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "അമ്മീനദാബ്"
+    }
+  ],
+  "timestamp": "2026-08-22T10:13:55.538413050Z",
+  "model": "glm-5.3"
+}

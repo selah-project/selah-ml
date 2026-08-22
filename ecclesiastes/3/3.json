@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "കൊല്ലാൻ ഒരു കാലം, സൗഖ്യമാക്കാൻ ഒരു കാലം; തകർക്കാൻ ഒരു കാലം, പണിയാൻ ഒരു കാലം.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ഒരു കാലം"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "കൊല്ലാൻ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ഒരു കാലം"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "സൗഖ്യമാക്കാൻ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ഒരു കാലം"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "തകർക്കാൻ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ഒരു കാലം"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "പണിയാൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:12:08.324523105Z",
+  "model": "glm-5.3"
+}

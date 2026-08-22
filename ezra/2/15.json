@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 2:15",
+  "book": "ezra",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "ആദീന്റെ പുത്രന്മാർ — നാലും നൂറും അമ്പത്തിനാലും.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "ആദീന്റെ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "നാലും"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "നൂറും"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "അമ്പത്തി"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "നാലും"
+    }
+  ],
+  "timestamp": "2026-08-22T17:30:25.537076975Z",
+  "model": "glm-5.3"
+}

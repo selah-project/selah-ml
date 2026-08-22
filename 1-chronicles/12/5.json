@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 12:5",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 12,
+  "translation": "യിർമെയാഹും യാഖസിയേലും യോഖാനാനും ഗദേരാത്തിയായ യോസാവാദും",
+  "tokens": [
+    {
+      "surface": "וירמיה",
+      "gloss": "യിർമെയാഹ്"
+    },
+    {
+      "surface": "ויחזיאל",
+      "gloss": "യാഖസിയേൽ"
+    },
+    {
+      "surface": "ויוחנן",
+      "gloss": "യോഖാനാൻ"
+    },
+    {
+      "surface": "ויוזבד",
+      "gloss": "യോസാവാദ്"
+    },
+    {
+      "surface": "הגדרתי",
+      "gloss": "ഗദേരാത്തി"
+    }
+  ],
+  "timestamp": "2026-08-22T17:52:57.117018806Z",
+  "model": "glm-5.3"
+}

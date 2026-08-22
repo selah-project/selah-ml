@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 34:1",
+  "book": "ezekiel",
+  "lang": "ml",
+  "chapter": 34,
+  "translation": "യാഹ്‌വെയുടെ വാക്ക് എന്നിലേക്ക് വരായി, പറയുവാൻ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "വരായി"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "വാക്ക്"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെയുടെ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "എന്നിലേക്ക്"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയുവാൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T14:59:25.962698956Z",
+  "model": "glm-5.3"
+}

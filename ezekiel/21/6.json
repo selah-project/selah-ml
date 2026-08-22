@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 21:6",
+  "book": "ezekiel",
+  "lang": "ml",
+  "chapter": 21,
+  "translation": "യാഹ്‌വെയുടെ വാക്ക് എന്റെ അടുത്തേക്ക് വന്നു പറയുന്നത്:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "വന്നു"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "വാക്ക്"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെയുടെ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "എന്റെ അടുത്തേക്ക്"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയുന്നത്"
+    }
+  ],
+  "timestamp": "2026-08-22T14:47:46.665694369Z",
+  "model": "glm-5.3"
+}

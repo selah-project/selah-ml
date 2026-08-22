@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 32:21",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 32,
+  "translation": "മോശെ അഹറോനോടു പറഞ്ഞു: ഈ ജനം നിനക്കു എന്തു ചെയ്തു, ആകയാൽ നീ അവരുടെ മേൽ വലിയ പാപം കൊണ്ടുവന്നു?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "പറഞ്ഞു"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "നോടു"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "അഹറോൻ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "എന്തു"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ചെയ്തു"
+    },
+    {
+      "surface": "לך",
+      "gloss": "നിനക്കു"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ജനം"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ഈ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ആകയാൽ"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "കൊണ്ടുവന്നു"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "അവരുടെമേൽ"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "പാപം"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "വലിയ"
+    }
+  ],
+  "timestamp": "2026-08-22T09:36:27.527814799Z",
+  "model": "glm-5.3"
+}

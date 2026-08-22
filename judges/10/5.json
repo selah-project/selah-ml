@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "യാഇർ മരിച്ചു, ഖാമോനിൽ സംസ്കരിക്കപ്പെട്ടു.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "മരിച്ചു"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "യാഇർ"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "സംസ്കരിക്കപ്പെട്ടു"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "ഖാമോനിൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:48:10.509858860Z",
+  "model": "glm-5.3"
+}

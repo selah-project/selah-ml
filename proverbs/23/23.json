@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 23,
+  "translation": "സത്യം വാങ്ങുക, വിൽക്കരുത്; ജ്ഞാനവും ശിക്ഷണവും വിവേകവും ⟨വാങ്ങുക⟩.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "സത്യം"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "വാങ്ങുക"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ചെയ്യരുത്"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "വിൽക്കരുത്"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ജ്ഞാനം"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "ശിക്ഷണം"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "വിവേകം"
+    }
+  ],
+  "timestamp": "2026-08-22T16:37:56.036490575Z",
+  "model": "glm-5.3"
+}

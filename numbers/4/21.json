@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 4:21",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 4,
+  "translation": "ആയിരിക്കെ യാഹ്‌വെ മോശെയോട് സംസാരിച്ചു, പറയുന്നതു:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ആയിരിക്കെ സംസാരിച്ചു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ഇതിനോട്"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെയോട്"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയുന്നതു"
+    }
+  ],
+  "timestamp": "2026-08-22T10:19:59.575142820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 11:34",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "ഗിസോനിയായ ഹാശേമിന്റെ പുത്രന്മാർ, ഹരാരിയായ ശാഗേയുടെ പുത്രൻ യോനതാൻ,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "השם",
+      "gloss": "ഹാശേം"
+    },
+    {
+      "surface": "הגזוני",
+      "gloss": "ഗിസോനി"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "യോനതാൻ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "പുത്രൻ"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "ശാഗേ"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "ഹരാരി"
+    }
+  ],
+  "timestamp": "2026-08-22T17:52:20.353635547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 5,
+  "translation": "ജീവിച്ചു യാരേദ് രണ്ടും അറുപതും വർഷം നൂറ് വർഷം; ജനിപ്പിച്ചു ⟨את⟩ ഹനോഖിനെ.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ജീവിച്ചു"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "യാരേദ്"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "രണ്ടും"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "അറുപതും"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "വർഷം"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "നൂറ്"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "വർഷം"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ജനിപ്പിച്ചു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ഹനോഖിനെ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ഹനോഖ്"
+    }
+  ],
+  "timestamp": "2026-08-22T08:15:32.290345264Z",
+  "model": "glm-5.3"
+}

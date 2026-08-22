@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 12:21",
+  "book": "ezekiel",
+  "lang": "ml",
+  "chapter": 12,
+  "translation": "യാഹ്‌വെയുടെ വചനം എന്നിലേക്ക് വന്നു, പറയുന്നു:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "സംഭവിച്ചു"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "വചനം"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെയുടെ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "എന്നിലേക്ക്"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയുന്നു"
+    }
+  ],
+  "timestamp": "2026-08-22T14:40:58.897886818Z",
+  "model": "glm-5.3"
+}

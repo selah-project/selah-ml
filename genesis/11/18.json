@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "പേലെഗ് മുപ്പത് വർഷം ജീവിച്ചു, ⟨את⟩ രെഉവിനെ ജനിപ്പിച്ചു.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ജീവിച്ചു"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "പേലെഗ്"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "മുപ്പത്"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "വർഷം"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ജനിപ്പിച്ചു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "രെഉവിനെ"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "രെഉ്"
+    }
+  ],
+  "timestamp": "2026-08-22T08:20:03.695540827Z",
+  "model": "glm-5.3"
+}

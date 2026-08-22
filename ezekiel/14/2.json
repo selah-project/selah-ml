@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 14:2",
+  "book": "ezekiel",
+  "lang": "ml",
+  "chapter": 14,
+  "translation": "യാഹ്‌വെയുടെ വാക്ക് എന്റെ അടുക്കൽ വന്നു, പറയുന്നതു:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ആയി"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "വാക്ക്"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെയുടെ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "എന്റെ അടുക്കൽ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയുന്നതു"
+    }
+  ],
+  "timestamp": "2026-08-22T14:43:29.058401099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 11:41",
+  "book": "leviticus",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "ഭൂമിയിൽ ഇഴയുന്ന എല്ലാ ഇഴജീവിയും അരുവാത്തം ⟨ആണ്⟩; അത് ഭക്ഷിക്കപ്പെടില്ല.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "വക എല്ലാ"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "ഇഴജീവി"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "ഇഴയുന്ന"
+    },
+    {
+      "surface": "על",
+      "gloss": "മേൽ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ഭൂമി"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "അരുവാത്തം"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "അത്"
+    },
+    {
+      "surface": "לא",
+      "gloss": "വേണ്ട"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ഭക്ഷിക്കപ്പെടുക"
+    }
+  ],
+  "timestamp": "2026-08-22T09:56:17.650084826Z",
+  "model": "glm-5.3"
+}

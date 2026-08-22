@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 3:11",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "യാഹ്‌വെ മോശെയോട് സംസാരിച്ചു, പറയുന്നതു:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "സംസാരിച്ചു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ഇതിനോട്"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെയോട്"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയുന്നതു"
+    }
+  ],
+  "timestamp": "2026-08-22T10:19:06.047357219Z",
+  "model": "glm-5.3"
+}

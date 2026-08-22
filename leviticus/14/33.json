@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 14:33",
+  "book": "leviticus",
+  "lang": "ml",
+  "chapter": 14,
+  "translation": "യാഹ്‌വെ മോശെയോടും അഹരോനോടും സംസാരിച്ചു പറയുവാൻ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "സംസാരിച്ചു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "നോടു"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "നോടും"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "അഹരോൻ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയുവാൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T09:59:48.431095866Z",
+  "model": "glm-5.3"
+}

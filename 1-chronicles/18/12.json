@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 18,
+  "translation": "സെരുയായുടെ മകൻ അബീശെയ് ⟨את⟩ എദോമിനെ ഉപ്പുത്താഴിൽ തല്ലിയറക്കി — പതിനെട്ട് ആയിരം.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "അബീശെയ്"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "സെരുയായുടെ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "തല്ലിയറക്കി"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "എദോമിനെ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "എദോം"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "ത്താഴിൽ"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "ഉപ്പ്"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "എട്ട്"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "പത്ത്"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ആയിരം"
+    }
+  ],
+  "timestamp": "2026-08-22T17:58:55.457399274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 12:8",
+  "book": "ezekiel",
+  "lang": "ml",
+  "chapter": 12,
+  "translation": "രാവിലെ യാഹ്‌വെയുടെ വചനം എന്നോടു ഭവിച്ചു, പറയുന്നതു:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ഭവിച്ചു"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "വചനം"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെയുടെ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "എന്നോടു"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "രാവിലെ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയുന്നതു"
+    }
+  ],
+  "timestamp": "2026-08-22T14:41:18.121113345Z",
+  "model": "glm-5.3"
+}

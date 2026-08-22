@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 13:8",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 13,
+  "translation": "എഫ്രായിം ഗോത്രത്തിന്റെ ⟨സന്തതിയിൽ⟩ — ഹോശെഅ്, നൂനിന്റെ മകൻ.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ഗോത്രത്തിന്റെ സന്തതിയിൽ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "എഫ്രായിം"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "ഹോശെഅ്"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "נון",
+      "gloss": "നൂൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T10:28:24.744355363Z",
+  "model": "glm-5.3"
+}

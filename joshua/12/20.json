@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 12,
+  "translation": "ഷിംരോൻ-മെരോന്റെ രാജാവ് ഒരുവൻ; അഖ്ഷാഫിന്റെ രാജാവ് ഒരുവൻ.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "രാജാവ്"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ഷിംരോൻ"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "മെരോൻ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ഒരുവൻ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "രാജാവ്"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "അഖ്ഷാഫ്"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ഒരുവൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:31:05.842444344Z",
+  "model": "glm-5.3"
+}

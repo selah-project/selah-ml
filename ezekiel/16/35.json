@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 16:35",
+  "book": "ezekiel",
+  "lang": "ml",
+  "chapter": 16,
+  "translation": "അതുകൊണ്ട്, വ്യഭിചാരിണിയേ, യാഹ്‌വെയുടെ വചനം കേൾക്കുക.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "അതുകൊണ്ട്"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "വ്യഭിചാരിണിയേ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "കേൾക്കുക"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "വചനം"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെയുടെ"
+    }
+  ],
+  "timestamp": "2026-08-22T14:46:14.985674484Z",
+  "model": "glm-5.3"
+}

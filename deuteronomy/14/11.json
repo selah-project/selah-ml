@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 14,
+  "translation": "എല്ലാ ശുദ്ധമായ പക്ഷിയും നിങ്ങൾക്കു ഭക്ഷിക്കാം.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "എല്ലാ"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "പക്ഷിയും"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "ശുദ്ധമായ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ഭക്ഷിക്കാം"
+    }
+  ],
+  "timestamp": "2026-08-22T18:35:49.291869300Z",
+  "model": "glm-5.3"
+}

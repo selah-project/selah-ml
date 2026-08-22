@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 22:39",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 22,
+  "translation": "ബില്ആം ബാലാകിനൊപ്പം പോയി, അവർ കിർയത്-ഹുത്സോത്തിലേക്ക് വന്നു.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "പോയി"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ബില്ആം"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ഒപ്പം"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ബാലാകിന്റെ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "അവർ വന്നു"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "കിർയത്"
+    },
+    {
+      "surface": "חצות",
+      "gloss": "ഹുത്സോത്ത്"
+    }
+  ],
+  "timestamp": "2026-08-22T10:41:56.634785551Z",
+  "model": "glm-5.3"
+}

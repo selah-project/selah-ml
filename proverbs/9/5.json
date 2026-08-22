@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 9,
+  "translation": "വരൂ, എന്റെ അപ്പം തിന്നുവീൺ, ഞാൻ കലക്കിയ വീഞ്ഞു കുടിക്കുവിൻ.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "വരൂ"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "തിന്നുവീൺ"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "എന്റെ അപ്പം"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "കുടിക്കുവിൻ"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "വീഞ്ഞു"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "ഞാൻ കലക്കിയ"
+    }
+  ],
+  "timestamp": "2026-08-22T16:30:48.601737483Z",
+  "model": "glm-5.3"
+}

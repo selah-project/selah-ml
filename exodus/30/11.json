@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 30:11",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 30,
+  "translation": "യാഹ്‌വെ മോശെയോട് അരുളിച്ചെയ്തു:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "അരുളിച്ചെയ്തു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ന്നോട്"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ഇങ്ങനെ പറഞ്ഞു"
+    }
+  ],
+  "timestamp": "2026-08-22T09:32:02.759903961Z",
+  "model": "glm-5.3"
+}

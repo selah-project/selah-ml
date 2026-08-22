@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 11:45",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "യെദീഅേൽ ശിംരീയുടെ മകൻ, അവന്റെ സഹോദരൻ യോഹാ ⟨തീസ്യൻ⟩.",
+  "tokens": [
+    {
+      "surface": "ידיעאל",
+      "gloss": "യെദീഅേൽ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ശിംരീയുടെ"
+    },
+    {
+      "surface": "ויחא",
+      "gloss": "യോഹാ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "സഹോദരൻ"
+    },
+    {
+      "surface": "התיצי",
+      "gloss": "തീസ്യൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:52:34.529170941Z",
+  "model": "glm-5.3"
+}

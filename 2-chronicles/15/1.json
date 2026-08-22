@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "ml",
+  "chapter": 15,
+  "translation": "ഓദെദിന്റെ മകനായ അസര്യാഹുവിന്റെ മേൽ എലോഹീം-ന്റെ റൂഅഖ് ⟨ആയിരുന്നു⟩.",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "വാ, അസര്യാഹു"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "ഓദെദിന്റെ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨ആയിരുന്നു⟩"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "മേൽ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "റൂഅഖ്"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "എലോഹീം"
+    }
+  ],
+  "timestamp": "2026-08-22T18:13:40.461552109Z",
+  "model": "glm-5.3"
+}

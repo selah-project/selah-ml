@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "യിസാസ്കാർക്ക് — ത്സുആരിന്റെ മകൻ നെതനേൽ.",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "യിസാസ്കാർക്ക്"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "നെതനേൽ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "ത്സുആർ"
+    }
+  ],
+  "timestamp": "2026-08-22T10:13:55.538504199Z",
+  "model": "glm-5.3"
+}

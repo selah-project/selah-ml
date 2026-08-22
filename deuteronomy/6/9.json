@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "നിന്റെ വീടിന്റെ തല്ലികളിലും നിന്റെ കവാടങ്ങളിലും അവയെ എഴുതുക.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "എഴുതുക"
+    },
+    {
+      "surface": "על",
+      "gloss": "മേൽ"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "തല്ലികളിലും"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "നിന്റെ വീട്"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "നിന്റെ കവാടങ്ങളിലും"
+    }
+  ],
+  "timestamp": "2026-08-22T10:58:50.423092854Z",
+  "model": "glm-5.3"
+}

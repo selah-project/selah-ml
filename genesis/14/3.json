@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 14,
+  "translation": "എല്ലാവരും ചേർന്നു സിദ്ദീം താഴ്വരയിലേക്ക് — അതു ⟨is⟩ ഉപ്പുകടൽ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "എല്ലാം"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ഇവർ"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "ചേർന്നു"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ലേക്ക്"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "താഴ്വര"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "സിദ്ദീം"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "അതു"
+    },
+    {
+      "surface": "ים",
+      "gloss": "കടൽ"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "ഉപ്പു"
+    }
+  ],
+  "timestamp": "2026-08-22T08:21:13.918321212Z",
+  "model": "glm-5.3"
+}

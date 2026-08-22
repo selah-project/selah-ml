@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 23:7",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 23,
+  "translation": "ഗെർഷോണ്യർക്ക് — ലഅ്ദാനും ശിമ്ഇയും.",
+  "tokens": [
+    {
+      "surface": "לגרשני",
+      "gloss": "ഗെർഷോണ്യർക്ക്"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "ലഅ്ദാൻ"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "ശിമ്ഇയ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:59:33.150961788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezra 2:17",
+  "book": "ezra",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "ബെസായിയുടെ പുത്രന്മാർ — മുന്നൂറ്റിരിപത്തിമൂന്നു പേർ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "בצי",
+      "gloss": "ബെസായി"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "മൂന്ന്"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "നൂറുകൾ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ഇരുപത്"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "മൂന്ന്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:30:19.385351593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "എന്റെ മാംസവും ത്വക്കും അവൻ നശിപ്പിച്ചു; എന്റെ അസ്ഥികൾ തകർത്തു.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "നശിപ്പിച്ചു"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "മാംസവും"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "ത്വക്കും"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "തകർത്തു"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "അസ്ഥികൾ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:08:46.139721915Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 22:29",
+  "book": "jeremiah",
+  "lang": "ml",
+  "chapter": 22,
+  "translation": "ഭൂമിയേ, ഭൂമിയേ, ഭൂമിയേ, യാഹ്‌വെയുടെ വാക്കു കേൾക്കുക!",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ഭൂമിയേ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ഭൂമിയേ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ഭൂമിയേ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "കേൾക്കുക"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "വാക്കു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെയുടെ"
+    }
+  ],
+  "timestamp": "2026-08-22T14:08:36.331422488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 19:45",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 19,
+  "translation": "യിഹൂദും, ബെനെ-ബെരാകും, ഗത്-രിമ്മോനും.",
+  "tokens": [
+    {
+      "surface": "ויהד",
+      "gloss": "യിഹൂദും"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ബെനെ-…ഉം"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "ബെരാക്"
+    },
+    {
+      "surface": "וגת",
+      "gloss": "…ഗത്-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "രിമ്മോനും"
+    }
+  ],
+  "timestamp": "2026-08-22T11:36:00.170153900Z",
+  "model": "glm-5.3"
+}

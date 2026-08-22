@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 27:6",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 27,
+  "translation": "യാഹ്‌വെ മോശെയോട് അരുളിച്ചെയ്തു, പറയുന്നതു:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "അരുളിച്ചെയ്തു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "മോശെയോട്"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയുന്നതു"
+    }
+  ],
+  "timestamp": "2026-08-22T10:46:31.215815949Z",
+  "model": "glm-5.3"
+}

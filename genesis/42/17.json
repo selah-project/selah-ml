@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 42,
+  "translation": "അവൻ ⟨את⟩ അവരെ കാവലിലേക്ക് ചേർത്തു, മൂന്നു ദിവസം.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "അവൻ ചേർത്തു"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "അവരെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "കാവലിലേക്ക്"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "കാവലിൽ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "മൂന്നു"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ദിവസം"
+    }
+  ],
+  "timestamp": "2026-08-22T08:52:48.760547198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 21:9",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 21,
+  "translation": "യാഹ്‌വെ ദാവിദിന്റെ ദർശകനായ ഗാദിനോട് അരുളിച്ചെയ്തു:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "അരുളിച്ചെയ്തു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "നോട്"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ഗാദിനോട്"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ദർശകനായ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ദാവിദിന്റെ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "എന്നു"
+    }
+  ],
+  "timestamp": "2026-08-22T17:59:05.542325576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "⟨את⟩ ദായെയും ⟨את⟩ അയായെയും അതിന്റെ വർഗ്ഗത്തോടെ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ദായെയും"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "ദായ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "അയായെയും"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "അയാ"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "അതിന്റെ വർഗ്ഗത്തോടെ"
+    }
+  ],
+  "timestamp": "2026-08-22T09:52:32.791346499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 13:12",
+  "book": "ezekiel",
+  "lang": "ml",
+  "chapter": 13,
+  "translation": "ഇതാ, ചുമർ വീണു — നിങ്ങളോടു പറയപ്പെടില്ലയോ: നിങ്ങൾ തേച്ച തേപ്പ് എവിടെ?",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "ഇതാ"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "വീണു"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "ചുമർ"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "അല്ലയോ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "പറയപ്പെടില്ല"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "നിങ്ങളോടു"
+    },
+    {
+      "surface": "איה",
+      "gloss": "എവിടെ"
+    },
+    {
+      "surface": "הטיח",
+      "gloss": "തേപ്പ്"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "അത്"
+    },
+    {
+      "surface": "טחתם",
+      "gloss": "നിങ്ങൾ തേച്ചത്"
+    }
+  ],
+  "timestamp": "2026-08-22T14:42:36.894304897Z",
+  "model": "glm-5.3"
+}

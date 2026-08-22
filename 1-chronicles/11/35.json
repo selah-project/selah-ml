@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 11:35",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "ഹരാരിയായ സാഖറിന്റെ പുത്രൻ അഖിയാം, ഊരിന്റെ പുത്രൻ എലീഫൽ,",
+  "tokens": [
+    {
+      "surface": "אחיאם",
+      "gloss": "അഖിയാം"
+    },
+    {
+      "surface": "בן",
+      "gloss": "പുത്രൻ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "സാഖർ"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "ഹരാരി"
+    },
+    {
+      "surface": "אליפל",
+      "gloss": "എലീഫൽ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "പുത്രൻ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ഊർ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:52:20.353791733Z",
+  "model": "glm-5.3"
+}

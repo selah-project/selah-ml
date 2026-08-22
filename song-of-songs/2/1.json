@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "ഞാൻ ശാരോൻ താഴ്വരയിലെ ⟨ഒരു⟩ പുഷ്പം, താഴ്വരകളിലെ മുല്ല.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ഞാൻ"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "പുഷ്പം"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "ശാരോൻ താഴ്വരയിലെ"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "മുല്ല"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "താഴ്വരകളിലെ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:02:32.779130743Z",
+  "model": "glm-5.3"
+}

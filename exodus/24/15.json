@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 24,
+  "translation": "മോശെ മലയിലേക്ക് കയറി, മേഘം ⟨את⟩ മലയെ മൂടി.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "കയറി"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ലേക്ക്"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "മലയിലേക്ക്"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "മൂടി"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "മേഘം"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "മലയെ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "മലയെ"
+    }
+  ],
+  "timestamp": "2026-08-22T09:23:55.327365810Z",
+  "model": "glm-5.3"
+}

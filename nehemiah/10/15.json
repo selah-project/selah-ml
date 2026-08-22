@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "ജനങ്ങളുടെ തലവന്മാർ: പരോശ്, പാഹത്-മോആബ്, ഏലാം, സത്തൂ, ബാനി.",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "തലവന്മാർ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ജനങ്ങളുടെ"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "പരോശ്"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "പാഹത്"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "മോആബ്"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ഏലാം"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "സത്തൂ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ബാനി"
+    }
+  ],
+  "timestamp": "2026-08-22T17:44:06.245306609Z",
+  "model": "glm-5.3"
+}

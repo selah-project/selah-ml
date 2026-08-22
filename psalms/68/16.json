@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 68,
+  "translation": "എലോഹീമുടെ മലയാണ് ബാശാൻ മല; കൊടുമുടികളുടെ മലയാണ് ബാശാൻ മല.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "മല"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "എലോഹീമുടെ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "മല"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ബാശാന്റെ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "മല"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "കൊടുമുടികളുടെ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "മല"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ബാശാന്റെ"
+    }
+  ],
+  "timestamp": "2026-08-22T16:00:06.047407781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 4:1",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 4,
+  "translation": "യാഹ്‌വെ മോശെയോടും അഹരോനോടും അരുളുവാൻ ഇടയായി",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "അരുളുവാൻ ഇടയായി"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ഇടയായി"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ഉം ഇടയായി"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "അഹരോൻ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "അരുളുവാൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T10:19:36.022688957Z",
+  "model": "glm-5.3"
+}

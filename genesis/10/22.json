@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "ശെമിന്റെ പുത്രന്മാർ: എലാം, അശ്ശൂർ, അർപ്പക്ഷാദ്, ലൂദ്, അറാം.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ശെമിന്റെ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "എലാം"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "അശ്ശൂർ"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "അർപ്പക്ഷാദ്"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "ലൂദ്"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "അറാം"
+    }
+  ],
+  "timestamp": "2026-08-22T08:19:37.445602293Z",
+  "model": "glm-5.3"
+}

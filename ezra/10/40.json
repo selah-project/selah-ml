@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezra 10:40",
+  "book": "ezra",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "മഖ്നദ്ബായ്, ശാശായ്, ശാരായ് —",
+  "tokens": [
+    {
+      "surface": "מכנדבי",
+      "gloss": "മഖ്നദ്ബായ്"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "ശാശായ്"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ശാരായ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:36:13.680310944Z",
+  "model": "glm-5.3"
+}

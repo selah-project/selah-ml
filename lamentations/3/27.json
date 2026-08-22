@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "നല്ലതാകുന്നു പുരുഷന്, തന്റെ യൗവനത്തിൽ നുകം വഹിക്കുന്നതു.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "നല്ലതു"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "പുരുഷന്"
+    },
+    {
+      "surface": "כי",
+      "gloss": "— എങ്കിൽ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "വഹിക്കുന്നതു"
+    },
+    {
+      "surface": "על",
+      "gloss": "നുകം"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "തന്റെ യൗവനത്തിൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:08:21.816522860Z",
+  "model": "glm-5.3"
+}

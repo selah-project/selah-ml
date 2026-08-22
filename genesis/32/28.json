@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 32:28",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 32,
+  "translation": "അവൻ അവനോടു പറഞ്ഞു: നിന്റെ പേര് ⟨is⟩ എന്ത്? അവൻ പറഞ്ഞു: യാക്കോവ്.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "പറഞ്ഞു"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "അവനോടു"
+    },
+    {
+      "surface": "מה",
+      "gloss": "എന്ത്"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "നിന്റെ പേര്"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "പറഞ്ഞു"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "യാക്കോവ്"
+    }
+  ],
+  "timestamp": "2026-08-22T08:39:49.738252557Z",
+  "model": "glm-5.3"
+}

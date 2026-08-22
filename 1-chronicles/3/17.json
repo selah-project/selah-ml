@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "യെഖോന്യാഹ് അസ്സീരിന്റെ പുത്രന്മാർ: ഷെഅൾത്തീഎൽ അവന്റെ മകൻ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "യെഖോന്യാഹ്"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "അസ്സീർ"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "ഷെഅൾത്തീഎൽ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "അവന്റെ മകൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:48:43.803243477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 19:42",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 19,
+  "translation": "ശആലബ്ബീൻ, അയ്യാലോൻ, യിത്ലാ എന്നിവയും,",
+  "tokens": [
+    {
+      "surface": "ושעלבין",
+      "gloss": "ശആലബ്ബീൻ"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "അയ്യാലോൻ"
+    },
+    {
+      "surface": "വിപര്യയം",
+      "gloss": "—"
+    },
+    {
+      "surface": "יתלה",
+      "gloss": "യിത്ലാ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:35:01.897788800Z",
+  "model": "glm-5.3"
+}

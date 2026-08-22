@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 31:34",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 31,
+  "translation": "കഴുതകൾ അറുപത്തൊന്നായിരം.",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "കഴുതകൾ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ഒന്ന്"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "അറുപത്"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ആയിരം"
+    }
+  ],
+  "timestamp": "2026-08-22T10:48:10.617163748Z",
+  "model": "glm-5.3"
+}

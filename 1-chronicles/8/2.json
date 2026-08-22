@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 8:2",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 8,
+  "translation": "നോഹാ നാലാമൻ, രാഫാ അഞ്ചാമൻ.",
+  "tokens": [
+    {
+      "surface": "נוחה",
+      "gloss": "നോഹാ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "നാലാമൻ"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "രാഫാ"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "അഞ്ചാമൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:51:18.420433617Z",
+  "model": "glm-5.3"
+}

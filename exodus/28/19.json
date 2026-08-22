@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 28:19",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 28,
+  "translation": "മൂന്നാമത്തെ വരി: ലെശെം, ശെബോ, അച്ലാമാ.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "വരി"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "മൂന്നാമത്തെ"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ലെശെം"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ശെബോ"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "അച്ലാമാ"
+    }
+  ],
+  "timestamp": "2026-08-22T09:28:57.032771653Z",
+  "model": "glm-5.3"
+}

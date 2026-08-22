@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 19:20",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 19,
+  "translation": "ഹരബ്ബീത്ത്, കിഷ്യോൻ, അവെസ് എന്നിവയും.",
+  "tokens": [
+    {
+      "surface": "והרבית",
+      "gloss": "ഹരബ്ബീത്ത്"
+    },
+    {
+      "surface": "וקשיון",
+      "gloss": "കിഷ്യോൻ"
+    },
+    {
+      "surface": "ואבץ",
+      "gloss": "അവെസ്"
+    }
+  ],
+  "timestamp": "2026-08-22T11:35:24.299806018Z",
+  "model": "glm-5.3"
+}

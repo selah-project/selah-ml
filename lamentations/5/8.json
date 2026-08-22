@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "ml",
+  "chapter": 5,
+  "translation": "അടിമകൾ നമ്മെ ഭരിച്ചു; അവരുടെ കയ്യിൽനിന്ന് വിടുവിക്കുന്നവൻ ആരുമില്ല.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "അടിമകൾ"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ഭരിച്ചു"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "നമ്മെ"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "വിടുവിക്കുന്നവൻ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "അവരുടെ കയ്യിൽനിന്ന്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:11:11.906178641Z",
+  "model": "glm-5.3"
+}

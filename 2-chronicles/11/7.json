@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "⟨את⟩ ബേത്ത്-ത്സൂരിനെയും ⟨את⟩ ശോഖോയെയും ⟨את⟩ അദുല്ലാമിനെയും.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ബേത്ത്-ത്സൂരിനെ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ബേത്ത്-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ത്സൂർ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ശോഖോയെ"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "ശോഖോ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "അദുല്ലാമിനെ"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "അദുല്ലാം"
+    }
+  ],
+  "timestamp": "2026-08-22T18:08:32.726014740Z",
+  "model": "glm-5.3"
+}

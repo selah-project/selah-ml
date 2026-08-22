@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 12:1",
+  "book": "job",
+  "lang": "ml",
+  "chapter": 12,
+  "translation": "ഇയ്യോവ് ഉത്തരം പറഞ്ഞു, അവൻ പറഞ്ഞു:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ഉത്തരം പറഞ്ഞു"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ഇയ്യോവ്"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "അവൻ പറഞ്ഞു"
+    }
+  ],
+  "timestamp": "2026-08-22T16:46:25.987287815Z",
+  "model": "glm-5.3"
+}

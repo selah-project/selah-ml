@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "അസര്യാ ⟨את⟩ ഖെലെസിനെ ജനിപ്പിച്ചു, ഖെലെസ് ⟨את⟩ എൽആസായെ ജനിപ്പിച്ചു.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "അസര്യാ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ജനിപ്പിച്ചു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ഖെലെസിനെ"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "ഖെലെസ്"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "ഖെലെസ്"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ജനിപ്പിച്ചു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "എൽആസായെ"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "എൽആസാ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:46:45.793149486Z",
+  "model": "glm-5.3"
+}

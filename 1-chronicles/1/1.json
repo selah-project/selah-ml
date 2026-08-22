@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 1:1",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "അദാം, ശേത്ത്, എനോശ്,",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "അദാം"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ശേത്ത്"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "എനോശ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:46:21.771487214Z",
+  "model": "glm-5.3"
+}

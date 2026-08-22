@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 11:44",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "ഉസ്സിയാഹ് അഷ്തെരാത്തീ, ശാമാ യെഇയേൽ — ഹോതാമിന്റെ മക്കൾ, അരോഅെരി;",
+  "tokens": [
+    {
+      "surface": "עזיא",
+      "gloss": "ഉസ്സിയാഹ്"
+    },
+    {
+      "surface": "העשתרתי",
+      "gloss": "അഷ്തെരാത്തീ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ശാമാ"
+    },
+    {
+      "surface": "ויעואל",
+      "gloss": "യെഇയേൽ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…മക്കൾ"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "ഹോതാമിന്റെ"
+    },
+    {
+      "surface": "הערערי",
+      "gloss": "അരോഅെരി"
+    }
+  ],
+  "timestamp": "2026-08-22T17:52:05.148503226Z",
+  "model": "glm-5.3"
+}

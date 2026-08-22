@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 36,
+  "translation": "ഇവർ ആണ് ഏസാവിന്റെ സന്തതിപരമ്പര — അവൻ ⟨ആണ്⟩ എദോം.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ഇവർ"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "സന്തതിപരമ്പര"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ഏസാവിന്റെ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "അവൻ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "എദോം"
+    }
+  ],
+  "timestamp": "2026-08-22T08:45:05.962084398Z",
+  "model": "glm-5.3"
+}

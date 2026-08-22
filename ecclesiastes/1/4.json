@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "ഒരു തലമുറ പോകുന്നു, ഒരു തലമുറ വരുന്നു; ഭൂമിയോ എന്നേക്കും നിലനിൽക്കുന്നു.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "തലമുറ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "പോകുന്നു"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ഒരു തലമുറ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "വരുന്നു"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ഭൂമിയോ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "എന്നേക്കും"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "നിലനിൽക്കുന്നു"
+    }
+  ],
+  "timestamp": "2026-08-22T17:11:43.213846839Z",
+  "model": "glm-5.3"
+}

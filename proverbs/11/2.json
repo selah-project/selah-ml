@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "അഹങ്കാരം വന്നാൽ അപമാനം വരും; ⟨את⟩ വിനയമുള്ളവരോടുകൂടെ ജ്ഞാനം.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "വന്നാൽ"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "അഹങ്കാരം"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "വരും"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "അപമാനം"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "വിനയമുള്ളവരോടുകൂടെ"
+    },
+    {
+      "surface": "ദנועים",
+      "gloss": "വിനയമുള്ളവർ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ജ്ഞാനം"
+    }
+  ],
+  "timestamp": "2026-08-22T16:33:13.623183739Z",
+  "model": "glm-5.3"
+}

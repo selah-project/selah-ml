@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "numbers 7:82",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ആട്ടിൻകൊറാന്മാരിൽ ഒന്ന് പാപയാഗത്തിന്",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ആട്ടിൻകൊറാൻ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ആടുകളുടെ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ഒന്ന്"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "പാപയാഗത്തിന്"
+    }
+  ],
+  "timestamp": "2026-08-22T10:25:25.598817594Z",
+  "model": "glm-5.3"
+}

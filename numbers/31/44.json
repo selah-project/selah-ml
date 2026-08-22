@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 31,
+  "translation": "കാളകളിൽ മുപ്പത്താറായിരം,",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "കാളകളിൽ"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ആറ്"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "മുപ്പത്"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ആയിരം"
+    }
+  ],
+  "timestamp": "2026-08-22T10:47:43.924597830Z",
+  "model": "glm-5.3"
+}

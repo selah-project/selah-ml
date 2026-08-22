@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 75,
+  "translation": "കാരണം എലോഹീം ⟨is⟩ ന്യായാധിപൻ; ഇവനെ ⟨he⟩ താഴ്ത്തുന്നു, അവനെ ഉയർത്തുന്നു.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "കാരണം"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "എലോഹീം"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ന്യായാധിപൻ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ഇവനെ"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "താഴ്ത്തുന്നു"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "അവനെ"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ഉയർത്തുന്നു"
+    }
+  ],
+  "timestamp": "2026-08-22T16:03:05.472650040Z",
+  "model": "glm-5.3"
+}

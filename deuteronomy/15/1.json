@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 15:1",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 15,
+  "translation": "ഏഴു വർഷത്തിന്റെ അവസാനത്തിൽ നീ ഒരു ശെമിത്ത ചെയ്യേണം.",
+  "tokens": [
+    {
+      "surface": "מקץ",
+      "gloss": "അവസാനത്തിൽ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ഏഴു"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "വർഷത്തിന്റെ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "നീ ചെയ്യേണം"
+    },
+    {
+      "surface": "שמטה",
+      "gloss": "ശെമിത്ത"
+    }
+  ],
+  "timestamp": "2026-08-22T11:08:44.353378388Z",
+  "model": "glm-5.3"
+}

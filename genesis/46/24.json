@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 46:24",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 46,
+  "translation": "നഫ്താലിയുടെ പുത്രന്മാർ: യഹ്സെൽ, ഗൂനി, യെത്സെർ, ശില്ലെം.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "നഫ്താലിയുടെ"
+    },
+    {
+      "surface": "יחצאל",
+      "gloss": "യഹ്സെൽ"
+    },
+    {
+      "surface": "וגוני",
+      "gloss": "ഗൂനി"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "യെത്സെർ"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "ശില്ലെം"
+    }
+  ],
+  "timestamp": "2026-08-22T08:55:12.532545144Z",
+  "model": "glm-5.3"
+}

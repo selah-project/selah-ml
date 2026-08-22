@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 5:23",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 5,
+  "translation": "ഖനോഖിന്റെ എല്ലാ ദിവസങ്ങളും മുന്നൂറ്റഅറുപത്തഞ്ച് വർഷം ആയിരുന്നു.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ആയിരുന്നു"
+    },
+    {
+      "surface": "כל",
+      "gloss": "എല്ലാ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ദിവസങ്ങളും"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ഖനോഖിന്റെ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "അഞ്ച്"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "അറുപത്"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "വർഷം"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "മൂന്ന്"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "നൂറ്"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "വർഷം"
+    }
+  ],
+  "timestamp": "2026-08-22T08:15:24.372593394Z",
+  "model": "glm-5.3"
+}

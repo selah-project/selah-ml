@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 6:22",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "തഹത്തിന്റെ മകൻ, അസ്സീരിന്റെ മകൻ, എബ്യാസാഫിന്റെ മകൻ, കോരഹിന്റെ മകൻ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "തഹത്"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "അസ്സീർ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "אביסף",
+      "gloss": "എബ്യാസാഫ്"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "കോരഹ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:51:05.182349232Z",
+  "model": "glm-5.3"
+}

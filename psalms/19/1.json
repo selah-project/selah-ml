@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 19,
+  "translation": "സംവിധായകന് മീതെ — ദാവീദിന്റെ ⟨ഒരു⟩ മസ്മോർ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "സംവിധായകന് മീതെ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "മസ്മോർ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ദാവീദിന്റെ"
+    }
+  ],
+  "timestamp": "2026-08-22T15:45:20.714305097Z",
+  "model": "glm-5.3"
+}

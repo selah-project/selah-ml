@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 32,
+  "translation": "മോശെ യിസ്രായേലിനോടെല്ലാം ⟨את⟩ ഈ വാക്കുകളെല്ലാം സംസാരിച്ചു തീർത്തു,",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "തീർത്തു"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "സംസാരിക്കുവാൻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ഈ വാക്കുകളെല്ലാം"
+    },
+    {
+      "surface": "כל",
+      "gloss": "എല്ലാം"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "വാക്കുകൾ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ഈ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "നോട്"
+    },
+    {
+      "surface": "כל",
+      "gloss": "എല്ലാ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "യിസ്രായേൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:21:58.131865008Z",
+  "model": "glm-5.3"
+}

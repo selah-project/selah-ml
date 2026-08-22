@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 39,
+  "translation": "സംഗീതനയകനു, യെദൂത്തൂന്, ദാവീദിന്റെ മിസ്മോർ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "സംഗീതനയകനു"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "യെദൂത്തൂന്"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "മിസ്മോർ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ദാവീദിന്റെ"
+    }
+  ],
+  "timestamp": "2026-08-22T15:51:44.437847965Z",
+  "model": "glm-5.3"
+}

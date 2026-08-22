@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 31,
+  "translation": "കാളകൾ എഴുപത്തിരണ്ടായിരം.",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "കാളകൾ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "രണ്ട്"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "എഴുപത്"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ആയിരം"
+    }
+  ],
+  "timestamp": "2026-08-22T10:48:10.616977233Z",
+  "model": "glm-5.3"
+}

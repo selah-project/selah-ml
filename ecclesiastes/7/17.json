@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "അധികം ദുഷ്ടത ചെയ്യരുത്, വിവേകശൂന്യനും ആകരുത് — നിന്റെ സമയം ⟨is⟩ ഇല്ലാതെ നീ എന്തിനു മരിക്കണം?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "അരുത്"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "ദുഷ്ടത ചെയ്യ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "അധികം"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "വും അരുത്"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ആക"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "വിവേകശൂന്യൻ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "എന്തിനു"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "മരിക്ക"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ഇല്ലാതെ"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "നിന്റെ സമയം"
+    }
+  ],
+  "timestamp": "2026-08-22T17:14:25.425434815Z",
+  "model": "glm-5.3"
+}

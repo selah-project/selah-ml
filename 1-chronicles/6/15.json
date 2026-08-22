@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 6:15",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "ശിമെആ അവന്റെ പുത്രൻ, ഹഗ്ഗിയാ അവന്റെ പുത്രൻ, അസയാ അവന്റെ പുത്രൻ.",
+  "tokens": [
+    {
+      "surface": "שמעא",
+      "gloss": "ശിമെആ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "അവന്റെ പുത്രൻ"
+    },
+    {
+      "surface": "חגיה",
+      "gloss": "ഹഗ്ഗിയാ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "അവന്റെ പുത്രൻ"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "അസയാ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "അവന്റെ പുത്രൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:50:28.572377719Z",
+  "model": "glm-5.3"
+}

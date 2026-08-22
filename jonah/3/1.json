@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "യാഹ്‌വെയുടെ വചനം രണ്ടാമത് യോനായിലേക്ക് വന്നു, പറയുന്നതു:\n",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "വന്നു"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "വചനം"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെയുടെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ലേക്ക്"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "യോനായിൽ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "രണ്ടാമത്"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയുന്നതു"
+    }
+  ],
+  "timestamp": "2026-08-22T15:21:53.689107077Z",
+  "model": "glm-5.3"
+}

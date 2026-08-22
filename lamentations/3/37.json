@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "ആരാണ് ഇത് — അവൻ പറഞ്ഞു, അതു ഭവിച്ചു — അദോനായ് അത് കല്പിച്ചിട്ടില്ലെങ്കിൽ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ആരാണ്"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ഇത്"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "പറഞ്ഞു"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ഭവിച്ചു"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "അദോനായ്"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ഇല്ലെങ്കിൽ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "കല്പിച്ചു"
+    }
+  ],
+  "timestamp": "2026-08-22T17:08:40.292521571Z",
+  "model": "glm-5.3"
+}

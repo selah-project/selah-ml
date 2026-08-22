@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "ml",
+  "chapter": 27,
+  "translation": "നീ, മനുഷ്യപുത്രാ, സോരിനു മേൽ ഒരു വിലാപം ഉയർത്തു.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "നീ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "പുത്രാ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "മനുഷ്യ"
+    },
+    {
+      "surface": "שא",
+      "gloss": "ഉയർത്തു"
+    },
+    {
+      "surface": "על",
+      "gloss": "മേൽ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "സോർ"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "വിലാപം"
+    }
+  ],
+  "timestamp": "2026-08-22T14:53:53.743048894Z",
+  "model": "glm-5.3"
+}

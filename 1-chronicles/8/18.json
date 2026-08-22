@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 8:18",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 8,
+  "translation": "യിശ്മെരായ്, യിസ്ലീയാഹു, യോവാവ് — എൽപാലിന്റെ പുത്രന്മാർ.",
+  "tokens": [
+    {
+      "surface": "וישמרי",
+      "gloss": "യിശ്മെരായ്"
+    },
+    {
+      "surface": "ויזליאה",
+      "gloss": "യിസ്ലീയാഹു"
+    },
+    {
+      "surface": "ויובב",
+      "gloss": "യോവാവ്"
+    },
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "എൽപാൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:50:09.776087648Z",
+  "model": "glm-5.3"
+}

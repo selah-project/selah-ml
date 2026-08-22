@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 5,
+  "translation": "കെയ്നാൻ എഴുപത് വർഷം ജീവിച്ചു, അവൻ മഹലലെലിനെ ജനിപ്പിച്ചു.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ജീവിച്ചു"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "കെയ്നാൻ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "എഴുപത്"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "വർഷം"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ജനിപ്പിച്ചു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "മഹലലെലിനെ"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "മഹലലെലിനെ"
+    }
+  ],
+  "timestamp": "2026-08-22T08:13:16.830990381Z",
+  "model": "glm-5.3"
+}

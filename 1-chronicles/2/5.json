@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 2:5",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "പെരെസിന്റെ പുത്രന്മാർ: ഖെസ്രോൻ, ഖാമൂൽ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "പെരെസിന്റെ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ഖെസ്രോൻ"
+    },
+    {
+      "surface": "וחמול",
+      "gloss": "ഖാമൂൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:46:45.977793609Z",
+  "model": "glm-5.3"
+}

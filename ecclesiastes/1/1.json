@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "കൊഹെലെത്തിന്റെ വാക്കുകൾ — ദാവീദിന്റെ മകൻ, യെരൂശാലയിം രാജാവ്.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "വാക്കുകൾ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "കൊഹെലെത്തിന്റെ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ദാവീദിന്റെ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "രാജാവ്"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "യെരൂശാലയിം"
+    }
+  ],
+  "timestamp": "2026-08-22T17:11:43.213283852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "ezra 2:44",
+  "book": "ezra",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "കേരോസിന്റെ മക്കൾ, സിയാഹായുടെ മക്കൾ, പാദോന്റെ മക്കൾ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "കേരോസിന്റെ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "סיעהא",
+      "gloss": "സിയാഹായുടെ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "പാദോന്റെ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:32:56.091730612Z",
+  "model": "glm-5.3"
+}

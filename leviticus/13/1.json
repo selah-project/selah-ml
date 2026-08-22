@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 13:1",
+  "book": "leviticus",
+  "lang": "ml",
+  "chapter": 13,
+  "translation": "യാഹ്‌വെ മോശെയോടും അഹരോനോടും സംസാരിച്ചു, പറയുന്നതു:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "സംസാരിച്ചു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ഇതിനോട്"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെയോടും"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "അതിനോടും"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "അഹരോനോടും"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയുന്നതു"
+    }
+  ],
+  "timestamp": "2026-08-22T10:00:32.993081983Z",
+  "model": "glm-5.3"
+}

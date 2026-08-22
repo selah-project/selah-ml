@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "അത്തായ് ⟨את⟩ നാതാനെ ജനിപ്പിച്ചു; നാതാൻ ⟨את⟩ സാബാദിനെ ജനിപ്പിച്ചു.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "അത്തായ്"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ജനിപ്പിച്ചു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "നാതാനെ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "നാതാനെ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "നാതാൻ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ജനിപ്പിച്ചു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "സാബാദിനെ"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "സാബാദിനെ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:47:06.436093051Z",
+  "model": "glm-5.3"
+}

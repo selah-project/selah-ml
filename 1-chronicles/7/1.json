@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "യിസാസ്കാരിന്റെ പുത്രന്മാർ: തോലാ, പുവാഹ്, യാശൂബ്, ശിംറോൺ — നാലുപേർ.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "യിസാസ്കാർ"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "തോലാ"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "പുവാഹ്"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "യാശൂബ്"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "ശിംറോൺ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "നാല്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:51:41.971954101Z",
+  "model": "glm-5.3"
+}

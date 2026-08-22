@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 19:1",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 19,
+  "translation": "യാഹ്‌വെ മോശെയോടും അഹരോനോടും സംസാരിച്ചു, പറയുവാൻ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "സംസാരിച്ചു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "നോട്"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെയോടും"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "…നോടും"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "അഹരോനോടും"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയുവാൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T10:40:11.127367408Z",
+  "model": "glm-5.3"
+}

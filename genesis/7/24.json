@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ജലം ഭൂമിക്കു മേൽ നൂറ്റമ്പത് ദിവസം പ്രബലമായി നിലനിന്നു.",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "പ്രബലമായി നിലനിന്നു"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ജലം"
+    },
+    {
+      "surface": "על",
+      "gloss": "മേൽ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ഭൂമി"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "അമ്പത്"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "നൂറ്റോടെ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ദിവസം"
+    }
+  ],
+  "timestamp": "2026-08-22T08:18:00.951408874Z",
+  "model": "glm-5.3"
+}

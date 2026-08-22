@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 6:23",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "യിത്സഹാരിന്റെ മകൻ, കെഹാത്തിന്റെ മകൻ, ലേവിയുടെ മകൻ, യിസ്രായേലിന്റെ മകൻ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "യിത്സഹാർ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "കെഹാത്"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ലേവി"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "യിസ്രായേൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:51:05.182479257Z",
+  "model": "glm-5.3"
+}

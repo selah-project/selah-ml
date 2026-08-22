@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 2:11",
+  "book": "ezra",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "ബെബായിയുടെ പുത്രന്മാർ — ആറുനൂറ്റിഇരുപത്തിമൂന്ന്.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "ബെബായിയുടെ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ആറ്"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "നൂറ്റി"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ഇരുപത്"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "മൂന്ന്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:30:38.653702472Z",
+  "model": "glm-5.3"
+}

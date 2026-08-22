@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 4:17",
+  "book": "1-kings",
+  "lang": "ml",
+  "chapter": 4,
+  "translation": "യിഹോശാഫാത് പരൂഅഖിന്റെ മകൻ — യിസ്സാഖാരിൽ.",
+  "tokens": [
+    {
+      "surface": "יהושפט",
+      "gloss": "യിഹോശാഫാത്"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "പരൂഅഖ്",
+      "gloss": "പരൂഅഖ്"
+    },
+    {
+      "surface": "ביששכר",
+      "gloss": "യിസ്സാഖാരിൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T12:43:06.974681912Z",
+  "model": "glm-5.3"
+}

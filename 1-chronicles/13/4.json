@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 13:4",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 13,
+  "translation": "ആ കാര്യം എല്ലാ ജനത്തിന്റെയും കണ്ണിൽ നേരായതിനാൽ ആ സഭ മുഴുവൻ അങ്ങനെ ചെയ്യാം എന്നു പറഞ്ഞു.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "പറഞ്ഞു"
+    },
+    {
+      "surface": "כל",
+      "gloss": "മുഴുവൻ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "സഭ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ചെയ്യാം"
+    },
+    {
+      "surface": "כן",
+      "gloss": "അങ്ങനെ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "കാരണം"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "നേരായതിനാൽ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "കാര്യം"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "കണ്ണിൽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "എല്ലാ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ജനത്തിന്റെയും"
+    }
+  ],
+  "timestamp": "2026-08-22T17:56:10.464872539Z",
+  "model": "glm-5.3"
+}

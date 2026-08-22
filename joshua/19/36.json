@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 19:36",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 19,
+  "translation": "അദാമ, റാമ, ഖാസോർ.",
+  "tokens": [
+    {
+      "surface": "ואדמה",
+      "gloss": "അദാമ"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "റാമ"
+    },
+    {
+      "surface": "וחצור",
+      "gloss": "ഖാസോർ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:35:54.226222608Z",
+  "model": "glm-5.3"
+}

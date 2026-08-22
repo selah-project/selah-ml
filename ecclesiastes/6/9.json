@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "കണ്ണുകളുടെ കാഴ്ച നെഫെശിന്റെ സഞ്ചാരത്തെക്കാൾ നല്ലതു; ഇതുകൂടി ഹെബെൽ ആകുന്നു, റൂഅഖിന്റെ ദ്രോഹം.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "നല്ലതു"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "കാഴ്ച"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "കണ്ണുകളുടെ"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "സഞ്ചാരം"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "നെഫെശ്"
+    },
+    {
+      "surface": "גם",
+      "gloss": "കൂടി"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ഇതു"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ഹെബെൽ"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ദ്രോഹം"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "റൂഅഖ്"
+    }
+  ],
+  "timestamp": "2026-08-22T19:14:28.200373859Z",
+  "model": "glm-5.3"
+}

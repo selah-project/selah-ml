@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 2:14",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "നെതാനേൽ നാലാമത്, റദ്ദായ് അഞ്ചാമത്.",
+  "tokens": [
+    {
+      "surface": "נתנאל",
+      "gloss": "നെതാനേൽ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "നാലാമത്"
+    },
+    {
+      "surface": "רדי",
+      "gloss": "റദ്ദായ്"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "അഞ്ചാമത്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:47:02.538602619Z",
+  "model": "glm-5.3"
+}

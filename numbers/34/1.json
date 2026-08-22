@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 34:1",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 34,
+  "translation": "അരുളിച്ചെയ്തു യാഹ്‌വെ മോശെയോടു പറയുവാൻ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "അരുളിച്ചെയ്തു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "മോശെയോടു"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെയോടു"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയുവാൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T10:52:24.704854653Z",
+  "model": "glm-5.3"
+}

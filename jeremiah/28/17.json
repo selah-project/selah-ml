@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 28:17",
+  "book": "jeremiah",
+  "lang": "ml",
+  "chapter": 28,
+  "translation": "അങ്ങനെ ഹനന്യാഹ് പ്രവാചകൻ ആ വർഷം തന്നെ ഏഴാം മാസത്തിൽ മരിച്ചു.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "മരിച്ചു"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "ഹനന്യാഹ്"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "പ്രവാചകൻ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "വർഷത്തിൽ"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ആ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "മാസത്തിൽ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ഏഴാമത്തെ"
+    }
+  ],
+  "timestamp": "2026-08-22T14:15:40.954239777Z",
+  "model": "glm-5.3"
+}

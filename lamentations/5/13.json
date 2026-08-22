@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 5:13",
+  "book": "lamentations",
+  "lang": "ml",
+  "chapter": 5,
+  "translation": "യുവാക്കൾ ആട്ടുമില്ല ചുമന്നു; ബാലന്മാർ വിറകിന്റെ ഭാരത്തിൽ ഇടറിവീണു.",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "യുവാക്കൾ"
+    },
+    {
+      "surface": "טחון",
+      "gloss": "ആട്ടുമില്ല"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ചുമന്നു"
+    },
+    {
+      "surface": "ונערים",
+      "gloss": "ബാലന്മാർ"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "വിറകിന്റെ ഭാരത്തിൽ"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "ഇടറിവീണു"
+    }
+  ],
+  "timestamp": "2026-08-22T17:11:07.002202210Z",
+  "model": "glm-5.3"
+}

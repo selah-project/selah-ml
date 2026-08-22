@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 3:7",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "നോഗാ, നെഫെഗ്, യാഫിയ.",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "നോഗാ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "നെഫെഗ്"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "യാഫിയ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:48:32.113893809Z",
+  "model": "glm-5.3"
+}

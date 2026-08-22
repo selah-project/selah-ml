@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 5:19",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 5,
+  "translation": "എന്റെ എലോഹീമേ, ഞാൻ ഈ ജനത്തിനു വേണ്ടി ചെയ്ത എല്ലാം നന്മയായി എന്നെ ⟨ഓർക്കണേ⟩.",
+  "tokens": [
+    {
+      "surface": "זכרה",
+      "gloss": "ഓർക്കണേ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "എന്നെ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "എന്റെ എലോഹീമേ"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "നന്മയായി"
+    },
+    {
+      "surface": "כל",
+      "gloss": "എല്ലാം"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ആ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ഞാൻ ചെയ്ത"
+    },
+    {
+      "surface": "על",
+      "gloss": "വേണ്ടി"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ജനത്തിനു"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ഈ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:39:41.795157988Z",
+  "model": "glm-5.3"
+}

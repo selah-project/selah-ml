@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 12:15",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 12,
+  "translation": "ചാരിമിനു അദ്നാ; മെരായോത്തിനു ചെൽകായ്;",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "ചാരിമിനു"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "അദ്നാ"
+    },
+    {
+      "surface": "למריות",
+      "gloss": "മെരായോത്തിനു"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "ചെൽകായ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:44:21.957775345Z",
+  "model": "glm-5.3"
+}

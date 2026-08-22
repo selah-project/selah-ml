@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "നിങ്ങൾക്ക് മതി — ഈ പർവ്വതം ⟨את⟩ ചുറ്റിക്കറങ്ങുന്നത്; നിങ്ങൾ വടക്കോട്ട് തിരിയുവിൻ.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "മതി"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "നിങ്ങൾക്ക്"
+    },
+    {
+      "surface": "סב",
+      "gloss": "ചുറ്റിക്കറങ്ങുന്നത്"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ഈ പർവ്വതം"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "പർവ്വതം"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ഈ"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "തിരിയുവിൻ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "നിങ്ങൾ"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "വടക്കോട്ട്"
+    }
+  ],
+  "timestamp": "2026-08-22T10:55:35.519861675Z",
+  "model": "glm-5.3"
+}

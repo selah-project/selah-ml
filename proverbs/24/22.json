@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 24:22",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 24,
+  "translation": "കാരണം അവരുടെ നാശം പെട്ടെന്ന് ഉയരും; ഇരുവരുടെയും തകർച്ച ആരറിയും?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "കാരണം"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "പെട്ടെന്ന്"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ഉയരും"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "അവരുടെ നാശം"
+    },
+    {
+      "surface": "ופיד",
+      "gloss": "…തകർച്ച"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ഇരുവരുടെയും"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ആർ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "അറിയും"
+    }
+  ],
+  "timestamp": "2026-08-22T16:38:40.869638354Z",
+  "model": "glm-5.3"
+}

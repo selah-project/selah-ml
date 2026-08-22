@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 15:43",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 15,
+  "translation": "വെ യിഫ്താഖ്, വെ അശ്നാ, വെ നെസിബ്.",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "വെ യിഫ്താഖ്"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "വെ അശ്നാ"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "വെ നെസിബ്"
+    }
+  ],
+  "timestamp": "2026-08-22T11:33:35.247196427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 7:27",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "നൂൻ അവന്റെ മകൻ, യെഹോശുഅ അവന്റെ മകൻ.",
+  "tokens": [
+    {
+      "surface": "נון",
+      "gloss": "നൂൺ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "അവന്റെ മകൻ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "യെഹോശുഅ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "അവന്റെ മകൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:50:59.127673771Z",
+  "model": "glm-5.3"
+}

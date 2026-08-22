@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 7:6",
+  "book": "amos",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "യാഹ്‌വെ ഇതിൽ ഖേദിച്ചു; ഇതും ഉണ്ടാകില്ല, അദോനായ് യാഹ്‌വെ അരുളിച്ചെയ്തു.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "ഖേദിച്ചു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ഇതിൽ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ഇത്"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ഉം"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ഇത്"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ഉണ്ടാകും"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "അരുളിച്ചെയ്തു"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "അദോനായ്"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    }
+  ],
+  "timestamp": "2026-08-22T15:21:10.592530542Z",
+  "model": "glm-5.3"
+}

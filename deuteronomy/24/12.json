@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 24,
+  "translation": "അവൻ ദരിദ്രനായ മനുഷ്യനാണെങ്കിൽ, അവന്റെ പണയത്തോടെ നീ കിടക്കരുത്.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "എങ്കിലും ആണെങ്കിൽ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "മനുഷ്യൻ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ദരിദ്രൻ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "അവനാണ്"
+    },
+    {
+      "surface": "לא",
+      "gloss": "അരുത്"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "നീ കിടക്കരുത്"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "അവന്റെ പണയത്തോടെ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:15:04.630147580Z",
+  "model": "glm-5.3"
+}

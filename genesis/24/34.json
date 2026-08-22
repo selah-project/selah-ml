@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 24,
+  "translation": "അവൻ പറഞ്ഞു: ഞാൻ അവ്രാഹാമിന്റെ ദാസനാകുന്നു.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "അവൻ പറഞ്ഞു"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ദാസൻ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "അവ്രാഹാമിന്റെ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ഞാൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T08:31:34.114440841Z",
+  "model": "glm-5.3"
+}

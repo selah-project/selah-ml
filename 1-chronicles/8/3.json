@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 8,
+  "translation": "ബേലയ്ക്ക് പുത്രന്മാർ ഉണ്ടായിരുന്നു: അദ്ദാർ, ഗേരാ, അബിഹൂദ്.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ഉണ്ടായിരുന്നു"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "ബേലയ്ക്ക്"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "അദ്ദാർ"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "ഗേരാ"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "അബിഹൂദ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:51:18.420542199Z",
+  "model": "glm-5.3"
+}

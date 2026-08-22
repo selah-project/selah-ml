@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 32:26",
+  "book": "jeremiah",
+  "lang": "ml",
+  "chapter": 32,
+  "translation": "യിർമെയാഹുവിന്ന് യാഹ്‌വെയുടെ വാക്ക് സംഭവിച്ചു, പറയുന്നതു:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "സംഭവിച്ചു"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "വാക്ക്"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെയുടെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ന്ന്"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "യിർമെയാഹുവിന്"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയുന്നതു"
+    }
+  ],
+  "timestamp": "2026-08-22T14:20:47.093447883Z",
+  "model": "glm-5.3"
+}

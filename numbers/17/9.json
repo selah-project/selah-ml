@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 17:9",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 17,
+  "translation": "യാഹ്‌വെ മോശെയോട് അരുളിച്ചെയ്തു, പറയുന്നത്:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "അരുളിച്ചെയ്തു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "യോട്"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയുന്നത്"
+    }
+  ],
+  "timestamp": "2026-08-22T10:35:54.843543536Z",
+  "model": "glm-5.3"
+}

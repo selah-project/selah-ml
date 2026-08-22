@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "യെബൂസിയെയും ⟨את⟩ എമോറിയെയും ⟨את⟩ ഗിർഗശിയെയും ⟨את⟩ ⟨ജനിപ്പിച്ചു⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "യെബൂസിയെ"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "യെബൂസി"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "എമോറിയെ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "എമോറി"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ഗിർഗശിയെ"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "ഗിർഗശി"
+    }
+  ],
+  "timestamp": "2026-08-22T17:46:42.711106064Z",
+  "model": "glm-5.3"
+}

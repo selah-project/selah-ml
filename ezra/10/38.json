@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 10:38",
+  "book": "ezra",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "ഉബാനി, ഉബിന്നുയ്, ശിമ്ഇയ് —",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ഉബാനി"
+    },
+    {
+      "surface": "ובנוי",
+      "gloss": "ഉബിന്നുയ്"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ശിമ്ഇയ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:36:13.680112034Z",
+  "model": "glm-5.3"
+}

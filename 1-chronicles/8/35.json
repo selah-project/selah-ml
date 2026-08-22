@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 8:35",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 8,
+  "translation": "മീഖായുടെ പുത്രന്മാർ: പീത്തോനും മെലെഖും താഅ്രെഅയും ആഖാസും.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "മീഖായുടെ"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "പീത്തോൻ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "മെലെഖ്"
+    },
+    {
+      "surface": "ותארע",
+      "gloss": "താഅ്രെഅ"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "ആഖാസ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:52:24.471428588Z",
+  "model": "glm-5.3"
+}

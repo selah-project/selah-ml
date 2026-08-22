@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 5:27",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 5,
+  "translation": "ലേവിയുടെ പുത്രന്മാർ: ഗേര്ശോൻ, കെഹാത്, മെരാരി.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ലേവിയുടെ"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "ഗേര്ശോൺ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "കെഹാത്"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "മെരാരി"
+    }
+  ],
+  "timestamp": "2026-08-22T17:49:53.884769305Z",
+  "model": "glm-5.3"
+}

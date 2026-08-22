@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 15:26",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 15,
+  "translation": "അമാം, ഷെമാ, മൊലാദായ്;",
+  "tokens": [
+    {
+      "surface": "אמם",
+      "gloss": "അമാം"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ഷെമാ"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "മൊലാദായ്"
+    }
+  ],
+  "timestamp": "2026-08-22T11:33:21.136431882Z",
+  "model": "glm-5.3"
+}

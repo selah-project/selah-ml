@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 7:14",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "“സമാധാനയാഗങ്ങൾ എന്റെ മേൽ ⟨is⟩ ⟨are⟩ ഉണ്ട്; ഇന്നു ഞാൻ എന്റെ നേർച്ചകൾ നിറവേറ്റി.”",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "യാഗങ്ങൾ"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "സമാധാന"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "എന്റെ മേൽ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ഇന്നു"
+    },
+    {
+      "surface": "שלמתי",
+      "gloss": "ഞാൻ നിറവേറ്റി"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "എന്റെ നേർച്ചകൾ"
+    }
+  ],
+  "timestamp": "2026-08-22T16:30:23.668754134Z",
+  "model": "glm-5.3"
+}

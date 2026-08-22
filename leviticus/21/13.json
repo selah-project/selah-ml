@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 21:13",
+  "book": "leviticus",
+  "lang": "ml",
+  "chapter": 21,
+  "translation": "അവൻ ഒരു സ്ത്രീയെ അവളുടെ കന്യകാത്വത്തിൽത്തന്നെ എടുക്കണം.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "അവൻ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ഒരു സ്ത്രീയെ"
+    },
+    {
+      "surface": "בבתוליה",
+      "gloss": "അവളുടെ കന്യകാത്വത്തിൽ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "എടുക്കണം"
+    }
+  ],
+  "timestamp": "2026-08-22T10:06:59.928391628Z",
+  "model": "glm-5.3"
+}

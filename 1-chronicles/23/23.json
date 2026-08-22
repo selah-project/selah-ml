@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 23:23",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 23,
+  "translation": "മൂശിയുടെ പുത്രന്മാർ: മഖ്ലിയും ഏദെറും യെരെമോത്തും — മൂന്നു പേർ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "മൂശിയുടെ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "മഖ്ലി"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "ഏദെറും"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "യെരെമോത്തും"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "മൂന്നു"
+    }
+  ],
+  "timestamp": "2026-08-22T17:59:40.772158252Z",
+  "model": "glm-5.3"
+}

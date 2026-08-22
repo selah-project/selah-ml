@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "യാഹ്‌വെ മോശെയോടും അഹരോനോടും അരുളിച്ചെയ്തു, പറയുന്നതു:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "അരുളിച്ചെയ്തു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "നോട്"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെയോടും"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "നോടും"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "അഹരോനോടും"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയുന്നതു"
+    }
+  ],
+  "timestamp": "2026-08-22T09:02:21.558858888Z",
+  "model": "glm-5.3"
+}

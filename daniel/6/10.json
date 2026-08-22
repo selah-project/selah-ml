@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 6:10",
+  "book": "daniel",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "ഇതിന്നു കാരണം, ദാര്യാവേശ് രാജാവ് ⟨את⟩ രേഖയും ⟨את⟩ വിലക്കും ഒപ്പിട്ടു.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ഇതിന്നു കാരണം"
+    },
+    {
+      "surface": "קבל",
+      "gloss": ""
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ഇതിന്"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "രാജാവ്"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "ദാര്യാവേശ്"
+    },
+    {
+      "surface": "רשם",
+      "gloss": "ഒപ്പിട്ടു"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "രേഖയും",
+      "marks": ""
+    },
+    {
+      "surface": "ואסרא",
+      "gloss": "വിലക്കും",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-08-22T19:13:45.918825497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 13:12",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 13,
+  "translation": "ദാൻ ഗോത്രത്തിൽ നിന്ന് അമ്മീഎൽ, ഗെമല്ലീയുടെ മകൻ.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ഗോത്രത്തിൽ നിന്ന്"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ദാൻ"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "അമ്മീഎൽ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "גמלי",
+      "gloss": "ഗെമല്ലീ"
+    }
+  ],
+  "timestamp": "2026-08-22T10:28:19.552975059Z",
+  "model": "glm-5.3"
+}

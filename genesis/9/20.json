@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 9,
+  "translation": "നോഹ് മണ്ണിന്റെ മനുഷ്യനായി തുടങ്ങി, ഒരു മുന്തിരിത്തോട്ടം നട്ടു.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "തുടങ്ങി"
+    },
+    {
+      "surface": "נח",
+      "gloss": "നോഹ്"
+    },
+    {
+      "surface": "איש",
+      "gloss": "മനുഷ്യൻ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "മണ്ണിന്റെ"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "നട്ടു"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "മുന്തിരിത്തോട്ടം"
+    }
+  ],
+  "timestamp": "2026-08-22T08:15:45.033094364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 25:15",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 25,
+  "translation": "ഹദദും തേമായും യെതൂർ, നാഫീഷ്, കേദേമാഹ്.",
+  "tokens": [
+    {
+      "surface": "חדד",
+      "gloss": "ഹദദ്"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "തേമായും"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "യെതൂർ"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "നാഫീഷ്"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "കേദേമാഹ്"
+    }
+  ],
+  "timestamp": "2026-08-22T18:29:49.031082412Z",
+  "model": "glm-5.3"
+}

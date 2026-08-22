@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "എല്ലാ കൈകളും തളരും, എല്ലാ കാൽമുട്ടുകളും വെള്ളമായി പോകും.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "എല്ലാ"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "കൈകൾ"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "തളരും"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "വാ, എല്ലാ"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "കാൽമുട്ടുകൾ"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "പോകും"
+    },
+    {
+      "surface": "מים",
+      "gloss": "വെള്ളം"
+    }
+  ],
+  "timestamp": "2026-08-22T14:38:35.953918036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 10:34",
+  "book": "ezra",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "ബാനിയുടെ പുത്രന്മാരിൽ: മാഅദയ്, അംറാം, ഉവേൽ.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "പുത്രന്മാരിൽ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ബാനിയുടെ"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "മാഅദയ്"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "അംറാം"
+    },
+    {
+      "surface": "ואואל",
+      "gloss": "ഉവേൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:36:39.530352714Z",
+  "model": "glm-5.3"
+}

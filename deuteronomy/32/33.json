@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 32,
+  "translation": "വ്യാളികളുടെ വിഷം അവരുടെ വീഞ്ഞ്, ക്രൂരന്മാരായ അണലികളുടെ വിഷവും.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "വിഷം"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "വ്യാളികളുടെ"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "അവരുടെ വീഞ്ഞ്"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "വിഷവും"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "അണലികളുടെ"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "ക്രൂരന്മാരായ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:22:16.806465196Z",
+  "model": "glm-5.3"
+}

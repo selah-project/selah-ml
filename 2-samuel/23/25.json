@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 23:25",
+  "book": "2-samuel",
+  "lang": "ml",
+  "chapter": 23,
+  "translation": "ശമ്മാഹ് ഹരോദ്യൻ, എലീക്കാ ഹരോദ്യൻ,",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ശമ്മാഹ്"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "ഹരോദ്യൻ"
+    },
+    {
+      "surface": "אליקא",
+      "gloss": "എലീക്കാ"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "ഹരോദ്യൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T12:37:57.885749217Z",
+  "model": "glm-5.3"
+}

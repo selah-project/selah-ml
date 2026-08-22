@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ശുപ്പീം, ഹുപ്പീം — ഇർ-ന്റെ പുത്രന്മാർ; ഹുഷീം — അഹെരിന്റെ പുത്രന്മാർ.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "ശുപ്പീം"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "ഹുപ്പീം"
+    },
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ഇർ"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "ഹുഷീം"
+    },
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "അഹെർ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:50:45.583247659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 4:24",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 4,
+  "translation": "കാരണം നിന്റെ എലോഹീം ആയ യാഹ്‌വെ ഭക്ഷിക്കുന്ന അഗ്നി ⟨ആകുന്നു⟩ — ഒരു അസൂയാവാനായ ഏൽ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "കാരണം"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "നിന്റെ എലോഹീം"
+    },
+    {
+      "surface": "אש",
+      "gloss": "അഗ്നി"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "ഭക്ഷിക്കുന്ന"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "അവൻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ഏൽ"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "അസൂയാവാൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:00:18.712158151Z",
+  "model": "glm-5.3"
+}

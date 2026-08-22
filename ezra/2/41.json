@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 2:41",
+  "book": "ezra",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "പാട്ടുകാർ: അസാഫിന്റെ മക്കൾ — നൂറ്റിരുപത്തിയെട്ട്.",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "പാട്ടുകാർ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "അസാഫിന്റെ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "നൂറ്"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ഇരുപത്"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "എട്ട്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:32:56.091172248Z",
+  "model": "glm-5.3"
+}

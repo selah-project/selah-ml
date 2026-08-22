@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 5,
+  "translation": "അസര്യാ അമര്യായെ ജനിപ്പിച്ചു, അമര്യാ അഹിതൂബിനെ ജനിപ്പിച്ചു.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ജനിപ്പിച്ചു"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "അസര്യാ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "അമര്യായെ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "അമര്യാ"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "അമര്യാ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ജനിപ്പിച്ചു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "അഹിതൂബിനെ"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "അഹിതൂബ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:49:03.539383959Z",
+  "model": "glm-5.3"
+}

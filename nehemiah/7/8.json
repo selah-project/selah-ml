@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 7:8",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "പര്ഒശിന്റെ പുത്രന്മാർ — രണ്ടായിരത്തി നൂറ്റി എഴുപത്തിരണ്ട്.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "പര്ഒശിന്റെ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "രണ്ടായിരം"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "നൂറ്റി"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "എഴുപത്തി"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "രണ്ട്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:40:33.081555334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 21:18",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 21,
+  "translation": "നീതിമാന് മോചനദ്രവ്യം — ദുഷ്ടൻ; നേരിട്ടവരുടെ പകരം വഞ്ചകൻ.",
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "മോചനദ്രവ്യം"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "നീതിമാന്"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ദുഷ്ടൻ"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "പകരം"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "നേരിട്ടവരുടെ"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "വഞ്ചകൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T16:36:35.538398364Z",
+  "model": "glm-5.3"
+}

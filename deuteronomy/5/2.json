@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 5,
+  "translation": "യാഹ്‌വെ നമ്മുടെ എലോഹീം ഹോറേബിൽ നമ്മോടു ഉടമ്പടി മുറിച്ചു.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "നമ്മുടെ എലോഹീം"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "മുറിച്ചു"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "നമ്മോടു"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ഉടമ്പടി"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ഹോറേബിൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T10:59:49.659645602Z",
+  "model": "glm-5.3"
+}

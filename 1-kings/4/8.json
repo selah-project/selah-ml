@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "ml",
+  "chapter": 4,
+  "translation": "ഇവരാണ് അവരുടെ പേരുകൾ: ബെൻ-ഹൂർ, എഫ്രയിം മലനാട്ടിൽ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ഇവരാണ്"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "അവരുടെ പേരുകൾ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "חור",
+      "gloss": "ഹൂർ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "മലനാട്ടിൽ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "എഫ്രയിം"
+    }
+  ],
+  "timestamp": "2026-08-22T12:40:46.362066681Z",
+  "model": "glm-5.3"
+}

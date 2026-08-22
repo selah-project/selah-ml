@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "അന്ന് നീ യാഹ്‌വെയുടെ ഭയം ഗ്രഹിക്കും, എലോഹീങ്ങളുടെ അറിവ് ⟨നീ⟩ കണ്ടെത്തും.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "അന്ന്"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "ഗ്രഹിക്കും"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ഭയം"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "അറിവ്"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "എലോഹീം"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "കണ്ടെത്തും"
+    }
+  ],
+  "timestamp": "2026-08-22T16:27:36.108762610Z",
+  "model": "glm-5.3"
+}

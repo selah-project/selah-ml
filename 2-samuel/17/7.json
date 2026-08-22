@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 17:7",
+  "book": "2-samuel",
+  "lang": "ml",
+  "chapter": 17,
+  "translation": "ഹൂഷായ് അവ്ശാലോമിനോട് പറഞ്ഞു: ഈ തവണ അഹീതോഫെൽ ആലോചിച്ച ⟨ആ⟩ ആലോചന നല്ലതല്ല.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "പറഞ്ഞു"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "ഹൂഷായ്"
+    },
+    {
+      "surface": "אל",
+      "gloss": "യോട്"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "അവ്ശാലോമിനെ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "അല്ല"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "നല്ലത്"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "ആലോചന"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ആ⟩"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "ആലോചിച്ച"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "അഹീതോഫെൽ"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "തവണ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ഈ"
+    }
+  ],
+  "timestamp": "2026-08-22T18:43:33.358921760Z",
+  "model": "glm-5.3"
+}

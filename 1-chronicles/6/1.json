@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "ലേവിയുടെ പുത്രന്മാർ: ഗെർശോം, കെഹാത്, മെരാരി.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ലേവിയുടെ"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "ഗെർശോം"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "കെഹാത്"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "മെരാരി"
+    }
+  ],
+  "timestamp": "2026-08-22T17:49:25.227535579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 5:5",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 5,
+  "translation": "മീഖാ അവന്റെ മകൻ, രെഅയ്യാ അവന്റെ മകൻ, ബാഅൽ അവന്റെ മകൻ.",
+  "tokens": [
+    {
+      "surface": "מיכה",
+      "gloss": "മീഖാ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "അവന്റെ മകൻ"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "രെഅയ്യാ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "അവന്റെ മകൻ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ബാഅൽ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "അവന്റെ മകൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:49:39.708983419Z",
+  "model": "glm-5.3"
+}

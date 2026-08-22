@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "numbers 7:70",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "പാപയാഗത്തിനു ആടുകളുടെ ഒരു കൊറ്റക്കാരൻ.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "കൊറ്റക്കാരൻ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ആടുകളുടെ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ഒരു"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "പാപയാഗത്തിനു"
+    }
+  ],
+  "timestamp": "2026-08-22T10:26:27.883310013Z",
+  "model": "glm-5.3"
+}

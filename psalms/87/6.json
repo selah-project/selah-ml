@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 87,
+  "translation": "യാഹ്‌വെ ജനങ്ങളുടെ എഴുത്തിൽ എണ്ണും: ഇയാൾ അവിടെ ജനിച്ചു. സെലാ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "എണ്ണും"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "എഴുത്തിൽ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ജനങ്ങളുടെ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ഇയാൾ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ജനിച്ചു"
+    },
+    {
+      "surface": "שם",
+      "gloss": "അവിടെ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "സെലാ"
+    }
+  ],
+  "timestamp": "2026-08-22T16:06:59.937338493Z",
+  "model": "glm-5.3"
+}

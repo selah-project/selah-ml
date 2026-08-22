@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 18,
+  "translation": "ബേത്ത്-ഹഅരാബാ, സെമരയിം, ബേത്ത്-ഏൽ എന്നിവയും.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "ബേത്ത്"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "ഹഅരാബാ"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "സെമരയിം"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ബേത്ത്"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ഏൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:33:56.057635457Z",
+  "model": "glm-5.3"
+}

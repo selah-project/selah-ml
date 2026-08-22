@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 11:30",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "മഹരായ് നെതോഫാത്തി, ചേലെദ് ബാനായുടെ മകൻ, അവൻ നെതോഫാത്തി.",
+  "tokens": [
+    {
+      "surface": "מהרי",
+      "gloss": "മഹരായ്"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "നെതോഫാത്തി"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "ചേലെദ്"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "ബാനായുടെ"
+    },
+    {
+      "surface": "הנטופתי",
+      "gloss": "നെതോഫാത്തി"
+    }
+  ],
+  "timestamp": "2026-08-22T17:52:06.689765987Z",
+  "model": "glm-5.3"
+}

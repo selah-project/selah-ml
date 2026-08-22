@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "എൽക്കാനാഹിന്റെ മക്കൾ: അമാസായ്, അഹിമോത്.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "എൽക്കാനാഹിന്റെ"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "അമാസായ്"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "അഹിമോത്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:49:45.044484694Z",
+  "model": "glm-5.3"
+}

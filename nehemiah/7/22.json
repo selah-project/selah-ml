@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 7:22",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ഖാശും ⟨വംശജർ⟩, മുന്നൂറ്റിയിരുപത്തിയെട്ടു ⟨പേർ⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "വംശജർ"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "ഖാശും"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "മൂന്നു"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "നൂറ്"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ഇരുപത്"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "എട്ടു"
+    }
+  ],
+  "timestamp": "2026-08-22T17:41:51.623364745Z",
+  "model": "glm-5.3"
+}

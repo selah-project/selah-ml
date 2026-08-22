@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "ml",
+  "chapter": 13,
+  "translation": "അതിനാൽ എല്ലാ കൈകളും തളരും, എല്ലാ മനുഷ്യഹൃദയവും ഉരുകും.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "അതി"
+    },
+    {
+      "surface": "כן",
+      "gloss": "നാൽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "എല്ലാ"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "കൈകളും"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "തളരും"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "എല്ലാ...ഉം"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ഹൃദയവും"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "മനുഷ്യന്റെ"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "ഉരുകും"
+    }
+  ],
+  "timestamp": "2026-08-22T13:25:37.824142999Z",
+  "model": "glm-5.3"
+}

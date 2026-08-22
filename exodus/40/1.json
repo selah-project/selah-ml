@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 40:1",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 40,
+  "translation": "യാഹ്‌വെ മോശെയോട് അരുളിച്ചെയ്തത് ഇതു്:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "അരുളിച്ചെയ്തത്"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ഉടെ അടുത്ത്"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെയോട്"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ഇതു് എന്നു"
+    }
+  ],
+  "timestamp": "2026-08-22T18:32:42.966494503Z",
+  "model": "glm-5.3"
+}

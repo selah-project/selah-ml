@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "nehemiah 7:56",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "നെത്‌സീയഖിന്റെ പുത്രന്മാർ, ഹതീഫായുടെ പുത്രന്മാർ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "നെത്‌സീയഖിന്റെ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "ഹതീഫായുടെ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:42:15.156139875Z",
+  "model": "glm-5.3"
+}

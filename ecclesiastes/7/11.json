@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ഹിത്ത്മ അനുഗ്രഹത്തോടെ നല്ലത്, സൂര്യനെ കാണുന്നവർക്ക് അത് മികച്ച ലാഭം.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "നല്ലത്"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ഹിത്ത്മ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "അനുഗ്രഹത്തോടെ"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "അനുഗ്രഹം"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "മികച്ച ലാഭം"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "കാണുന്നവർക്ക്"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "സൂര്യനെ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:13:49.275982123Z",
+  "model": "glm-5.3"
+}

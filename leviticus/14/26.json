@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 14:26",
+  "book": "leviticus",
+  "lang": "ml",
+  "chapter": 14,
+  "translation": "പുരോഹിതൻ എണ്ണയിൽ നിന്ന് തന്റെ ഇടത് കൈവെള്ളയിൽ ഒഴിക്കും.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "നിന്ന്"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "എണ്ണയിൽ"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "ഒഴിക്കും"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "പുരോഹിതൻ"
+    },
+    {
+      "surface": "על",
+      "gloss": "മേൽ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "കൈവെള്ള"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "പുരോഹിതന്റെ"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "ഇടത്"
+    }
+  ],
+  "timestamp": "2026-08-22T09:59:18.948378445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "ml",
+  "chapter": 4,
+  "translation": "വും ⟨את⟩ പീഠങ്ങൾ ഉണ്ടാക്കി; വും ⟨את⟩ കിണ്ടികൾ പീഠങ്ങളുടെ മേൽ ഉണ്ടാക്കി.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "പീഠങ്ങൾ"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "പീഠങ്ങൾ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ഉണ്ടാക്കി"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "കിണ്ടികൾ"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "കിണ്ടികൾ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ഉണ്ടാക്കി"
+    },
+    {
+      "surface": "על",
+      "gloss": "മേൽ"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "പീഠങ്ങളുടെ"
+    }
+  ],
+  "timestamp": "2026-08-22T18:06:56.696164181Z",
+  "model": "glm-5.3"
+}

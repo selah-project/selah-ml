@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 4,
+  "translation": "കാലെബിന്റെ — യെഫുന്നെയുടെ മകന്റെ — പുത്രന്മാർ: ഇരു, എലാ, നാഅം; എലായുടെ പുത്രന്മാർ: കെനസ്.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "കാലെബ്"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "യെഫുന്നെ"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "ഇരു"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "എലാ"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "നാഅം"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "എലാ"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "കെനസ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:49:20.318242874Z",
+  "model": "glm-5.3"
+}

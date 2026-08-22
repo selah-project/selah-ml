@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 28,
+  "translation": "ശാപഗ്രസ്തൻ നീ നഗരത്തിൽ, ശാപഗ്രസ്തൻ നീ വയലിൽ.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ശാപഗ്രസ്തൻ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "നീ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "നഗരത്തിൽ"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "ശാപഗ്രസ്തൻ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "നീ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "വയലിൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:18:10.600420967Z",
+  "model": "glm-5.3"
+}

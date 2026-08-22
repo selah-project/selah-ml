@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 7:35",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "അവന്റെ സഹോദരനായ ഹെലെമിന്റെ പുത്രന്മാർ: സോപാഖ്, യിംനാ, ശെലെശ്, അമാൽ.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "ഹെലെമിന്റെ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "അവന്റെ സഹോദരൻ"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "സോപാഖ്"
+    },
+    {
+      "surface": "וימנע",
+      "gloss": "യിംനാ"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ശെലെശ്"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "അമാൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:50:35.139558256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "യിത്സഹാറിന്റെ പുത്രന്മാർ: ഖോരഹ്, നെഫെഗ്, സിഖ്രി.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "യിത്സഹാർ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ഖോരഹ്"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "നെഫെഗ്"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "സിഖ്രി"
+    }
+  ],
+  "timestamp": "2026-08-22T09:02:24.989927160Z",
+  "model": "glm-5.3"
+}

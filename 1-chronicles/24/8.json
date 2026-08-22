@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 24,
+  "translation": "മൂന്നാമത്തേതു ഹാരീമിനു, നാലാമത്തേതു സെഓരീമിനു.",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "ഹാരീമിനു"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "മൂന്നാമത്തേതു"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "സെഓരീമിനു"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "നാലാമത്തേതു"
+    }
+  ],
+  "timestamp": "2026-08-22T18:00:27.151604576Z",
+  "model": "glm-5.3"
+}

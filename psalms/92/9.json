@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 92,
+  "translation": "എന്നാൽ നീ, യാഹ്‌വെ, ഉയരത്തിൽ ⟨ആകുന്നു⟩ എന്നേക്കും.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "എന്നാൽ നീ"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ഉയരത്തിൽ"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "എന്നേക്കും"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    }
+  ],
+  "timestamp": "2026-08-22T16:09:06.458468878Z",
+  "model": "glm-5.3"
+}

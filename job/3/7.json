@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 3:7",
+  "book": "job",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "ഇതാ, ആ രാത്രി വന്ധ്യമാകട്ടെ; അതിൽ സന്തോഷാരവം വരരുത്.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ഇതാ"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ആ രാത്രി"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ആ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ആകട്ടെ"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "വന്ധ്യമാക"
+    },
+    {
+      "surface": "אל",
+      "gloss": "അരുത്"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "വര"
+    },
+    {
+      "surface": "רננה",
+      "gloss": "സന്തോഷാരവം"
+    },
+    {
+      "surface": "בו",
+      "gloss": "അതിൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T16:42:29.434266485Z",
+  "model": "glm-5.3"
+}

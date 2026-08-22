@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 2:32",
+  "book": "ezra",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "ഖാരീമിന്റെ പുത്രന്മാർ — னുന്നൂറ്റിരുപതു പേർ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ഖാരീമിന്റെ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "മൂന്ന്"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "നൂറ്റി"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ഇരുപതു"
+    }
+  ],
+  "timestamp": "2026-08-22T17:30:48.926303578Z",
+  "model": "glm-5.3"
+}

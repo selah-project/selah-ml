@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 19:4",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 19,
+  "translation": "എൽതോലദ്, ബെത്തൂൽ, ഖൊർമ.",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "എൽതോലദ്"
+    },
+    {
+      "surface": "ובתול",
+      "gloss": "ബെത്തൂൽ"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "ഖൊർമ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:34:51.539062958Z",
+  "model": "glm-5.3"
+}

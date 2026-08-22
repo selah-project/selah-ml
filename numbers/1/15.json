@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "നഫ്താലിക്കു വേണ്ടി — അഹീരാ, ഏനാന്റെ മകൻ.",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "നഫ്താലിക്കു വേണ്ടി"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "അഹീരാ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "ഏനാൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T10:15:26.675604471Z",
+  "model": "glm-5.3"
+}

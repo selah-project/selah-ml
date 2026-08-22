@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 21:23",
+  "book": "ezekiel",
+  "lang": "ml",
+  "chapter": 21,
+  "translation": "യാഹ്‌വെയുടെ വാക്ക് എന്നോടു ⟨came⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ഭവിച്ചു"
+    },
+    {
+      "surface": "ഓ",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-22T14:47:21.920348108Z",
+  "model": "glm-5.3"
+}

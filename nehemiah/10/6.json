@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 10:6",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "ഖാരിം, മെരെമോത്, ഒവദ്യാ",
+  "tokens": [
+    {
+      "surface": "חרם",
+      "gloss": "ഖാരിം"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "മെരെമോത്"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "ഒവദ്യാ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:42:24.152007427Z",
+  "model": "glm-5.3"
+}

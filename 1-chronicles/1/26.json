@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 1:26",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "സെരൂഗ്, നാഖോർ, തെരാഖ്.",
+  "tokens": [
+    {
+      "surface": "שרוג",
+      "gloss": "സെരൂഗ്"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "നാഖോർ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "തെരാഖ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:46:22.365034253Z",
+  "model": "glm-5.3"
+}

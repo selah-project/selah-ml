@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "കെഹാതിന്റെ പുത്രന്മാർ: അംറാം, യിത്‌സഹർ, ഖെബ്രോൺ, ഉസ്സീഎൽ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "കെഹാതിന്റെ"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "അംറാം"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "യിത്‌സഹർ"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "ഖെബ്രോൺ"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "ഉസ്സീഎൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:49:25.227970370Z",
+  "model": "glm-5.3"
+}

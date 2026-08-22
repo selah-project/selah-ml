@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "ഗോമെരിന്റെ പുത്രന്മാർ: അശ്കെനാസ്, രീഫത്, തോഗർമാഹ്.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ഗോമെരിന്റെ"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "അശ്കെനാസ്"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "രീഫത്"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "തോഗർമാഹ്"
+    }
+  ],
+  "timestamp": "2026-08-22T08:17:58.035719944Z",
+  "model": "glm-5.3"
+}

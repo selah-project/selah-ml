@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "ml",
+  "chapter": 4,
+  "translation": "നല്ലതു രണ്ടുപേർ — ഒറ്റയാളെക്കാൾ; കാരണം അവരുടെ അധ്വാനത്തിൽ അവർക്കു നല്ല പ്രതിഫലം ഉണ്ട്.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "നല്ലതു"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "രണ്ടുപേർ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "നെക്കാൾ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ഒറ്റയാൾ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "കാരണം"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ഉണ്ട്"
+    },
+    {
+      "surface": "להם",
+      "gloss": "അവർക്ക്"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "പ്രതിഫലം"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "നല്ല"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "അവരുടെ അധ്വാനത്തിൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:11:48.001302508Z",
+  "model": "glm-5.3"
+}

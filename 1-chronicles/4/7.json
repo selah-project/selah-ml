@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 4,
+  "translation": "ഹെലായുടെ പുത്രന്മാർ: സെരെത്, യിത്സാർ, എത്നാൻ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "ഹെലാ"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "സെരെത്"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "യിത്സാർ"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "എത്നാൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:48:55.024460406Z",
+  "model": "glm-5.3"
+}

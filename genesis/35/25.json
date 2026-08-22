@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 35:25",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 35,
+  "translation": "ബിൽഹായുടെ — റാഹേലിന്റെ അടിമസ്ത്രീയുടെ — പുത്രന്മാർ: ദാൻ, നഫ്താലി.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "ബിൽഹാ"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "അടിമസ്ത്രീ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "റാഹേൽ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ദാൻ"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "നഫ്താലി"
+    }
+  ],
+  "timestamp": "2026-08-22T08:46:28.109111262Z",
+  "model": "glm-5.3"
+}

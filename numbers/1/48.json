@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 1:48",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "വാക്യം: യാഹ്‌വെ മോശെയോടു അരുളിച്ചെയ്തതു:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "അരുളിച്ചെയ്തതു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ഇതിനോടു"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെയോടു"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയുന്നതു"
+    }
+  ],
+  "timestamp": "2026-08-22T10:14:59.961113269Z",
+  "model": "glm-5.3"
+}

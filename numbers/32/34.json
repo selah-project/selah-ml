@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 32,
+  "translation": "ഗാദിന്റെ മക്കൾ ⟨את⟩ ദിബോനും ⟨את⟩ അത്താരോത്തും ⟨את⟩ അരോവേരും പണിതു.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "പണിതു"
+    },
+    {
+      "surface": "בני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ഗാദിന്റെ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ദിബോൻ"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "ദിബോനും"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "അത്താരോത്ത്"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "അത്താരോത്തും"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "അരോവേർ"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "അരോവേരും"
+    }
+  ],
+  "timestamp": "2026-08-22T10:49:32.764200697Z",
+  "model": "glm-5.3"
+}

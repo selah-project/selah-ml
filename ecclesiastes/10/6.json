@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "മണ്ടനെ പല ഉയരങ്ങളിലും ⟨അവൻ⟩ നിർത്തി; ധനികരോ താഴ്ന്ന സ്ഥലത്ത് ഇരിക്കുന്നു.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "നിർത്തി"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "മണ്ടനെ"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "ഉയരങ്ങളിലും"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "പല"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "ധനികരോ"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "താഴ്ന്ന സ്ഥലത്ത്"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ഇരിക്കുന്നു"
+    }
+  ],
+  "timestamp": "2026-08-22T17:13:23.443941783Z",
+  "model": "glm-5.3"
+}

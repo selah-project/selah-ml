@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 12,
+  "translation": "കേദെശിന്റെ രാജാവ് ഒരാൾ; കർമ്മേലിലെ യൊക്നെഅമിന്റെ രാജാവ് ഒരാൾ;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "രാജാവ്"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "കേദെശ്"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ഒരാൾ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "രാജാവ്"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "യൊക്നെഅം"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "കർമ്മേലിലെ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ഒരാൾ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:31:05.047108592Z",
+  "model": "glm-5.3"
+}

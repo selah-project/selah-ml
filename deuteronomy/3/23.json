@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 3:23",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "ആ സമയത്ത് ഞാൻ യാഹ്‌വെയോട് അപേക്ഷിച്ചു, പറയുന്നത്:",
+  "tokens": [
+    {
+      "surface": "ואתחנן",
+      "gloss": "ഞാൻ അപേക്ഷിച്ചു"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-യോട്"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "സമയത്ത്"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ആ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയുന്നത്"
+    }
+  ],
+  "timestamp": "2026-08-22T10:57:28.507949467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "തീർച്ചയായും എനിക്കെതിരെ മാത്രം അവൻ തിരിഞ്ഞു; ദിവസം മുഴുവൻ തന്റെ കൈ മറിക്കുന്നു.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "തീർച്ചയായും മാത്രം"
+    },
+    {
+      "surface": "בי",
+      "gloss": "എനിക്കെതിരെ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "തിരിഞ്ഞു"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "മറിക്കുന്നു"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "തന്റെ കൈ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "മുഴുവൻ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ദിവസം"
+    }
+  ],
+  "timestamp": "2026-08-22T17:08:46.139570188Z",
+  "model": "glm-5.3"
+}

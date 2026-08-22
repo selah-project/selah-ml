@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "ml",
+  "chapter": 5,
+  "translation": "മിത്സ്രയിമിന് നാം കൈ കൊടുത്തു, അഷ്ഷൂരിന് — അപ്പം കൊണ്ട് തൃപ്തിയാകാൻ.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "മിത്സ്രയിമിന്"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "നാം കൊടുത്തു"
+    },
+    {
+      "surface": "יד",
+      "gloss": "കൈ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "അഷ്ഷൂരിന്"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "തൃപ്തിയാകാൻ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "അപ്പം"
+    }
+  ],
+  "timestamp": "2026-08-22T17:11:11.905892558Z",
+  "model": "glm-5.3"
+}

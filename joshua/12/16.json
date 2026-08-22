@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 12,
+  "translation": "മക്കെദായുടെ രാജാവ് ഒന്ന്; ബേത്ത്-ഏലിന്റെ രാജാവ് ഒന്ന്;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "രാജാവ്"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "മക്കെദായുടെ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ഒന്ന്"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "രാജാവ്"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ബേത്ത്"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ഏലിന്റെ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ഒന്ന്"
+    }
+  ],
+  "timestamp": "2026-08-22T11:31:01.748768255Z",
+  "model": "glm-5.3"
+}

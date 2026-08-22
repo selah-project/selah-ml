@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 2:27",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "രാമിന്റെ — യെരഖ്മെലിന്റെ ആദ്യജാതന്റെ — പുത്രന്മാർ ഉണ്ടായി: മാത്സ്, യാമിൻ, ഏഖെർ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ഉണ്ടായി"
+    },
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "רם",
+      "gloss": "രാം"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ആദ്യജാതൻ"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "യെരഖ്മെൽ"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "മാത്സ്"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "യാമിൻ"
+    },
+    {
+      "surface": "ועקר",
+      "gloss": "ഏഖെർ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:47:07.312454907Z",
+  "model": "glm-5.3"
+}

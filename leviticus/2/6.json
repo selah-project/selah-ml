@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "അതിനെ ⟨את⟩ കഷണങ്ങളായി പൊടിച്ചു, അതിന്മേൽ എണ്ണ പൊഴിച്ചേല്ലു — അതു മിൻഖാ ആകുന്നു.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "പൊടിച്ചു"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "അതിനെ"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "കഷണങ്ങളായി"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "പൊഴിച്ചേല്ലു"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "അതിന്മേൽ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "എണ്ണ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "മിൻഖാ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "അതു"
+    }
+  ],
+  "timestamp": "2026-08-22T09:45:17.404896198Z",
+  "model": "glm-5.3"
+}

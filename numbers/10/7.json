@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "സഭ ⟨את⟩ കൂട്ടുമ്പോഴോ നിങ്ങൾ ഊതും, പക്ഷേ വിടരു ഊതുകയില്ല.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "കൂട്ടുമ്പോഴോ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "സഭ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "സഭ"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "നിങ്ങൾ ഊതും"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "പക്ഷേ ഇല്ല"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "വിടരു ഊതുകയില്ല"
+    }
+  ],
+  "timestamp": "2026-08-22T10:26:42.743998937Z",
+  "model": "glm-5.3"
+}

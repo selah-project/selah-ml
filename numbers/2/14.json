@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 2:14",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "ഗാദ് ഗോത്രവും; ഗാദ് മക്കളുടെ നായകൻ എല്യാസാഫ്, രെഊവേലിന്റെ മകൻ.",
+  "tokens": [
+    {
+      "surface": "ומטה",
+      "gloss": "ഗോത്രവും"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ഗാദ്"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "നായകൻ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "മക്കളുടെ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ഗാദ്"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "എല്യാസാഫ്"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "രെഊവേൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T10:17:54.664477451Z",
+  "model": "glm-5.3"
+}

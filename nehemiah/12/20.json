@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 12,
+  "translation": "സല്ലായ്ക്ക് കല്ലായ്; അമോക്കിന്ന് എവെർ.",
+  "tokens": [
+    {
+      "surface": "לסלי",
+      "gloss": "സല്ലായ്ക്ക്"
+    },
+    {
+      "surface": "קלי",
+      "gloss": "കല്ലായ്"
+    },
+    {
+      "surface": "לעמוק",
+      "gloss": "അമോക്കിന്ന്"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "എവെർ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:44:54.859219285Z",
+  "model": "glm-5.3"
+}

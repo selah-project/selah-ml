@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 5:11",
+  "book": "lamentations",
+  "lang": "ml",
+  "chapter": 5,
+  "translation": "സീയോനിൽ സ്ത്രീകളെ അടിച്ചമർത്തി, യെഹൂദായുടെ പട്ടണങ്ങളിൽ കന്യകമാരെയും.",
+  "tokens": [
+    {
+      "surface": "נשים",
+      "gloss": "സ്ത്രീകളെ"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "സീയോനിൽ"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "അടിച്ചമർത്തി"
+    },
+    {
+      "surface": "בתלת",
+      "gloss": "കന്യകമാരെ"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "പട്ടണങ്ങളിൽ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "യെഹൂദായുടെ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:11:09.663411543Z",
+  "model": "glm-5.3"
+}

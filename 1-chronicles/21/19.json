@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 21:19",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 21,
+  "translation": "ദാവീദ് ഗാദ് യാഹ്‌വെയുടെ നാമത്തിൽ പറഞ്ഞ വചനപ്രകാരം മുകളിൽ കയറി.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "കയറി"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ദാവീദ്"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "വചനപ്രകാരം"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ഗാദ്"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ആ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "പറഞ്ഞ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "നാമത്തിൽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെയുടെ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:59:05.428996203Z",
+  "model": "glm-5.3"
+}

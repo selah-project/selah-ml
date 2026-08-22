@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "ശെലാഖ് മുപ്പതു വർഷം ജീവിച്ചു, ഏവറിനെ ⟨את⟩ ജനിപ്പിച്ചു.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "ശെലാഖ്"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ജീവിച്ചു"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "മുപ്പതു"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "വർഷം"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ജനിപ്പിച്ചു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ഏവറിനെ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ഏവർ"
+    }
+  ],
+  "timestamp": "2026-08-22T08:20:05.555175226Z",
+  "model": "glm-5.3"
+}

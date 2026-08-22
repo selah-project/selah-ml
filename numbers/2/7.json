@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 2:7",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "സെബൂലൂൺ ഗോത്രം; സെബൂലൂൺ മക്കളുടെ നായകൻ ഹേലോന്റെ മകൻ എലിയാബ്.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "ഗോത്രം"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "സെബൂലൂൺ"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "നായകൻ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "മക്കളുടെ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "സെബൂലൂൺ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "എലിയാബ്"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "ഹേലോൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T10:17:43.917838849Z",
+  "model": "glm-5.3"
+}

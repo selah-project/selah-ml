@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 83,
+  "translation": "എൻ-ദോരിൽ വെച്ചു ⟨അവർ⟩ നശിച്ചു; അവർ ഭൂമിക്കു വളമായി ⟨മാറി⟩.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "നശിച്ചു"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "എൻ-…-ഇൽ"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "ദോർ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ആയി"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "വളം"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "ഭൂമിക്കു"
+    }
+  ],
+  "timestamp": "2026-08-22T16:05:28.001033513Z",
+  "model": "glm-5.3"
+}

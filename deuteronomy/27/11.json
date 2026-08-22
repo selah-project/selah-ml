@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 27,
+  "translation": "ആ ദിവസത്തിൽ മോശെ ⟨את⟩ ജനത്തിനു കല്പന നൽകി:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "കല്പന നൽകി"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ജനത്തിനു"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ജനത്തിനു"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ദിവസത്തിൽ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ആ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറഞ്ഞു"
+    }
+  ],
+  "timestamp": "2026-08-22T11:14:29.034611279Z",
+  "model": "glm-5.3"
+}

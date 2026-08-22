@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "ml",
+  "chapter": 4,
+  "translation": "നിൻ്റെ മുഴുവനും സുന്ദരിയാണ് എൻ്റെ പ്രിയതമേ; നിന്നിൽ കുറവും ⟨ഇല്ല⟩.",
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "നിൻ്റെ മുഴുവനും"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "സുന്ദരി"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "എൻ്റെ പ്രിയതമേ"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "കുറവും"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "בך",
+      "gloss": "നിന്നിൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T19:12:59.528774074Z",
+  "model": "glm-5.3"
+}

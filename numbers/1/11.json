@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 1:11",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "ബിന്യാമിനിന് — ഗിദോനിയുടെ മകനായ അവിദാൻ.",
+  "tokens": [
+    {
+      "surface": "לבנימן",
+      "gloss": "ബിന്യാമിനിന്"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "അവിദാൻ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "ഗിദോനി"
+    }
+  ],
+  "timestamp": "2026-08-22T10:14:35.121051553Z",
+  "model": "glm-5.3"
+}

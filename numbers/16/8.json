@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 16:8",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 16,
+  "translation": "മോശെ കോരഹിനോടു പറഞ്ഞു: കേൾക്കുവിൻ ഇപ്പോൾ, ലെവിപുത്രന്മാരേ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "പറഞ്ഞു"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ഇതിനോട്"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "കോരഹ്"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "കേൾക്കുവിൻ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ഇപ്പോൾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാരേ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ലെവി"
+    }
+  ],
+  "timestamp": "2026-08-22T10:34:00.992279135Z",
+  "model": "glm-5.3"
+}

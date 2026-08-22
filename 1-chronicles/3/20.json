@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "ഹാഷുബ്ബാഹ്, ഓഹെൽ, ബെരെഖ്യാഹ്, ഹസദ്യാഹ്, യൂഷാവ്-ഹെസെദ് — അഞ്ച്.",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "ഹാഷുബ്ബാഹ്"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "ഓഹെൽ"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "ബെരെഖ്യാഹ്"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "ഹസദ്യാഹ്"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "യൂഷാവ്"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ഹെസെദ്"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "അഞ്ച്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:48:43.803879993Z",
+  "model": "glm-5.3"
+}

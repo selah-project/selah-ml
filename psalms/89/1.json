@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 89,
+  "translation": "ബോധനം — എഴുത്താളൻ: എഴ്രാഹ്യനായ ഏത്താൻ",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "ബോധന-കാവ്യം"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "ഏത്താന്‌"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "എഴ്രാഹ്യൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T16:07:44.490903660Z",
+  "model": "glm-5.3"
+}

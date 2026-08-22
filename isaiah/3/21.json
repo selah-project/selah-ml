@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 3:21",
+  "book": "isaiah",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "മുദ്രമോതിരങ്ങളും, മൂക്കിലെ വളകളും,",
+  "tokens": [
+    {
+      "surface": "הטבעות",
+      "gloss": "മുദ്രമോതിരങ്ങളും"
+    },
+    {
+      "surface": "ונזמי",
+      "gloss": "വളകളും"
+    },
+    {
+      "surface": "האף",
+      "gloss": "മൂക്കിലെ"
+    }
+  ],
+  "timestamp": "2026-08-22T13:22:20.433363130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 22,
+  "translation": "ഒരു മന്ത്രവാദിനിയെ നീ ജീവിപ്പിക്കരുത്.",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "മന്ത്രവാദിനിയെ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "വേണ്ട"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ജീവിപ്പിക്കുക"
+    }
+  ],
+  "timestamp": "2026-08-22T09:23:36.053631189Z",
+  "model": "glm-5.3"
+}

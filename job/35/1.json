@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 35:1",
+  "book": "job",
+  "lang": "ml",
+  "chapter": 35,
+  "translation": "എലീഹു ഉത്തരം നൽകി പറഞ്ഞു:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ഉത്തരം നൽകി"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "എലീഹു"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "പറഞ്ഞു"
+    }
+  ],
+  "timestamp": "2026-08-22T16:56:50.768919327Z",
+  "model": "glm-5.3"
+}

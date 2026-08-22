@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 17:17",
+  "book": "jeremiah",
+  "lang": "ml",
+  "chapter": 17,
+  "translation": "എനിക്കു നാശമാകരുത്; ദുരിതദിനത്തിൽ എന്റെ അഭയം നീ ആകുന്നു.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "അരുത്"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ആകരുത്"
+    },
+    {
+      "surface": "לי",
+      "gloss": "എനിക്കു"
+    },
+    {
+      "surface": "למחתה",
+      "gloss": "നാശമായി"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "എന്റെ അഭയം"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "നീ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ദിനത്തിൽ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ദുരിത"
+    }
+  ],
+  "timestamp": "2026-08-22T14:09:19.915006399Z",
+  "model": "glm-5.3"
+}

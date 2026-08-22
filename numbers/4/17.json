@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 4:17",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 4,
+  "translation": "യാഹ്‌വെ മോശെയോടും അഹറോനോടും സംസാരിച്ചു, പറയുന്നതു:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "സംസാരിച്ചു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...നോട്"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ഒപ്പം...നോട്"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "അഹറോൻ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയുന്നതു"
+    }
+  ],
+  "timestamp": "2026-08-22T10:19:48.366507512Z",
+  "model": "glm-5.3"
+}

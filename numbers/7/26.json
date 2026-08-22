@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 7:26",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "പത്ത് ⟨ശേക്കൽ⟩ ഒരു സ്വർണ്ണക്കൈപ്പാളി, ധൂപവർഗ്ഗം നിറച്ചത്.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "കൈപ്പാളി"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ഒന്ന്"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "പത്ത്"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "സ്വർണ്ണം"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "നിറച്ചത്"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ധൂപവർഗ്ഗം"
+    }
+  ],
+  "timestamp": "2026-08-22T10:20:54.828207937Z",
+  "model": "glm-5.3"
+}

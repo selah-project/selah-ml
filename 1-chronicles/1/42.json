@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 1:42",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "എത്സറിന്റെ പുത്രന്മാർ: ബില്ഹാൻ, സഅവാൻ, യഅകാൻ; ദീശോന്റെ പുത്രന്മാർ: ഉത്സ്, അരാൻ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "എത്സർ"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "ബില്ഹാൻ"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "സഅവാൻ"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "യഅകാൻ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "ദീശോന്റെ"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ഉത്സ്"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "അരാൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:46:49.532206405Z",
+  "model": "glm-5.3"
+}

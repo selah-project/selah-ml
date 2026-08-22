@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 2:27",
+  "book": "ezra",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "മീഖ്മാസ് പുരുഷന്മാർ — നൂറ്റി ഇരുപത്തി രണ്ട്.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "പുരുഷന്മാർ"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "മീഖ്മാസ്"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "നൂറ്റി"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ഇരുപത്തി"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "രണ്ട്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:30:26.340169522Z",
+  "model": "glm-5.3"
+}

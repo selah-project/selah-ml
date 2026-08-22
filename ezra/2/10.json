@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 2:10",
+  "book": "ezra",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "ബാനിയുടെ പുത്രന്മാർ — ആറുനൂറ്റിനാല്പത്തിരണ്ട്.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ബാനിയുടെ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ആറ്"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "നൂറ്റി"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "നാല്പത്"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "രണ്ട്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:30:38.653549673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 14,
+  "translation": "കാഅത്തും ⟨את⟩ രഖാമായെയും ⟨את⟩ ശലാഖിനെയും",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "കാഅത്തും"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "രഖാമായെയും"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "രഖാമാ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ശലാഖിനെയും"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "ശലാഖ്"
+    }
+  ],
+  "timestamp": "2026-08-22T11:06:38.536077787Z",
+  "model": "glm-5.3"
+}

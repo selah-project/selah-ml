@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 16,
+  "translation": "ഏഴാം ദിവസം ജനം വിശ്രമിച്ചു.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "വിശ്രമിച്ചു"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ജനം"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ദിവസം"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ഏഴാം"
+    }
+  ],
+  "timestamp": "2026-08-22T09:17:28.553403707Z",
+  "model": "glm-5.3"
+}

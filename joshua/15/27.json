@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 15:27",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 15,
+  "translation": "ഹസർ-ഗദ്ദായ്, ഹെഷ്മോൺ, ബേത്ത്-പാലെത്ത്;",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "ഹസർ"
+    },
+    {
+      "surface": "גדה",
+      "gloss": "ഗദ്ദായ്"
+    },
+    {
+      "surface": "וחשמון",
+      "gloss": "ഹെഷ്മോൺ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ബേത്ത്"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "പാലെത്ത്"
+    }
+  ],
+  "timestamp": "2026-08-22T11:33:21.136554251Z",
+  "model": "glm-5.3"
+}

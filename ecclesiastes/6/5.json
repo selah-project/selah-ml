@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "സൂര്യനെപ്പോലും അവൻ കണ്ടിട്ടില്ല, അറിഞ്ഞിട്ടുമില്ല; ഇവന് അതിനെക്കാൾ വിശ്രമമുണ്ട്.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "പോലും"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "സൂര്യനെ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "കണ്ടിട്ടില്ല"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "അറിഞ്ഞിട്ടുമില്ല"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "അറിയുക"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "വിശ്രമം"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "ഇവന്"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "അതിനെക്കാൾ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:15:06.057448020Z",
+  "model": "glm-5.3"
+}

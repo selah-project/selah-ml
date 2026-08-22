@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 6:10",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "അല്പം ഉറക്കം, അല്പം മയക്കം, അല്പം കൈകൾ കൂട്ടിപ്പിടിച്ച് കിടക്കാൻ",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "അല്പം"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ഉറക്കം"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "അല്പം"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "മയക്കം"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "അല്പം"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "കൂട്ടിപ്പിടിച്ച്"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "കൈകൾ"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "കിടക്കാൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T16:29:42.883945583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 6:18",
+  "book": "jeremiah",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "ആകയാൽ സത്യം, ജാതികളേ, കേൾക്കുവിൻ; സഭയേ, ⟨את⟩ അവരിൽ ഉള്ളതു അറിയുക.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ആകയാൽ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "കേൾക്കുവിൻ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ജാതികളേ"
+    },
+    {
+      "surface": "ודעי",
+      "gloss": "അറിയുക"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "സഭയേ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "അവരിൽ ഉള്ളതു"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ഉള്ളതു"
+    },
+    {
+      "surface": "בם",
+      "gloss": "അവരിൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T18:55:57.732412119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 5,
+  "translation": "നീ നിന്റെ അയൽക്കാരനെതിരെ തെറ്റായ സാക്ഷ്യം പറയരുത്.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "വേണ്ട"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ഉത്തരം പറയുക"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "നിന്റെ അയൽക്കാരനെതിരെ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "സാക്ഷ്യം"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "തെറ്റായ"
+    }
+  ],
+  "timestamp": "2026-08-22T10:58:03.581756697Z",
+  "model": "glm-5.3"
+}

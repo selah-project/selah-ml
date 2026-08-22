@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 10:16",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "ബുന്നി, അസ്ഗദ്, ബെബായ്.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ബുന്നി"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "അസ്ഗദ്"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "ബെബായ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:44:06.245443016Z",
+  "model": "glm-5.3"
+}

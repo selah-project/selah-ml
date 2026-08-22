@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "നീ ഇന്ന് ⟨את⟩ മോവാബിന്റെ അതിർത്തിയായ ⟨את⟩ ആറിനെ കടന്നുപോകുന്നു.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "നീ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "കടന്നുപോകുന്നു"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ഇന്ന്"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "മോവാബിന്റെ അതിർത്തി"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "അതിർത്തി"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "മോവാബ്"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ആറിനെ"
+    },
+    {
+      "surface": "ער",
+      "gloss": "ആർ"
+    }
+  ],
+  "timestamp": "2026-08-22T10:54:48.178893074Z",
+  "model": "glm-5.3"
+}

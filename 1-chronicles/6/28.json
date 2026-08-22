@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 6:28",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "യാഖത്തിന്റെ മകൻ, ഗെരെശോമിന്റെ മകൻ, ലേവിയുടെ മകൻ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "യാഖത്ത്"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "ഗെരെശോം"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ലേവി"
+    }
+  ],
+  "timestamp": "2026-08-22T17:50:52.013228671Z",
+  "model": "glm-5.3"
+}

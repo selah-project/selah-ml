@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 23:23",
+  "book": "leviticus",
+  "lang": "ml",
+  "chapter": 23,
+  "translation": "യാഹ്‌വെ മോശെയോടു അരുളിച്ചെയ്തതു:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "അരുളിച്ചെയ്തതു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "യോടു"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "എന്നു:"
+    }
+  ],
+  "timestamp": "2026-08-22T10:12:02.200113482Z",
+  "model": "glm-5.3"
+}

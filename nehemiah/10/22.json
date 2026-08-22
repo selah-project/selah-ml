@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 10:22",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "മെശേസബ്ഏൽ, സാദോക്, യദ്ദൂഅ,",
+  "tokens": [
+    {
+      "surface": "משיזבאל",
+      "gloss": "മെശേസബ്ഏൽ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "സാദോക്"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "യദ്ദൂഅ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:43:40.789793036Z",
+  "model": "glm-5.3"
+}

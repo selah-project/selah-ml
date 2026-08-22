@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 5:17",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 5,
+  "translation": "നീ കൊലപാതകം ചെയ്യരുത്.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "വേണ്ട"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "കൊലപാതകം ചെയ്യുക"
+    }
+  ],
+  "timestamp": "2026-08-22T10:58:03.581308828Z",
+  "model": "glm-5.3"
+}

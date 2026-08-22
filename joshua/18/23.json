@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 18:23",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 18,
+  "translation": "അവ്വീം, ഹപ്പാരാ, ഒഫ്രാ എന്നിവയും.",
+  "tokens": [
+    {
+      "surface": "והעוים",
+      "gloss": "അവ്വീം"
+    },
+    {
+      "surface": "והפרה",
+      "gloss": "ഹപ്പാരാ"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "ഒഫ്രാ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:33:56.057780882Z",
+  "model": "glm-5.3"
+}

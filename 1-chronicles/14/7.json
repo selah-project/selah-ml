@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 14:7",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 14,
+  "translation": "എലീശാമായും, ബെഅല്യാദായും, എലീഫാലെതും.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "എലീശാമായും"
+    },
+    {
+      "surface": "ובעלידע",
+      "gloss": "ബെഅല്യാദായും"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "എലീഫാലെതും"
+    }
+  ],
+  "timestamp": "2026-08-22T17:55:08.889092733Z",
+  "model": "glm-5.3"
+}

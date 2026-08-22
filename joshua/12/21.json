@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 12:21",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 12,
+  "translation": "തഅനാക്കിന്റെ രാജാവ് ഒരാൾ; മെഗിദ്ദോയുടെ രാജാവ് ഒരാർ;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "രാജാവ്"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "തഅനാക്ക്"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ഒരാൾ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "രാജാവ്"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "മെഗിദ്ദോ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ഒരാൾ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:31:05.046884193Z",
+  "model": "glm-5.3"
+}

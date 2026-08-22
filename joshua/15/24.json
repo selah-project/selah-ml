@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 15:24",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 15,
+  "translation": "സീഫ്, തെലെം, ബെഅലോത്ത് —",
+  "tokens": [
+    {
+      "surface": "זיף",
+      "gloss": "സീഫ്"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "തെലെം"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "ബെഅലോത്ത്"
+    }
+  ],
+  "timestamp": "2026-08-22T11:33:23.770603848Z",
+  "model": "glm-5.3"
+}

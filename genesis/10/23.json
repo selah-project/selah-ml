@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 10:23",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "അറാമിന്റെ പുത്രന്മാർ: ഉത്സ്, ഹൂൽ, ഗെത്തെർ, മാഷ്.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "അറാമിന്റെ"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ഉത്സ്"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "ഹൂൽ"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "ഗെത്തെർ"
+    },
+    {
+      "surface": "ומש",
+      "gloss": "മാഷ്"
+    }
+  ],
+  "timestamp": "2026-08-22T08:19:37.445791082Z",
+  "model": "glm-5.3"
+}

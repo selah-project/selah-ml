@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 19:37",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 19,
+  "translation": "ഖെദെശ്, അദ്രെയ്, എൻ-ഖാസോർ.",
+  "tokens": [
+    {
+      "surface": "וקדש",
+      "gloss": "ഖെദെശ്"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "അദ്രെയ്"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "എൻ"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "ഖാസോർ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:35:09.539395671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 101,
+  "translation": "വക്രമായ ഹൃദയം എന്നെ വിട്ടുമാറും; തിന്മ ഞാൻ അറിയുകയില്ല.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "ഹൃദയം"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "വക്രമായ"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "മാറും"
+    },
+    {
+      "surface": "ങממני",
+      "gloss": "എന്നെ വിട്ടു"
+    },
+    {
+      "surface": "רע",
+      "gloss": "തിന്മ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ഞാൻ അറിയും"
+    }
+  ],
+  "timestamp": "2026-08-22T16:12:03.971341773Z",
+  "model": "glm-5.3"
+}

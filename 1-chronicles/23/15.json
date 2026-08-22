@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 23,
+  "translation": "മോശെയുടെ പുത്രന്മാർ: ഗെർഷോമും എലീഎസറും.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെയുടെ"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "ഗെർഷോം"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "എലീഎസറും"
+    }
+  ],
+  "timestamp": "2026-08-22T18:00:10.614261533Z",
+  "model": "glm-5.3"
+}

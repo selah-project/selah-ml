@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 13:18",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 13,
+  "translation": "യാഹ്സാ, ഖെദെമോത്ത്, മെഫാഅത്ത്;",
+  "tokens": [
+    {
+      "surface": "ויהצה",
+      "gloss": "യാഹ്സാ…ഉം"
+    },
+    {
+      "surface": "וקדמת",
+      "gloss": "ഖെദെമോത്ത്…ഉം"
+    },
+    {
+      "surface": "ומפעת",
+      "gloss": "മെഫാഅത്ത്…ഉം"
+    }
+  ],
+  "timestamp": "2026-08-22T18:37:24.880868293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "നോഅഖ് ⟨was⟩ ആറു നൂറ് വർഷം പ്രായമുള്ള പുത്രൻ; വെള്ളപ്പൊക്കം ഭൂമിയിൽ വെള്ളമായി ⟨was⟩.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "നോഅഖും"
+    },
+    {
+      "surface": "בן",
+      "gloss": "പുത്രൻ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ആറു"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "നൂറ്"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "വർഷം"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "വെള്ളപ്പൊക്കവും"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ആയിരുന്നു"
+    },
+    {
+      "surface": "מים",
+      "gloss": "വെള്ളം"
+    },
+    {
+      "surface": "על",
+      "gloss": "ഭൂമിയിൽ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ഭൂമിയിൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T08:16:47.447764940Z",
+  "model": "glm-5.3"
+}

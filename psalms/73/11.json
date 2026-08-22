@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 73,
+  "translation": "അവർ പറയുന്നു: എങ്ങനെ ഏൽ അറിയും? ഏല്യോനിൽ അറിവ് ഉണ്ടോ?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "അവർ പറയുന്നു"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "എങ്ങനെ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "അറിയും"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ഏൽ"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "ഉണ്ടോ"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "അറിവ്"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "ഏല്യോനിൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T19:08:29.082448173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ബേത്-ലെഖെമിലെയും നെതോഫയിലെയും പുരുഷന്മാർ നൂറ്റെണ്പത്തിയെട്ട്.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "പുരുഷന്മാർ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ബേത്"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ലെഖെം"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "നെതോഫ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "നൂറ്"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "എൺപത്"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "എട്ട്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:42:01.605697881Z",
+  "model": "glm-5.3"
+}

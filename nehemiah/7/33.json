@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 7:33",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "മറ്റേ നെബോയിലെ പുരുഷന്മാർ — അമ്പത്തിരണ്ടുപേർ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "പുരുഷന്മാർ"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "നെബോ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "മറ്റേ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "അമ്പത്"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "രണ്ട്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:41:50.405058014Z",
+  "model": "glm-5.3"
+}

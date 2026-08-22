@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 7:25",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "വെരെഫാഖ് അവന്റെ മകൻ, വെരെശെഫ്, വെതെലാഖ് അവന്റെ മകൻ, വെതാഖൻ അവന്റെ മൻ.",
+  "tokens": [
+    {
+      "surface": "ורפח",
+      "gloss": "വെരെഫാഖ്"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "അവന്റെ മകൻ"
+    },
+    {
+      "surface": "ורשף",
+      "gloss": "വെരെശെഫ്"
+    },
+    {
+      "surface": "ותלח",
+      "gloss": "വെതെലാഖ്"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "അവന്റെ മകൻ"
+    },
+    {
+      "surface": "ותחן",
+      "gloss": "വെതാഖൻ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "അവന്റെ മകൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:50:59.127296763Z",
+  "model": "glm-5.3"
+}

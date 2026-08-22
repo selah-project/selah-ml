@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 118:14",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 118,
+  "translation": "എന്റെ ബലവും ഗാനവും യാഹ്; അവൻ എനിക്കു രക്ഷയായി.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "എന്റെ ബലം"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "ഗാനവും"
+    },
+    {
+      "surface": "יה",
+      "gloss": "യാഹ്"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ആയിത്തീർന്നു"
+    },
+    {
+      "surface": "לי",
+      "gloss": "എനിക്കു"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "രക്ഷ"
+    }
+  ],
+  "timestamp": "2026-08-22T16:18:10.269974118Z",
+  "model": "glm-5.3"
+}

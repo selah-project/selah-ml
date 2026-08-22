@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 11:41",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "ഊരിയാഹ് ഹിത്തീ, സാബാദ് അഹ്ലായിയുടെ മകൻ,",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "ഊരിയാഹ്"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ഹിത്തീ"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "സാബാദ്"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…മകൻ"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "അഹ്ലായി"
+    }
+  ],
+  "timestamp": "2026-08-22T17:52:05.148058986Z",
+  "model": "glm-5.3"
+}

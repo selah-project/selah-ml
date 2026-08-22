@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 17,
+  "translation": "മോശെയും അഹറോനും സമാഗമന കൂടാരത്തിന്റെ മുമ്പിലേക്ക് വന്നു.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "വന്നു"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെയും"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "അഹറോനും"
+    },
+    {
+      "surface": "אל",
+      "gloss": "നേരെ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "മുമ്പിലേക്ക്"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "കൂടാരത്തിന്റെ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "സമാഗമന"
+    }
+  ],
+  "timestamp": "2026-08-22T10:35:05.298193959Z",
+  "model": "glm-5.3"
+}

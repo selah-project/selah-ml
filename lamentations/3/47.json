@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "പേടിയും കെണിയും നമുക്കു വന്നുഭവിച്ചു — നാശവും തകർച്ചയും.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "പേടി"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "കെണിയും"
+    },
+    {
+      "surface": "היה",
+      "gloss": "വന്നുഭവിച്ചു"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "നമുക്കു"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "നാശം"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "തകർച്ചയും"
+    }
+  ],
+  "timestamp": "2026-08-22T17:08:46.536873614Z",
+  "model": "glm-5.3"
+}

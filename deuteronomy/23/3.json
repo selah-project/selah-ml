@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 23:3",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 23,
+  "translation": "മമ്സർ യാഹ്‌വെയുടെ സഭയിൽ കടക്കരുത്; പത്താം തലമുറപോലും അവന് യാഹ്‌വെയുടെ സഭയിൽ കടക്കരുത്.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "അരുത്"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "കടക്കുക"
+    },
+    {
+      "surface": "ממזר",
+      "gloss": "മമ്സർ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "സഭയിൽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെയുടെ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "പോലും"
+    },
+    {
+      "surface": "דור",
+      "gloss": "തലമുറ"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "പത്താം"
+    },
+    {
+      "surface": "לא",
+      "gloss": "അരുത്"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "കടക്കുക"
+    },
+    {
+      "surface": "לו",
+      "gloss": "അവന്"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "സഭയിൽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെയുടെ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:16:21.958326302Z",
+  "model": "glm-5.3"
+}

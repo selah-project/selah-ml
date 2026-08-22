@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "nehemiah 7:47",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "കേരോസിന്റെ മക്കൾ, സീയായുടെ മക്കൾ, പാദോനിന്റെ മക്കൾ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "קירס",
+      "gloss": "കേരോസിന്റെ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "סיעא",
+      "gloss": "സീയായുടെ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "പാദോനിന്റെ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:42:17.252426446Z",
+  "model": "glm-5.3"
+}

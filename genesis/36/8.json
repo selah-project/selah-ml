@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 36,
+  "translation": "ഏസാവ് സേയിർ പർവ്വതത്തിൽ പാർത്തു; ഏസാവ് ⟨is⟩ എദോം.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "പാർത്തു"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ഏസാവ്"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "പർവ്വതത്തിൽ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "സേയിർ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ഏസാവ്"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "അവൻ ⟨is⟩"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "എദോം"
+    }
+  ],
+  "timestamp": "2026-08-22T08:44:49.284111447Z",
+  "model": "glm-5.3"
+}

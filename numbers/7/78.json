@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "numbers 7:78",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "പന്ത്രണ്ടാം ദിവസം നഫ്താലിയുടെ മക്കളുടെ നായകനായ ഏനാന്റെ മകൻ അഹീര.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ദിവസത്തിൽ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "രണ്ട്"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "പത്ത്"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ദിവസം"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "നായകൻ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "മക്കളുടെ"
+    },
+    {
+      "surface": "ന׫്താലി",
+      "gloss": ""
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "അഹീര"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "ഏനാൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T10:25:26.631868303Z",
+  "model": "glm-5.3"
+}

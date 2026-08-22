@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 8:34",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 8,
+  "translation": "യെഹോനതാന്റെ മകൻ മെരീവ്-ബാൽ; മെരീവ്-ബാൽ ജനിപ്പിച്ചു ⟨את⟩ മീഖായെ.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "യെഹോനതാന്റെ"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "മെരീവ്"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ബാൽ"
+    },
+    {
+      "surface": "ומריב",
+      "gloss": "മെരീവ്-ബാൽ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ബാൽ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ജനിപ്പിച്ചു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "മീഖായെ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "മീഖാ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:52:24.471273294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 7:14",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "സക്കായിയുടെ പുത്രന്മാർ — എഴുന്നൂറ്റി അറുപത്.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "സക്കായിയുടെ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ഏഴ്"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "നൂറുകൾ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "അറുപത്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:41:47.617940518Z",
+  "model": "glm-5.3"
+}

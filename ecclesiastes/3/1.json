@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "എല്ലാത്തിനും ഒരു നിശ്ചിത സമയം, ആകാശത്തിനു കീഴിലുള്ള എല്ലാ ഇഷ്ടത്തിനും ഒരു കാലം.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "എല്ലാത്തിനും"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "നിശ്ചിത സമയം"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ഒരു കാലം"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "എല്ലാ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ഇഷ്ടത്തിനും"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "കീഴിൽ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ആകാശത്തിന്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:12:08.324153187Z",
+  "model": "glm-5.3"
+}

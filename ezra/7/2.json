@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ശല്ലൂമിന്റെ മകൻ, സാദോക്കിന്റെ മകൻ, അഹീത്തൂബിന്റെ മകൻ,",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ശല്ലൂം"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "സാദോക്"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "അഹീത്തൂബ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:34:01.410238722Z",
+  "model": "glm-5.3"
+}

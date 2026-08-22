@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 12:19",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 12,
+  "translation": "യോയാരിബിന്ന് മത്തെനായ്; യെദയാഹിന്ന് ഉസ്സി.",
+  "tokens": [
+    {
+      "surface": "וליויריב",
+      "gloss": "യോയാരിബിന്ന്"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "മത്തെനായ്"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "യെദയാഹിന്ന്"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ഉസ്സി"
+    }
+  ],
+  "timestamp": "2026-08-22T17:44:54.859075293Z",
+  "model": "glm-5.3"
+}

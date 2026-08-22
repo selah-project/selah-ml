@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ഒരേയൊരു കടലും ⟨את⟩, കടലിന്നടിയിലുള്ള പന്ത്രണ്ടു കാളകളും ⟨את⟩;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "കടലിനെ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "കടല്"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ഒരേയൊന്ന്"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "കാളകളെ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "കാളകൾ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "രണ്ട്"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "പത്ത്"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "കീഴ്"
+    },
+    {
+      "surface": "הים",
+      "gloss": "കടലിന്റെ"
+    }
+  ],
+  "timestamp": "2026-08-22T12:44:24.665831965Z",
+  "model": "glm-5.3"
+}

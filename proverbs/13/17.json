@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 13,
+  "translation": "ദുഷ്ടനായ ദൂതൻ തിന്മയിൽ വീഴും; വിശ്വസ്തതയുള്ള ദൂതനോ ⟨ആണ്⟩ സൗഖ്യം.",
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "ദൂതൻ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ദുഷ്ടനായ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "വീഴും"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "തിന്മയിൽ"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "ദൂതനോ"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "വിശ്വസ്തതയുള്ള"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "സൗഖ്യം"
+    }
+  ],
+  "timestamp": "2026-08-22T16:32:01.495374516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 31,
+  "translation": "മോശെ പോയി, ഈ വാക്കുകൾ ⟨את⟩ യിസ്രായേലിന്റെ എല്ലാവരോടും സംസാരിച്ചു.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "പോയി"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "സംസാരിച്ചു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ഈ വാക്കുകൾ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "വാക്കുകൾ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ഈ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ഉള്ളിലേക്ക്"
+    },
+    {
+      "surface": "כל",
+      "gloss": "എല്ലാവരോടും"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "യിസ്രായേലിന്റെ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:22:11.332463716Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 7:22",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ആട്ടുകാരം ഒന്ന്, പാപയാഗത്തിന്.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "കാരാട്"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ആട്ടുകാരം"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ഒന്ന്"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "പാപയാഗത്തിന്"
+    }
+  ],
+  "timestamp": "2026-08-22T10:23:01.952259642Z",
+  "model": "glm-5.3"
+}

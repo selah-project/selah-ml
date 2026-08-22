@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 25:22",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 25,
+  "translation": "കാരണം അവന്റെ തലയിൽ നീ കനലുകൾ കൂട്ടും, യാഹ്‌വെ നിനക്ക് പ്രതിഫലം നൽകും.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "കാരണം"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "കനലുകൾ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "നീ"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "കൂട്ടും"
+    },
+    {
+      "surface": "על",
+      "gloss": "മേൽ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "അവന്റെ തല"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "വാ യാഹ്‌വെ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "പ്രതിഫലം നൽകും"
+    },
+    {
+      "surface": "לך",
+      "gloss": "നിനക്ക്"
+    }
+  ],
+  "timestamp": "2026-08-22T16:38:17.587351028Z",
+  "model": "glm-5.3"
+}

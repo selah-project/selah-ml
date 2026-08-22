@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 6:22",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "ഉസ്സീയേലിന്റെ പുത്രന്മാർ: മീശായേൽ, എൽസാഫാൻ, സിത്രി.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "ഉസ്സീയേൽ"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "മീശായേൽ"
+    },
+    {
+      "surface": "ואלצפן",
+      "gloss": "എൽസാഫാൻ"
+    },
+    {
+      "surface": "וסתרי",
+      "gloss": "സിത്രി"
+    }
+  ],
+  "timestamp": "2026-08-22T09:02:24.990142111Z",
+  "model": "glm-5.3"
+}

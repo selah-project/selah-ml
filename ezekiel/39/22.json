@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 39:22",
+  "book": "ezekiel",
+  "lang": "ml",
+  "chapter": 39,
+  "translation": "ആ ദിവസം മുതൽ പിന്നെ യിസ്രായേൽ ഭവനം എന്നെ — അവരുടെ എലോഹീം ആയ യാഹ്‌വെ — അറിയും.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "അറിയും"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ഭവനം"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "യിസ്രായേൽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "എന്നെ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ഞാൻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "അവരുടെ എലോഹീം"
+    },
+    {
+      "surface": "מן",
+      "gloss": "മുതൽ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ആ ദിവസം"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "അത്"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "പിന്നെ"
+    }
+  ],
+  "timestamp": "2026-08-22T15:03:41.000749106Z",
+  "model": "glm-5.3"
+}

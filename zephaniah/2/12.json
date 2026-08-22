@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 2:12",
+  "book": "zephaniah",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "നിങ്ങളും, കൂശ്യരേ — എന്റെ വാളിനാൽ കൊല്ലപ്പെട്ടവ൰ അവരാണ്.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ഒപ്പം"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "നിങ്ങളും"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "കൂശ്യരേ"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "കൊല്ലപ്പെട്ടവർ"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "എന്റെ വാളിനാൽ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "അവരാണ്"
+    }
+  ],
+  "timestamp": "2026-08-22T15:29:29.858338181Z",
+  "model": "glm-5.3"
+}

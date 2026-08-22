@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "പൊടിയിൽ അവൻ തന്റെ വായ് വയ്ക്കട്ടെ — ഒരുവേള പ്രത്യാശ ⟨ഉണ്ട്⟩.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "വയ്ക്കട്ടെ"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "പൊടിയിൽ"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "അവന്റെ വായ്"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ഒരുവേള"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨ഉണ്ട്⟩"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "പ്രത്യാശ"
+    }
+  ],
+  "timestamp": "2026-08-22T19:12:33.528761350Z",
+  "model": "glm-5.3"
+}

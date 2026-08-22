@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 12,
+  "translation": "യാഹ്‌വെയുടെ കോപം അവരിൽ ജ്വലിച്ചു; അവൻ പോയി.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ജ്വലിച്ചു"
+    },
+    {
+      "surface": "אף",
+      "gloss": "കോപം"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "അവരിൽ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "പോയി"
+    }
+  ],
+  "timestamp": "2026-08-22T10:29:25.052534125Z",
+  "model": "glm-5.3"
+}

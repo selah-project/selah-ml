@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 25,
+  "translation": "മഹാമാരിയിൽ മരിച്ചവർ ആയി — നാല്ലും ഇരുപതും ആയിരം.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ആയി"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "മരിച്ചവർ"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "മഹാമാരിയിൽ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "നാല്"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ഇരുപത്"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ആയിരം"
+    }
+  ],
+  "timestamp": "2026-08-22T10:42:52.259939750Z",
+  "model": "glm-5.3"
+}

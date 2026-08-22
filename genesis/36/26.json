@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 36:26",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 36,
+  "translation": "ഇവർ ദിശാന്റെ മക്കൾ: ഹെംദാൻ, എശ്ബാൻ, യിത്രാൻ, കെരാൻ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ഇവർ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "ദിശാന്റെ"
+    },
+    {
+      "surface": "חמדן",
+      "gloss": "ഹെംദാൻ"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "എശ്ബാൻ"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "യിത്രാൻ"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "കെരാൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T08:44:26.192687685Z",
+  "model": "glm-5.3"
+}

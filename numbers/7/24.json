@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 7:24",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "മൂന്നാം ദിവസം സെബൂലൂന്റെ മക്കൾക്കുള്ള പതിയായ ഹേലോന്റെ മകൻ എലിയാബ് ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ദിവസം"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "മൂന്നാം"
+    },
+    {
+      "surface": "ഠשיא",
+      "gloss": "പതി"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "മക്കൾക്കുള്ള"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "സെബൂലൂന്റെ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "എലിയാബ്"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "ഹേലോന്റെ"
+    }
+  ],
+  "timestamp": "2026-08-22T10:23:01.952596882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "ml",
+  "chapter": 16,
+  "translation": "പാപയാഗത്തിന്റെ കൊഴുപ്പ് ⟨את⟩ അവൻ യാഗപീഠത്തിൽ ധൂപിക്കും.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "കൊഴുപ്പ്"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "കൊഴുപ്പ്"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "പാപയാഗത്തിന്റെ"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "ധൂപിക്കും"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "യാഗപീഠത്തിൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T10:04:06.441372222Z",
+  "model": "glm-5.3"
+}

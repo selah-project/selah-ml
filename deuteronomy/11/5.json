@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "നിങ്ങൾ ഈ സ്ഥലത്തേക്ക് എത്തുന്നതുവരെ മരുഭൂമിയിൽ നിങ്ങൾക്കു ചെയ്തതും —",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "ആയതും"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ചെയ്തതും"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "നിങ്ങൾക്കു"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "മരുഭൂമിയിൽ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "വരെ"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "നിങ്ങൾ എത്തുന്നത്"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ഇതുവരെ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ഈ സ്ഥലത്തേക്ക്"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ഈ"
+    }
+  ],
+  "timestamp": "2026-08-22T18:37:01.543125115Z",
+  "model": "glm-5.3"
+}

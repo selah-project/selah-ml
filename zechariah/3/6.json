@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "യാഹ്‌വെയുടെ മാലാഖ യെഹോശുവയ്ക്ക് സാക്ഷ്യം വഹിച്ചു പറഞ്ഞു:",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "സാക്ഷ്യം വഹിച്ചു"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "മാലാഖ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെയുടെ"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "യെഹോശുവയ്ക്ക്"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറഞ്ഞു"
+    }
+  ],
+  "timestamp": "2026-08-22T15:34:14.800621311Z",
+  "model": "glm-5.3"
+}

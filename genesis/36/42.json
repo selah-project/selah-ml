@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 36,
+  "translation": "തലവൻ കെനാസ്, തലവൻ തേമാൻ, തലവൻ മിബ്സാർ.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "തലവൻ"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "കെനാസ്"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "തലവൻ"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "തേമാൻ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "തലവൻ"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "മിബ്സാർ"
+    }
+  ],
+  "timestamp": "2026-08-22T08:44:42.480263189Z",
+  "model": "glm-5.3"
+}

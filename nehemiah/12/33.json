@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 12:33",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 12,
+  "translation": "അസർയാഹ്‌വും, എസ്രായും, മെശുല്ലാമും —",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "അസർയാഹ്‌വും"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "എസ്രായും"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "മെശുല്ലാമും"
+    }
+  ],
+  "timestamp": "2026-08-22T17:44:38.059946530Z",
+  "model": "glm-5.3"
+}

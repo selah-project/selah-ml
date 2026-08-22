@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 11:27",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "ശമ്മോത്ത് ഹരോരി; ഹെലെത്സ് പെലോനി;",
+  "tokens": [
+    {
+      "surface": "שמות",
+      "gloss": "ശമ്മോത്ത്"
+    },
+    {
+      "surface": "ההרורי",
+      "gloss": "ഹരോരി"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "ഹെലെത്സ്"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "പെലോനി"
+    }
+  ],
+  "timestamp": "2026-08-22T17:52:15.578061073Z",
+  "model": "glm-5.3"
+}

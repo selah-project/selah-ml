@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 7:21",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ആതേർ ⟨വംശജർ⟩, ഹിസ്കിയാവിന്റെ ⟨വംശജർ⟩, തൊണ്ണൂറ്റിയെട്ടു ⟨പേർ⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "വംശജർ"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "ആതേർ"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "ഹിസ്കിയാവിന്റെ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "തൊണ്ണൂറ്"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "എട്ടു"
+    }
+  ],
+  "timestamp": "2026-08-22T17:41:51.623157319Z",
+  "model": "glm-5.3"
+}

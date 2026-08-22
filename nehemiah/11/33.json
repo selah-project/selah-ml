@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 11:33",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "ഖാത്സോർ, രാമാ, ഗിത്തയീം.",
+  "tokens": [
+    {
+      "surface": "חצור",
+      "gloss": "ഖാത്സോർ"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "രാമാ"
+    },
+    {
+      "surface": "גתים",
+      "gloss": "ഗിത്തയീം"
+    }
+  ],
+  "timestamp": "2026-08-22T17:45:07.413994830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 6:38",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "സാദോക് അവന്റെ മകൻ, അഹീമാസ് അവന്റെ മകൻ.",
+  "tokens": [
+    {
+      "surface": "צדוק",
+      "gloss": "സാദോക്"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "അവന്റെ മകൻ"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "അഹീമാസ്"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "അവന്റെ മകൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:50:43.513994880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "nehemiah 7:46",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "നെതീനികൾ: സീഹായുടെ മക്കൾ, ഖസൂഫായുടെ മക്കൾ, തബ്ബാഓതിന്റെ മക്കൾ.",
+  "tokens": [
+    {
+      "surface": "הנתינים",
+      "gloss": "നെതീനികൾ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "צחא",
+      "gloss": "സീഹായുടെ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "חשפא",
+      "gloss": "ഖസൂഫായുടെ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "തബ്ബാഓതിന്റെ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:42:17.252284047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 50,
+  "translation": "അവന്റെ പുത്രന്മാർ അവന് അങ്ങനെ ചെയ്തു, അവൻ കൽപ്പിച്ചതുപോലെ.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ചെയ്തു"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "അവന്"
+    },
+    {
+      "surface": "כן",
+      "gloss": "അങ്ങനെ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "പോലെ"
+    },
+    {
+      "surface": "צום",
+      "gloss": "അവൻ കൽപ്പിച്ചത്"
+    }
+  ],
+  "timestamp": "2026-08-22T09:01:49.450505137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 33:23",
+  "book": "ezekiel",
+  "lang": "ml",
+  "chapter": 33,
+  "translation": "യാഹ്‌വെയുടെ വചനം എനിക്കു വന്നു പറഞ്ഞതു:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ആയി"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "വചനം"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെയുടെ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "എനിക്കു"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറഞ്ഞതു"
+    }
+  ],
+  "timestamp": "2026-08-22T14:57:02.220518524Z",
+  "model": "glm-5.3"
+}

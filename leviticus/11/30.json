@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "അനാക്കായും കോഅഖും ലെതാആയും ഖോമെത്തും തിൻഷെമെത്തും.",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "അനാക്കാ"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "കോഅഖ്"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "ലെതാആ"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "ഖോമെത്"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "തിൻഷെമെത്"
+    }
+  ],
+  "timestamp": "2026-08-22T09:55:58.651515447Z",
+  "model": "glm-5.3"
+}

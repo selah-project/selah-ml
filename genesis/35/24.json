@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 35,
+  "translation": "റാഹേലിന്റെ മക്കൾ: യോസേഫ്, ബിന്യാമിൻ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "റാഹേലിന്റെ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "യോസേഫ്"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ബിന്യാമിൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T08:44:24.915289717Z",
+  "model": "glm-5.3"
+}

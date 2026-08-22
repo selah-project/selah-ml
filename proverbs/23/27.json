@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 23:27",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 23,
+  "translation": "കാരണം വ്യഭിചാരിണി ⟨is⟩ ആഴമുള്ള കുഴി; അന്യസ്ത്രീയാകട്ടെ ⟨is⟩ ഇടുങ്ങിയ കിണർ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "കാരണം"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "കുഴി"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "ആഴമുള്ള"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "വ്യഭിചാരിണി"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "കിണർ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ഇടുങ്ങിയ"
+    },
+    {
+      "surface": "ഠכריה",
+      "gloss": "അന്യസ്ത്രീ"
+    }
+  ],
+  "timestamp": "2026-08-22T16:37:37.121679004Z",
+  "model": "glm-5.3"
+}

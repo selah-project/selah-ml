@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 20:1",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 20,
+  "translation": "വീഞ്ഞ് ⟨is⟩ പരിഹാസം, ലഹരിപാനീയം ⟨is⟩ ബഹളം; അതിൽ വഴുതുന്ന ഏതൊരാളും ജ്ഞാനിയാവില്ല.",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "പരിഹാസം"
+    },
+    {
+      "surface": "היין",
+      "gloss": "വീഞ്ഞ്"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ബഹളിക്കുന്നു"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ലഹരിപാനീയം"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ഏതൊരാളും"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "വഴുതുന്ന"
+    },
+    {
+      "surface": "בו",
+      "gloss": "അതിൽ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "ജ്ഞാനിയാവും"
+    }
+  ],
+  "timestamp": "2026-08-22T16:36:27.162254298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 22,
+  "translation": "ആ നഗരത്തിലെ മുതിർന്നവർ ആ മനുഷ്യനെ ⟨את⟩ പിടിക്കും, അവനെ ⟨את⟩ ശിക്ഷിക്കും.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "പിടിക്കും"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "മുതിർന്നവർ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "നഗരത്തിലെ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ആ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ആ മനുഷ്യനെ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "മനുഷ്യനെ"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "ശിക്ഷിക്കും"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "അവനെ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:15:19.110324636Z",
+  "model": "glm-5.3"
+}

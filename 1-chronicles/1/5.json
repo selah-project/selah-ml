@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "യാഫെതിന്റെ മക്കൾ: ഗോമെർ, മാഗോഗ്, മാദായ്, യാവാൻ, തൂബാൽ, മെശെഖ്, തീരാസ്.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "യാഫെതിന്റെ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ഗോമെർ"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "മാഗോഗ്"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "മാദായ്"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "യാവാൻ"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "തൂബാൽ"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "മെശെഖ്"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "തീരാസ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:46:35.850504713Z",
+  "model": "glm-5.3"
+}

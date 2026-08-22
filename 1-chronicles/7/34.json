@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 7:34",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ശെമെരിന്റെ പുത്രന്മാർ: അഖി, റോഹഗാ, യെഖുബ്ബാ, അരാം.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ശെമെരിന്റെ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "അഖി"
+    },
+    {
+      "surface": "ורוהגה",
+      "gloss": "റോഹഗാ"
+    },
+    {
+      "surface": "יחבה",
+      "gloss": "യെഖുബ്ബാ"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "അരാം"
+    }
+  ],
+  "timestamp": "2026-08-22T17:50:35.139421368Z",
+  "model": "glm-5.3"
+}

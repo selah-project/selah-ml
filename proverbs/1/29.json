@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 1:29",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "കാരണം അവർ അറിവിനെ വെറുത്തു, യാഹ്‌വെയുടെ ഭയം തിരഞ്ഞെടുത്തില്ല.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "കാരണം"
+    },
+    {
+      "surface": "כי",
+      "gloss": "അതിനാൽ"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "വെറുത്തു"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "അറിവിനെ"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ഭയം"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെയുടെ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "തിരഞ്ഞെടുത്തു"
+    }
+  ],
+  "timestamp": "2026-08-22T16:27:31.239852237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 3:6",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "ഇബ്ഹാർ, എലീശാമാ, എലീഫലെത്.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "ഇബ്ഹാർ"
+    },
+    {
+      "surface": "ואלישמע",
+      "gloss": "എലീശാമാ"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "എലീഫലെത്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:48:32.113787661Z",
+  "model": "glm-5.3"
+}

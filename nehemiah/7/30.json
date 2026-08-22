@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 7:30",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "രാമാ, ഗബാ എന്നിവിടത്തുകാർ — ആറു നൂറ്റി ഇരുപത്തിയൊന്നു പേർ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "പേർ"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "രാമാ"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "ഗബാ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ആറു"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "നൂറ്റി"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ഇരുപത്തി"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ഒന്നു"
+    }
+  ],
+  "timestamp": "2026-08-22T17:41:59.998481573Z",
+  "model": "glm-5.3"
+}

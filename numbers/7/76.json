@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "numbers 7:76",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ആട്ടിൻകൊറ്റന്മാരിൽ ഒന്ന് പാപയാഗത്തിന്.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "രോമമുള്ള ആട്ടിൻകൊറ്റൻ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ആടുകളുടെ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ഒന്ന്"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "പാപയാഗത്തിന്"
+    }
+  ],
+  "timestamp": "2026-08-22T10:25:17.903038703Z",
+  "model": "glm-5.3"
+}

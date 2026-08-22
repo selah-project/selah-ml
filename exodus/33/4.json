@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 33,
+  "translation": "ജനം ⟨the⟩ വാർത്ത ⟨את⟩ — ഈ ദുഷ്ടവാർത്ത — കേട്ടു; അവർ ദുഃഖിച്ചു; ഒരാളും തന്റെ ആഭരണം സ്വയം ധരിച്ചില്ല.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "കേട്ടു"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ജനം"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "വാർത്ത"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "വാർത്ത"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ദുഷ്ട"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ഈ"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "ദുഃഖിച്ചു"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ധരിച്ച"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ഒരാളും"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "ആഭരണം"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "സ്വയം"
+    }
+  ],
+  "timestamp": "2026-08-22T09:37:38.911041233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 4:24",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 4,
+  "translation": "ശിമയോന്റെ മക്കൾ: നെമുവേൽ, യാമീൻ, യാരീബ്, സെരഖ്, ശായുൾ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ശിമയോന്റെ"
+    },
+    {
+      "surface": "נמואל",
+      "gloss": "നെമുവേൽ"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "യാമീൻ"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "യാരീബ്"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "സെരഖ്"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ശായുൾ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:49:23.141778331Z",
+  "model": "glm-5.3"
+}

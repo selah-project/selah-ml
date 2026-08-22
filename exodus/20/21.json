@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 20,
+  "translation": "ജനം ദൂരെ നിന്നു; മോശെ എലോഹീം അവിടെ ഉള്ള ⟨the⟩ ഘനഇരുട്ടിലേക്ക് അടുത്തു.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "നിന്നു"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ജനം"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "ദൂരെ"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "മോശെ"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "അടുത്തു"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ലേക്ക്"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "ഘനഇരുട്ട്"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ഉള്ള"
+    },
+    {
+      "surface": "שם",
+      "gloss": "അവിടെ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "എലോഹീം"
+    }
+  ],
+  "timestamp": "2026-08-22T09:19:31.173745771Z",
+  "model": "glm-5.3"
+}

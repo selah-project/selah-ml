@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "ml",
+  "chapter": 8,
+  "translation": "ശെലോമോ ഹമാത്ത്-സോവായിലേക്കു പോയി, അതിന്മേൽ ബലപ്പെട്ടു.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "പോയി"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ശെലോമോ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ഹമാത്ത്"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "സോവാ"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ബലപ്പെട്ടു"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "അതിന്മേൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T18:09:14.316177906Z",
+  "model": "glm-5.3"
+}

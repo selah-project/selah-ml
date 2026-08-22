@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 35:1",
+  "book": "ezekiel",
+  "lang": "ml",
+  "chapter": 35,
+  "translation": "യാഹ്‌വെയുടെ വാക്ക് എന്നിലേക്ക് വന്നു, പറയുന്നു:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "വന്നു"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "വാക്ക്"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "എന്നിലേക്ക്"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയുന്നു"
+    }
+  ],
+  "timestamp": "2026-08-22T15:01:43.353804766Z",
+  "model": "glm-5.3"
+}

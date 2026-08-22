@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 11:35",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "ലോദ്, വെ-ഓനോ, കൈയ് ഹഖരാഷീം ⟨ശില്പികളുടെ താഴ്വര⟩.",
+  "tokens": [
+    {
+      "surface": "לד",
+      "gloss": "ലോദ്"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "വെ-ഓനോ"
+    },
+    {
+      "surface": "גי",
+      "gloss": "കൈയ് ⟨താഴ്വര⟩"
+    },
+    {
+      "surface": "החרשים",
+      "gloss": "ഹഖരാഷീം ⟨ശില്പികളുടെ⟩"
+    }
+  ],
+  "timestamp": "2026-08-22T17:45:07.414303785Z",
+  "model": "glm-5.3"
+}

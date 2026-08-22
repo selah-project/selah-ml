@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 7:37",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ബെസെരും ഹോദും ഷമ്മായും ഷിൽഷായും യിത്രാനും ബെആരായും.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "ബെസെർ"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "ഹോദും"
+    },
+    {
+      "surface": "ושמא",
+      "gloss": "ഷമ്മായും"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ഷിൽഷായും"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "യിത്രാനും"
+    },
+    {
+      "surface": "ובארא",
+      "gloss": "ബെആരായും"
+    }
+  ],
+  "timestamp": "2026-08-22T17:50:53.817896602Z",
+  "model": "glm-5.3"
+}

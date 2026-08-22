@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 3:8",
+  "book": "amos",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "സിംഹം ഘർഷിച്ചു — ആർ പേടിക്കില്ല? അദോനായ് യാഹ്‌വെ അരുളിച്ചെയ്തു — ആർ പ്രവചിക്കില്ല?",
+  "tokens": [
+    {
+      "surface": "אריה",
+      "gloss": "സിംഹം"
+    },
+    {
+      "surface": "שאג",
+      "gloss": "ഘർഷിച്ചു"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ആർ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "പേടിക്കും"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "അദോനായ്"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "ഓബര്",
+      "gloss": "അരുളിച്ചെയ്തു",
+      "surface_note": ""
+    },
+    {
+      "surface": "מי",
+      "gloss": "ആർ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "പ്രവചിക്കും"
+    }
+  ],
+  "timestamp": "2026-08-22T15:17:13.079384001Z",
+  "model": "glm-5.3"
+}

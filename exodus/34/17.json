@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 34,
+  "translation": "ഉരുക്കി വാർത്ത ദൈവങ്ങളെ നിനക്കു ചെയ്യരുത്.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "ദൈവങ്ങളെ"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ഉരുക്കി വാർത്ത"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ചെയ്യരുത്"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ചെയ്യരുത്"
+    },
+    {
+      "surface": "לך",
+      "gloss": "നിനക്കു"
+    }
+  ],
+  "timestamp": "2026-08-22T09:34:59.385927841Z",
+  "model": "glm-5.3"
+}

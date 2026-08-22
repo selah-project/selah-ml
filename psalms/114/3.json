@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 114,
+  "translation": "സമുദ്രം കണ്ടു ഓടിപ്പോയി; യാർദെൻ പുറകോട്ടു തിരിഞ്ഞു.",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "സമുദ്രം"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "കണ്ടു"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "ഓടിപ്പോയി"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "യാർദെൻ"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "തിരിഞ്ഞു"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "പുറകോട്ടു"
+    }
+  ],
+  "timestamp": "2026-08-22T16:15:23.443765101Z",
+  "model": "glm-5.3"
+}

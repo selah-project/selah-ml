@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 41,
+  "translation": "സംഗീതനയകനു് വേണ്ടി; ദാവീദിന്റെ ഒരു മിസ്മോർ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "സംഗീതനയകനു് വേണ്ടി"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "മിസ്മോർ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ദാവീദിന്റെ"
+    }
+  ],
+  "timestamp": "2026-08-22T15:51:56.769856581Z",
+  "model": "glm-5.3"
+}

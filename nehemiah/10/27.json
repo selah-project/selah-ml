@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 10:27",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "അഹിയാ, ചാനാൻ, അനാൻ.",
+  "tokens": [
+    {
+      "surface": "ואחיה",
+      "gloss": "അഹിയാ"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ചാനാൻ"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "അനാൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:43:59.574729626Z",
+  "model": "glm-5.3"
+}

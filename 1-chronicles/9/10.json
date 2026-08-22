@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 9:10",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 9,
+  "translation": "പുരോഹിതന്മാരിൽ നിന്ന്: യദആയ്യാ, യെഹോയാരീവ്, യാഖീൻ.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "നിന്ന്"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "പുരോഹിതന്മാരിൽ"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "യദആയ്യാ"
+    },
+    {
+      "surface": "ויהויריב",
+      "gloss": "യെഹോയാരീവ്"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "യാഖീൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:52:31.375986745Z",
+  "model": "glm-5.3"
+}

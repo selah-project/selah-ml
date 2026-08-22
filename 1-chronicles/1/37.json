@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 1:37",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "രെഉവേലിന്റെ പുത്രന്മാർ: നാഖത്, സെരഖ്, ശമ്മാ, മിസ്സാ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "രെഉവേലിന്റെ"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "നാഖത്"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "സെരഖ്"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ശമ്മാ"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "മിസ്സാ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:46:26.857262446Z",
+  "model": "glm-5.3"
+}

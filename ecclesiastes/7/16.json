@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "അധികം നീതിമാൻ ആകരുത്; അതികം ജ്ഞാനിയാകരുതും — എന്തിനാണ് നീ തളരണത്?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ആകരുത്"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ആക"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "നീതിമാൻ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "അധികം"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ആകരുതും"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "ജ്ഞാനിയാക"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "അതികം"
+    },
+    {
+      "surface": "למה",
+      "gloss": "എന്തിനാണ്"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "തളരണത്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:14:05.948746111Z",
+  "model": "glm-5.3"
+}

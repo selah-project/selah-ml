@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 12,
+  "translation": "നിങ്ങളുടെ എലോഹീമായ യാഹ്‌വെക്കു അങ്ങനെ ചെയ്യരുതു.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "അരുത്"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ചെയ്യുക"
+    },
+    {
+      "surface": "כן",
+      "gloss": "അങ്ങനെ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "യാഹ്‌വെക്കു"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "നിങ്ങളുടെ എലോഹീം"
+    }
+  ],
+  "timestamp": "2026-08-22T11:08:35.101019787Z",
+  "model": "glm-5.3"
+}

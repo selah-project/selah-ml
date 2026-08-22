@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "മാഅസ്യാഹ്, ബില്ഗായ്, ശെമഅ്യാഹ് — ഇവർ പുരോഹിതന്മാർ.",
+  "tokens": [
+    {
+      "surface": "מעזיה",
+      "gloss": "മാഅസ്യാഹ്"
+    },
+    {
+      "surface": "בלגי",
+      "gloss": "ബില്ഗായ്"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "ശെമഅ്യാഹ്"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ഇവർ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "പുരോഹിതന്മാർ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:43:56.713988397Z",
+  "model": "glm-5.3"
+}

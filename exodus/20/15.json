@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 20:15",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 20,
+  "translation": "മോഷ്ടിക്കരുത്.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "അരുത്"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "മോഷ്ടിക്കരുത്"
+    }
+  ],
+  "timestamp": "2026-08-22T09:17:42.350330882Z",
+  "model": "glm-5.3"
+}

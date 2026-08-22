@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "കാരണം അദോനായ് എന്നേക്കും തള്ളിക്കളയില്ല.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "കാരണം"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "തള്ളിക്കളയില്ല"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "എന്നേക്കും"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "അദോനായ്"
+    }
+  ],
+  "timestamp": "2026-08-22T19:11:58.213033500Z",
+  "model": "glm-5.3"
+}

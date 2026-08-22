@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 109,
+  "translation": "അവർ അറിയട്ടെ — ഇത് നിന്റെ കൈ ആണ്; നീയത് ചെയ്തു, യാഹ്‌വെ.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "അവർ അറിയട്ടെ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "നിന്റെ കൈ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ഇത്"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "നീ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "ചെയ്തു"
+    }
+  ],
+  "timestamp": "2026-08-22T16:15:32.995384707Z",
+  "model": "glm-5.3"
+}

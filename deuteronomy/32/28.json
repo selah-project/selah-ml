@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 32,
+  "translation": "കാരണം ആലോചനയിൽ നഷ്ടപ്പെട്ട ഒരു ജനത ⟨ആണ്⟩ ⟨അവർ⟩, അവരിൽ ബുദ്ധിയില്ല.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "കാരണം"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ഒരു ജനത"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "നഷ്ടപ്പെട്ട"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "ആലോചനയിൽ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "അവർ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "അവരിൽ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "ബുദ്ധി"
+    }
+  ],
+  "timestamp": "2026-08-22T18:37:53.221162556Z",
+  "model": "glm-5.3"
+}

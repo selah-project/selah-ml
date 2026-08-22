@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 26:6",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 26,
+  "translation": "യിത്സാക് ഗെരാറിൽ പാർത്തു.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "പാർത്തു"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "യിത്സാക്"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "ഗെരാറിൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T08:34:02.349884881Z",
+  "model": "glm-5.3"
+}

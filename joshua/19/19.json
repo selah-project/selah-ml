@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 19:19",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 19,
+  "translation": "ഹഫരായിം, ശിയോൻ, അനാഹരാത്ത് എന്നിവയും.",
+  "tokens": [
+    {
+      "surface": "וחפרים",
+      "gloss": "ഹഫരായിം"
+    },
+    {
+      "surface": "ושיאן",
+      "gloss": "ശിയോൻ"
+    },
+    {
+      "surface": "ואנחרת",
+      "gloss": "അനാഹരാത്ത്"
+    }
+  ],
+  "timestamp": "2026-08-22T11:35:24.299713777Z",
+  "model": "glm-5.3"
+}

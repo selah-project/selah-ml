@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 12,
+  "translation": "ഏസെർ പ്രഥമൻ, ഒബദ്യാ രണ്ടാമൻ, ഏലിയാബ് മൂന്നാമൻ.",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "ഏസെർ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "പ്രഥമൻ"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "ഒബദ്യാ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "രണ്ടാമൻ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ഏലിയാബ്"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "മൂന്നാമൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:52:32.358290006Z",
+  "model": "glm-5.3"
+}

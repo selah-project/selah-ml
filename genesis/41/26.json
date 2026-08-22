@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 41:26",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 41,
+  "translation": "ഏഴു നല്ല പശുക്കൾ — അവ ഏഴു വർഷങ്ങൾ; ഏഴു നല്ല കതിരുകൾ — അവ ഏഴു വർഷങ്ങൾ; സ്വപ്നം ഒന്നുതന്നെ ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "ഏഴു"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "പശുക്കൾ"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "നല്ല"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ഏഴു"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "വർഷങ്ങൾ"
+    },
+    {
+      "surface": "ഹനה",
+      "gloss": "അവ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ഏഴു"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "കതിരുകൾ"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "നല്ല"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ഏഴു"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "വർഷങ്ങൾ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "അവ"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "സ്വപ്നം"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ഒന്നു"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "തന്നെ"
+    }
+  ],
+  "timestamp": "2026-08-22T08:48:49.533067058Z",
+  "model": "glm-5.3"
+}

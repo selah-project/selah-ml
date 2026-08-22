@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 24:17",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 24,
+  "translation": "ഇരുപത്തിഒന്നാമതു് യാഖീന്‌നു, ഇരുപത്തിരണ്ടാമതു് ഗാമൂലിന്‌.",
+  "tokens": [
+    {
+      "surface": "ליכין",
+      "gloss": "യാഖീന്‌ന്"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ഒന്നു്"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "വും ഇരുപതു്"
+    },
+    {
+      "surface": "לגמול",
+      "gloss": "ഗാമൂലിന്"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "രണ്ടു്"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "വും ഇരുപതു്"
+    }
+  ],
+  "timestamp": "2026-08-22T18:00:05.331410487Z",
+  "model": "glm-5.3"
+}

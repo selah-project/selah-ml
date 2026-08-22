@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 11:37",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "ഖെത്സ്രോ ⟨the⟩ കാർമ്ലി, നാഅരായ് അസ്ബായിയുടെ മകൻ.",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "ഖെത്സ്രോ"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "കാർമ്ലി"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "നാഅരായ്"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "אזבי",
+      "gloss": "അസ്ബായി"
+    }
+  ],
+  "timestamp": "2026-08-22T17:52:02.463323938Z",
+  "model": "glm-5.3"
+}

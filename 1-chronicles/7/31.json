@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 7:31",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ബെരിയായുടെ മക്കൾ: ഹെബെർ, മൽക്കിയേൽ — അവൻ ബിർസായിത്തിന്റെ പിതാവ്.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "ബെരിയായുടെ"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "ഹെബെർ"
+    },
+    {
+      "surface": "ומלכיאל",
+      "gloss": "മൽക്കിയേൽ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "അവൻ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "പിതാവ്"
+    },
+    {
+      "surface": "ברזות",
+      "gloss": "ബിർസായിത്തിന്റെ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:51:36.649237975Z",
+  "model": "glm-5.3"
+}

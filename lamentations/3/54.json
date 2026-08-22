@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "ജലം എന്റെ ശിരസ്സിനു മുകളിലൂടെ പൊങ്ങി; ഞാൻ പറഞ്ഞു — ഞാൻ ഛേദിക്കപ്പെട്ടു.",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "പൊങ്ങി"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ജലം"
+    },
+    {
+      "surface": "על",
+      "gloss": "മുകളിലൂടെ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "എന്റെ ശിരസ്സിനു"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ഞാൻ പറഞ്ഞു"
+    },
+    {
+      "surface": "נגזרתי",
+      "gloss": "ഞാൻ ഛേദിക്കപ്പെട്ടു"
+    }
+  ],
+  "timestamp": "2026-08-22T17:08:48.604943734Z",
+  "model": "glm-5.3"
+}

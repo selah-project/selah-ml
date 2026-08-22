@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "ഞാൻ വിളിച്ചു നിന്റെ നാമം, യാഹ്‌വെ, താഴ്ന്ന കിണറ്റിൽ നിന്നു.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "ഞാൻ വിളിച്ചു"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "നിന്റെ നാമം"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "കിണറ്റിൽ നിന്നു"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "താഴ്ന്ന"
+    }
+  ],
+  "timestamp": "2026-08-22T17:08:48.605055523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 14,
+  "translation": "ഒരു വിരോധാഭാസ-വസ്തുവും നീ തിന്നരുത്.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "അരുത്"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "തിന്നരുത്"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ഒരു ... വും"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "വിരോധാഭാസ-വസ്തു"
+    }
+  ],
+  "timestamp": "2026-08-22T11:06:46.102789080Z",
+  "model": "glm-5.3"
+}

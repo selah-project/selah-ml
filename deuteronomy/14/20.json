@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 14,
+  "translation": "ശുദ്ധമായ ഏത് പക്ഷിയെയും നിങ്ങൾ ഭക്ഷിക്കാം.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ഏത്...എങ്കിലും"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "പക്ഷിയെയും"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ശുദ്ധമായ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "നിങ്ങൾ ഭക്ഷിക്കാം"
+    }
+  ],
+  "timestamp": "2026-08-22T11:06:38.536571133Z",
+  "model": "glm-5.3"
+}

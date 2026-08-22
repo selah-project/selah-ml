@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 23,
+  "translation": "കാരണം ഒരു അന്ത്യം ⟨ഉണ്ട്⟩, നിന്റെ പ്രത്യാശ ഛേദിക്കപ്പെടില്ല.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "കാരണം"
+    },
+    {
+      "surface": "אם",
+      "gloss": "തീർച്ചയായും"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ഉണ്ട്"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "അന്ത്യം"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "നിന്റെ പ്രത്യാശ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "תכרത",
+      "gloss": "ഛേദിക്കപ്പെടും"
+    }
+  ],
+  "timestamp": "2026-08-22T16:38:37.350513051Z",
+  "model": "glm-5.3"
+}

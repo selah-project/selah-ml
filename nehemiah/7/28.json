@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 7:28",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ബേത്-അസ്മാവെത്തിലെ പുരുഷന്മാർ നാൽപത്തിരണ്ട്.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "പുരുഷന്മാർ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ബേത്"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "അസ്മാവെത്ത്"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "നാൽപത്"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "രണ്ട്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:42:01.605995133Z",
+  "model": "glm-5.3"
+}

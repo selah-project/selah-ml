@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "രെഉ് മുപ്പത്തിരണ്ട് വർഷം ജീവിച്ചു, ⟨את⟩ സെരുഗിനെ ജനിപ്പിച്ചു.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ജീവിച്ചു"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "രെഉ്"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "രണ്ട്"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "മുപ്പത്"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "വർഷം"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ജനിപ്പിച്ചു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "സെരുഗിനെ"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "സെരുഗ്"
+    }
+  ],
+  "timestamp": "2026-08-22T08:20:03.695805725Z",
+  "model": "glm-5.3"
+}

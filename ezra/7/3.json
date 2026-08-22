@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "അമര്യാവിന്റെ മകൻ, അസര്യാവിന്റെ മകൻ, മരായോത്തിന്റെ മകൻ,",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "അമര്യാവ്"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "അസര്യാവ്"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "മരായോത്ത്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:34:01.410373957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 10:4",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "യാവാന്റെ പുത്രന്മാർ: എലീഷാ, തർശീശ്, കിത്തീയർ, ദോദാനീയർ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "יון",
+      "gloss": "യാവാന്റെ"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "എലീഷാ"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "തർശീശ്"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "കിത്തീയർ"
+    },
+    {
+      "surface": "ודדנים",
+      "gloss": "ദോദാനീയർ"
+    }
+  ],
+  "timestamp": "2026-08-22T08:17:58.035823186Z",
+  "model": "glm-5.3"
+}

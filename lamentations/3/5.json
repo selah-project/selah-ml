@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "എനിക്കെതിരെ അവൻ പണിഞ്ഞു, വിഷവും കഷ്ടതയും കൊണ്ട് എന്നെ ചുറ്റി.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "പണിഞ്ഞു"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "എനിക്കെതിരെ"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "ചുറ്റി"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "വിഷം"
+    },
+    {
+      "surface": "ותלאה",
+      "gloss": "കഷ്ടത"
+    }
+  ],
+  "timestamp": "2026-08-22T17:08:40.888897462Z",
+  "model": "glm-5.3"
+}

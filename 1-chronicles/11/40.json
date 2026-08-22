@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 11:40",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "ഇരാ ⟨the⟩ യിത്രി, ഗാരെബ് ⟨the⟩ യിത്രി.",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ഇരാ"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "യിത്രി"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "ഗാരെബ്"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "യിത്രി"
+    }
+  ],
+  "timestamp": "2026-08-22T17:52:02.463999380Z",
+  "model": "glm-5.3"
+}

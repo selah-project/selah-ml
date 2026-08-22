@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 120,
+  "translation": "ഞാൻ ⟨is⟩ സമാധാനം; ഞാൻ സംസാരിക്കുമ്പോൾ അവർ യുദ്ധത്തിനു ⟨are⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ഞാൻ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "സമാധാനം"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "എപ്പോൾ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ഞാൻ സംസാരിക്കുമ്പോൾ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "അവർ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "യുദ്ധത്തിനു"
+    }
+  ],
+  "timestamp": "2026-08-22T16:20:32.544945871Z",
+  "model": "glm-5.3"
+}

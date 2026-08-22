@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "ഞാൻ കൊഹെലെത്ത് യിസ്രായേലിന് മേൽ യെരൂശാലയിമിൽ രാജാവായിരുന്നു.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ഞാൻ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "കൊഹെലെത്ത്"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ആയിരുന്നു"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "രാജാവ്"
+    },
+    {
+      "surface": "על",
+      "gloss": "മേൽ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "യിസ്രായേലിന്"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "യെരൂശാലയിമിൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:11:44.315189065Z",
+  "model": "glm-5.3"
+}

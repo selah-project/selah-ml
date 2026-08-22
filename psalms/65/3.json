@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 65,
+  "translation": "പ്രാർത്ഥന കേൾക്കുന്നവൻ, നിന്നിലേക്കു സകല ജഡവും വരും.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "കേൾക്കുന്നവൻ"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "പ്രാർത്ഥന"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "നിന്നിലേക്കു"
+    },
+    {
+      "surface": "כל",
+      "gloss": "സകല"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ജഡവും"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "വരും"
+    }
+  ],
+  "timestamp": "2026-08-22T15:58:37.120698551Z",
+  "model": "glm-5.3"
+}

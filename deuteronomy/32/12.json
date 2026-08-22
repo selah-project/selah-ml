@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 32,
+  "translation": "യാഹ്‌വെ തനിച്ചാണ് അവനെ നടത്തിയത്, അവനോടൊപ്പം അന്യദൈവം ഉണ്ടായിരുന്നില്ല.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "തനിച്ച്"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "അവനെ നടത്തിയത്"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "അവനോടൊപ്പം"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ദൈവം"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "അന്യ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:20:27.222546368Z",
+  "model": "glm-5.3"
+}

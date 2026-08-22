@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 26,
+  "translation": "അശേരിന്റെ മകളുടെ പേര് സെരാഹ്.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "…ന്റെ പേര്"
+    },
+    {
+      "surface": "בת",
+      "gloss": "മകൾ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "അശേർ"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "സെരാഹ്"
+    }
+  ],
+  "timestamp": "2026-08-22T10:44:38.750945064Z",
+  "model": "glm-5.3"
+}

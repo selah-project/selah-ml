@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "അതിന് യാതൊരു പടത്തലവനോ മേൽനോട്ടക്കാരനോ ഭരണാധികാരിയോ ഇല്ല.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "യാതൊ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "לה",
+      "gloss": "അതിന്"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "പടത്തലവൻ"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "മേൽനോട്ടക്കാരൻ"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ഭരണാധികാരി"
+    }
+  ],
+  "timestamp": "2026-08-22T16:30:34.021387048Z",
+  "model": "glm-5.3"
+}

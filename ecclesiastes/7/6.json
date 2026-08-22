@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "കാരണം ചട്ടിക്കടിയിലെ മുള്ളുകളുടെ ചടപടപ്പിനെപ്പോലെ ഭോഷന്റെ ചിരിയാണ് — ഇതും ⟨ആവിയാണ്⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "കാരണം"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "ശബ്ദത്തെപ്പോലെ"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "മുള്ളുകളുടെ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "കീഴിൽ"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ചട്ടിയുടെ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "അങ്ങനെ"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "ചിരി"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "ഭോഷന്റെ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "അതുപോലെ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ഇത്"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ആവി"
+    }
+  ],
+  "timestamp": "2026-08-22T17:13:31.805270184Z",
+  "model": "glm-5.3"
+}

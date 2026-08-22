@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "കോഹേന്റെ എല്ലാ മിൻഖയും പൂർണ്ണമായിരിക്കും — തിന്നപ്പെടുകയില്ല.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "എല്ലാ"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "മിൻഖ"
+    },
+    {
+      "surface": "ഛהן",
+      "gloss": "കോഹേൻ"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "പൂർണ്ണമായി"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ആയിരിക്കും"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "അതു തിന്നപ്പെടും"
+    }
+  ],
+  "timestamp": "2026-08-22T09:49:44.307669733Z",
+  "model": "glm-5.3"
+}

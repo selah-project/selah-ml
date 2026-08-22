@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 32:48",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 32,
+  "translation": "അതേ ദിവസം തന്നേ യാഹ്‌വെ മോശെയോടു അരുളിച്ചെയ്തതു:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "അരുളിച്ചെയ്തതു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "മോശെയോടു"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെയോടു"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "തന്നേ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ദിവസം"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "അതേ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "എന്നു"
+    }
+  ],
+  "timestamp": "2026-08-22T11:21:58.132499590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "ml",
+  "chapter": 18,
+  "translation": "രാജാവ് പറഞ്ഞു: മാറിനിന്ന് ഇവിടെ നിൽക്കുക. അവൻ മാറി നിന്നു.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "പറഞ്ഞു"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "രാജാവ്"
+    },
+    {
+      "surface": "סב",
+      "gloss": "മാറിനിന്ന്"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "നിൽക്കുക"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ഇവിടെ"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "മാറി"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "നിന്നു"
+    }
+  ],
+  "timestamp": "2026-08-22T12:36:07.276061511Z",
+  "model": "glm-5.3"
+}

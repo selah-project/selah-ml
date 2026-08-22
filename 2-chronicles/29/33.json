@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 29:33",
+  "book": "2-chronicles",
+  "lang": "ml",
+  "chapter": 29,
+  "translation": "വിശുദ്ധീകരിച്ചവ ആകട്ടെ — കാളകൾ അറുനൂറ്, ആട്ടിൻകൂട്ടം മൂവായിരം.",
+  "tokens": [
+    {
+      "surface": "והקדשים",
+      "gloss": "വിശുദ്ധീകരിച്ചവ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "കാളകൾ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ആറ്"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "നൂറ്"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ആട്ടിൻകൂട്ടം"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "മൂന്ന്"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ആയിരം"
+    }
+  ],
+  "timestamp": "2026-08-22T18:21:36.014149965Z",
+  "model": "glm-5.3"
+}

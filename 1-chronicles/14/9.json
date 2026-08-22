@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 14:9",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 14,
+  "translation": "പലിഷ്ടികൾ വന്നു, റെഫായിം താഴ്വരയിൽ പടർന്നു.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "പലിഷ്ടികൾ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "വന്നു"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "പടർന്നു"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "താഴ്വരയിൽ"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "റെഫായിം"
+    }
+  ],
+  "timestamp": "2026-08-22T17:55:36.276797441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "ഗാദിന്നു വേണ്ടി — എല്യാസാഫ്, ദെഉവേലിന്റെ മകൻ.",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "ഗാദിന്നു വേണ്ടി"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "എല്യാസാഫ്"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "ദെഉവേൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T10:15:26.675450690Z",
+  "model": "glm-5.3"
+}

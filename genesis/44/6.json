@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 44,
+  "translation": "അവൻ അവരെ പിന്തലച്ചു, അവരോട് ⟨את⟩ ഈ വാക്കുകൾ പറഞ്ഞു.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "അവൻ അവരെ പിന്തലച്ചു"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "സംസാരിച്ചു"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "അവരോട്"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ഈ വാക്കുകളെ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "വാക്കുകൾ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ഈ"
+    }
+  ],
+  "timestamp": "2026-08-22T08:54:15.088269147Z",
+  "model": "glm-5.3"
+}

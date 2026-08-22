@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 1:39",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "ലോതാന്റെ പുത്രന്മാർ: ഹോരി, ഹോമാം; ലോതാന്റെ സഹോദരി ⟨ആയിരുന്നു⟩ തിംനാ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "ലോതാന്റെ"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "ഹോരി"
+    },
+    {
+      "surface": "והומם",
+      "gloss": "ഹോമാം"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "സഹോദരി"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "ലോതാന്റെ"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "തിംനാ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:46:26.857720683Z",
+  "model": "glm-5.3"
+}

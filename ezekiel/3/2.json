@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "ഞാൻ എന്റെ വായ ⟨את⟩ തുറന്നു, അവൻ എന്നെ ഈ ചുരുൾ ⟨את⟩ തിന്നിച്ചു.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "ഞാൻ തുറന്നു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "എന്റെ വായ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "എന്റെ വായ"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "അവൻ എന്നെ തിന്നിച്ചു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ഈ ചുരുൾ"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "ചുരുൾ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ഈ"
+    }
+  ],
+  "timestamp": "2026-08-22T18:59:04.895199004Z",
+  "model": "glm-5.3"
+}

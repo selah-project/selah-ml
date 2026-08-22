@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 12:11",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 12,
+  "translation": "യാർമൂത്തിന്റെ രാജാവ് ഒരാൾ; ലാഖീശിന്റെ രാജാവ് ഒരാൾ.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "രാജാവ്"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "യാർമൂത്തിന്റെ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ഒരാൾ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "രാജാവ്"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "ലാഖീശിന്റെ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ഒരാൾ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:31:06.718404599Z",
+  "model": "glm-5.3"
+}

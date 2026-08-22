@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "ml",
+  "chapter": 9,
+  "translation": "ഷെബാ രാജ്ഞി ⟨את⟩ ഷെലോമോയുടെ ജ്ഞാനവും അവൻ പണിത ഭവനവും കണ്ടു,",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "കണ്ടു"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "രാജ്ഞി"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ഷെബാ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ജ്ഞാനവും"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ജ്ഞാനം"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ഷെലോമോയുടെ"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "ഭവനവും"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ആയ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "പണിത"
+    }
+  ],
+  "timestamp": "2026-08-22T18:11:41.545810966Z",
+  "model": "glm-5.3"
+}

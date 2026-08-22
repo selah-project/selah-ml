@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 26:8",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 26,
+  "translation": "പല്ലൂവിന്റെ പുത്രന്മാർ: എലിയാബ്.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "פלוא",
+      "gloss": "പല്ലൂവിന്റെ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "എലിയാബ്"
+    }
+  ],
+  "timestamp": "2026-08-22T10:40:53.477795184Z",
+  "model": "glm-5.3"
+}

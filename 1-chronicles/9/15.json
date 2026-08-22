@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 9,
+  "translation": "ബക്ബക്കറും, ഖെരെശും, ഗലാലും, മിഖായുടെ മകനായ മത്തന്യ്യാഹും — സിക്രിയുടെ മകൻ, അസാഫിന്റെ മകൻ.",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "ബക്ബക്കറും"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ഖെരെശ്"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "ഗലാലും"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "മത്തന്യ്യാഹും"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "മിഖാ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "സിക്രി"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "അസാഫ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:52:50.072043761Z",
+  "model": "glm-5.3"
+}

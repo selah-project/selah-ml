@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ഏഴു ദിവസങ്ങൾക്കു ശേഷം ആയി, പ്രളയത്തിന്റെ വെള്ളം ഭൂമിയുടെ മേൽ ആയി.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ആയി"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "ഏഴിനു ശേഷം"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ദിവസങ്ങൾ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "വെള്ളും"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "പ്രളയത്തിന്റെ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ആയി"
+    },
+    {
+      "surface": "על",
+      "gloss": "മേൽ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ഭൂമിയുടെ"
+    }
+  ],
+  "timestamp": "2026-08-22T08:16:35.485738327Z",
+  "model": "glm-5.3"
+}

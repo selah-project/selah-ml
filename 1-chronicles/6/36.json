@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 6:36",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "ബുക്കീ അവന്റെ പുത്രൻ, ഉസ്സീ അവന്റെ പുത്രൻ, സെരഖ്യാ അവന്റെ പുത്രൻ.",
+  "tokens": [
+    {
+      "surface": "בקי",
+      "gloss": "ബുക്കീ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "അവന്റെ പുത്രൻ"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ഉസ്സീ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "അവന്റെ പുത്രൻ"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "സെരഖ്യാ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "അവന്റെ പുത്രൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:51:25.405992059Z",
+  "model": "glm-5.3"
+}

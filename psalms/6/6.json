@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "കാരണ് മരണത്തിൽ നിന്റെ സ്മരണ ഇല്ല; ശെഓലിൽ ആർ നിനക്ക് സ്തുതി പാടും?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "കാരണ്"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "במות",
+      "gloss": "മരണത്തിൽ"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "നിന്റെ സ്മരണ"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "ശെഓലിൽ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ആർ"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "സ്തുതി പാടും"
+    },
+    {
+      "surface": "לך",
+      "gloss": "നിനക്ക്"
+    }
+  ],
+  "timestamp": "2026-08-22T15:39:24.766602831Z",
+  "model": "glm-5.3"
+}

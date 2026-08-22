@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 55,
+  "translation": "നോക്കുക, ഞാൻ ദൂരെ അലഞ്ഞുപോകും, മരുഭൂമിയിൽ തങ്ങും. സെലാ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "നോക്കുക"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "ദൂരെ"
+    },
+    {
+      "surface": "נדod",
+      "gloss": "അലഞ്ഞുപോകും"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "തങ്ങും"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "മരുഭൂമിയിൽ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "സെലാ"
+    }
+  ],
+  "timestamp": "2026-08-22T15:55:23.488522037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "ബോഅസ് ⟨את⟩ ഓവേദിനെ ജനിപ്പിച്ചു; ഓവേദ് ⟨את⟩ യിഷായിനെ ജനിപ്പിച്ചു.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "ബോഅസ്"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ജനിപ്പിച്ചു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ഓവേദ്"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ഓവേദിനെ"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "ഓവേദ്"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ജനിപ്പിച്ചു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "യിഷായ്"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "യിഷായിനെ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:47:10.235928806Z",
+  "model": "glm-5.3"
+}

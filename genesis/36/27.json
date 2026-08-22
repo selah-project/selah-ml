@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 36,
+  "translation": "ഇവർ എത്സറിന്റെ മക്കൾ: ബില്ഹാൻ, സഅവാൻ, അകാൻ.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ഇവർ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "എത്സറിന്റെ"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "ബില്ഹാൻ"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "സഅവാൻ"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "അകാൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T08:44:26.192839522Z",
+  "model": "glm-5.3"
+}

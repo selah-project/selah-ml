@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "joshua 15:48",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 15,
+  "translation": "മലനാട്ടിലും: ഷാമീർ, യത്തീർ, സോഖോ.",
+  "tokens": [
+    {
+      "surface": "ובהר",
+      "gloss": "മലനാട്ടിലും"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "ഷാമീർ"
+    },
+    {
+      "surface": "ויתיר",
+      "gloss": "യത്തീർ"
+    },
+    {
+      "surface": "ושוכה",
+      "gloss": "സോഖോ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:33:50.476146944Z",
+  "model": "glm-5.3"
+}

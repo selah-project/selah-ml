@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 7:40",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ആട്ടിൻകൊറ്റന്മാരിൽ ഒന്ന് പാപയാഗത്തിന്",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ആട്ടിൻകൊറ്റൻ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ആട്ടിൻകൊറ്റന്മാരിൽ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ഒന്ന്"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "പാപയാഗത്തിന്"
+    }
+  ],
+  "timestamp": "2026-08-22T18:34:25.355839657Z",
+  "model": "glm-5.3"
+}

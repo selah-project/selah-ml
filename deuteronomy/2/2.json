@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 2:2",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "യാഹ്‌വെ എന്നോട് അരുളിച്ചെയ്തു:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "അരുളിച്ചെയ്തു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "എന്നോട്"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയുന്നത്"
+    }
+  ],
+  "timestamp": "2026-08-22T10:55:35.519758112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 27:13",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 27,
+  "translation": "ഇവർ ശാപത്തിന് ഏവാൽ പർവ്വതത്തിൽ നിൽക്കും: രെഉവേൻ, ഗാദ്, അശേർ, സെബുലൂൻ, ദാൻ, നഫ്താലി.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ഇവർ"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "നിൽക്കും"
+    },
+    {
+      "surface": "על",
+      "gloss": "ത്തിന്"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "ശാപ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "പർവ്വതത്തിൽ"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "ഏവാൽ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "രെഉവേൻ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ഗാദ്"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "അശേർ"
+    },
+    {
+      "surface": "וזבולן",
+      "gloss": "സെബുലൂൺ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ദാൻ"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "നഫ്താലി"
+    }
+  ],
+  "timestamp": "2026-08-22T11:16:39.032473301Z",
+  "model": "glm-5.3"
+}

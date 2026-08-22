@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 33:10",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 33,
+  "translation": "അവർ എലീമിൽ നിന്നു പുറപ്പെട്ടു, കടൽ-കരയിൽ പാളയമിറക്കി.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "അവർ പുറപ്പെട്ടു"
+    },
+    {
+      "surface": "מאילם",
+      "gloss": "എലീമിൽ നിന്നു"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "പാളയമിറക്കി"
+    },
+    {
+      "surface": "על",
+      "gloss": "കരയിൽ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "കടൽ"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "കടൽ-"
+    }
+  ],
+  "timestamp": "2026-08-22T10:51:15.375416362Z",
+  "model": "glm-5.3"
+}

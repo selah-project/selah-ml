@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 48:3",
+  "book": "jeremiah",
+  "lang": "ml",
+  "chapter": 48,
+  "translation": "ഹൊരോനയിമിൽ നിന്നു നിലവിളിയുടെ ശബ്ദം — വൻ നാശവും തകർച്ചയും.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ശബ്ദം"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "നിലവിളിയുടെ"
+    },
+    {
+      "surface": "מחרונים",
+      "gloss": "ഹൊരോനയിമിൽ നിന്നു"
+    },
+    {
+      "surface": "שד",
+      "gloss": "നാശവും"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "തകർച്ചയും"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "വൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T14:29:43.023429680Z",
+  "model": "glm-5.3"
+}

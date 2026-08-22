@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 7:25",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ഗിബ്വോന്റെ പുത്രന്മാർ തൊണ്ണൂറ്ടഞ്ച്.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "ഗിബ്വോൻ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "തൊണ്ണൂറ്"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "അഞ്ച്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:42:01.605356914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 13:8",
+  "book": "jeremiah",
+  "lang": "ml",
+  "chapter": 13,
+  "translation": "യാഹ്‌വെയുടെ വചനം എനിക്കു വന്നു, അരുളിച്ചെയ്യുന്നതു:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ആയി"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "വചനം"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെയുടെ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "എനിക്കു"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "അരുളിച്ചെയ്യുന്നതു"
+    }
+  ],
+  "timestamp": "2026-08-22T14:06:49.201273709Z",
+  "model": "glm-5.3"
+}

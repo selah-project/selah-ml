@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 5:20",
+  "book": "leviticus",
+  "lang": "ml",
+  "chapter": 5,
+  "translation": "യാഹ്‌വെ മോശെയോട് അരുളിച്ചെയ്തു, പറയുന്നതു ഇതാകുന്നു:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "അരുളിച്ചെയ്തു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "അടുത്തേക്ക്"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെയോട്"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയുന്നതു ഇതാകുന്നു"
+    }
+  ],
+  "timestamp": "2026-08-22T09:48:56.316846339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 34:22",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 34,
+  "translation": "ദാന്റെ മക്കളുടെ ഗോത്രത്തിന് — പ്രമാണി: യോഗ്ലിയുടെ മകൻ ബുക്കി.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "വ ഗോത്രത്തിന്"
+    },
+    {
+      "surface": "בני",
+      "gloss": "മക്കളുടെ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ദാൻ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "പ്രമാണി"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "ബുക്കി"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "יגלי",
+      "gloss": "യോഗ്ലി"
+    }
+  ],
+  "timestamp": "2026-08-22T10:51:48.583978248Z",
+  "model": "glm-5.3"
+}

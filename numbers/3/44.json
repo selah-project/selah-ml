@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 3:44",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "യാഹ്‌വെ മോശെയോട് അരുളിസംസാരിച്ചു, പറയുന്നതു:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "സംസാരിച്ചു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "നോട്"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെ"
+    },
+    {
+      "surface": "ലേemר",
+      "gloss": "പറയുന്നതു",
+      "surface_ascii": "לאמר"
+    }
+  ],
+  "timestamp": "2026-08-22T18:34:57.139141317Z",
+  "model": "glm-5.3"
+}

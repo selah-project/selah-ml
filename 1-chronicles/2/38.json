@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "ഒവേദ് ⟨את⟩ യെഹൂവിനെ ജനിപ്പിച്ചു, യെഹൂ ⟨את⟩ അസര്യായെ ജനിപ്പിച്ചു.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "ഒവേദ്"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ജനിപ്പിച്ചു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "യെഹൂവിനെ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "യെഹൂ"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "യെഹൂ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ജനിപ്പിച്ചു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "അസര്യായെ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "അസര്യാ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:46:45.793004122Z",
+  "model": "glm-5.3"
+}

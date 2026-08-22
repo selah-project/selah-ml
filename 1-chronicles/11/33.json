@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 11:33",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "അസ്മാവെത് ബഖരുമി, എല്യഖബാ ശഅൽബോനി,",
+  "tokens": [
+    {
+      "surface": "עזמות",
+      "gloss": "അസ്മാവെത്"
+    },
+    {
+      "surface": "הבחרומי",
+      "gloss": "ബഖരുമി"
+    },
+    {
+      "surface": "אליחבא",
+      "gloss": "എല്യഖബാ"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "ശഅൽബോനി"
+    }
+  ],
+  "timestamp": "2026-08-22T17:52:20.353373154Z",
+  "model": "glm-5.3"
+}

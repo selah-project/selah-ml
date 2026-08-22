@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "ഹോറേബിൽ നിന്നു സെയിർ മലയുടെ വഴിയായി കാദേശ്-ബർനേഅ വരെ പതിനൊന്നു ദിവസത്തെ യാത്ര.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "ഒന്നു"
+    },
+    {
+      "surface": "ഢשר",
+      "gloss": "പത്തു"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ദിവസത്തെ"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ഹോറേബിൽ നിന്നു"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "വഴിയായി"
+    },
+    {
+      "surface": "הר",
+      "gloss": "മലയുടെ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "സെയിർ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "വരെ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "കാദേശ്-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "ബർനേഅ"
+    }
+  ],
+  "timestamp": "2026-08-22T10:56:51.865071570Z",
+  "model": "glm-5.3"
+}

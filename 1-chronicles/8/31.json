@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 8:31",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 8,
+  "translation": "ഗെദോർ, അഹ്യോ, സാഖെർ.",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "ഗെദോർ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "അഹ്യോ"
+    },
+    {
+      "surface": "וזכר",
+      "gloss": "സാഖെർ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:51:29.328419228Z",
+  "model": "glm-5.3"
+}

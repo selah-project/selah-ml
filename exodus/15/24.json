@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 15,
+  "translation": "ജനം മോശെയോട് പരിഭവം പറഞ്ഞു: നമ്മൾ എന്തു കുടിക്കും?",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "പരിഭവം പറഞ്ഞു"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ജനം"
+    },
+    {
+      "surface": "על",
+      "gloss": "നേരെ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെയോട്"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറഞ്ഞു"
+    },
+    {
+      "surface": "מה",
+      "gloss": "എന്തു"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "കുടിക്കും"
+    }
+  ],
+  "timestamp": "2026-08-22T09:13:28.885733730Z",
+  "model": "glm-5.3"
+}

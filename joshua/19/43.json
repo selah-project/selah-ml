@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 19:43",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 19,
+  "translation": "എലോൺ, തിംനതാ, എക്രോൺ എന്നിവയും,",
+  "tokens": [
+    {
+      "surface": "ואילון",
+      "gloss": "എലോൺ"
+    },
+    {
+      "surface": "ותמנתה",
+      "gloss": "തിംനതാ"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "എക്രോൺ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:35:01.897903685Z",
+  "model": "glm-5.3"
+}

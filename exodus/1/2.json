@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "രെയുബേൻ, ശിമയോൻ, ലെവി, യെഹൂദാഹ്.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "രെയുബേൻ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ശിമയോൻ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ലെവി"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "യെഹൂദാഹ്"
+    }
+  ],
+  "timestamp": "2026-08-22T09:01:31.698213136Z",
+  "model": "glm-5.3"
+}

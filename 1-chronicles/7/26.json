@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 7:26",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ലആദാൻ അവന്റെ മകൻ, അമ്മീഹൂദ് അവന്റെ മകൻ, എലീശാമാ അവന്റെ മകൻ.",
+  "tokens": [
+    {
+      "surface": "לעדן",
+      "gloss": "ലആദാൻ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "അവന്റെ മകൻ"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "അമ്മീഹൂദ്"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "അവന്റെ മകൻ"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "എലീശാമാ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "അവന്റെ മകൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:50:59.127546973Z",
+  "model": "glm-5.3"
+}

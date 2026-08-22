@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 11:38",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "യോഏൽ നാതാന്റെ സഹോദരൻ, മിബ്ഖാർ ഹാഗ്രിയുടെ മകൻ.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "യോഏൽ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "സഹോദരൻ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "നാതാൻ"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "മിബ്ഖാർ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "הגרי",
+      "gloss": "ഹാഗ്രി"
+    }
+  ],
+  "timestamp": "2026-08-22T17:52:02.463600449Z",
+  "model": "glm-5.3"
+}

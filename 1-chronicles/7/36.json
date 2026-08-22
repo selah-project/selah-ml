@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 7:36",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "സോപാഖിന്റെ പുത്രന്മാർ: സുവാഖ്, ഹർനെഫെർ, ശുവാൽ, ബെരി, യിംരാ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "സോപാഖിന്റെ"
+    },
+    {
+      "surface": "סוח",
+      "gloss": "സുവാഖ്"
+    },
+    {
+      "surface": "וחרנפר",
+      "gloss": "ഹർനെഫെർ"
+    },
+    {
+      "surface": "ושועל",
+      "gloss": "ശുവാൽ"
+    },
+    {
+      "surface": "וברי",
+      "gloss": "ബെരി"
+    },
+    {
+      "surface": "וימרה",
+      "gloss": "യിംരാ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:50:35.139705454Z",
+  "model": "glm-5.3"
+}

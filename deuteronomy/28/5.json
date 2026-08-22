@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 28,
+  "translation": "അനുഗൃഹീതമാകട്ടെ നിന്റെ കൊട്ടയും നിന്റെ മാവുകലപ്പയും.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "അനുഗൃഹീതമാകട്ടെ"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "നിന്റെ കൊട്ട"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "നിന്റെ മാവുകലപ്പ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:17:36.060308133Z",
+  "model": "glm-5.3"
+}

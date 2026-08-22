@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "ml",
+  "chapter": 4,
+  "translation": "ഈ എല്ലാം നെബൂഖദ്നെസ്സർ രാജാവിന്റെ മേൽ എത്തി.",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "ഈ എല്ലാം"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "എത്തി"
+    },
+    {
+      "surface": "על",
+      "gloss": "മേൽ"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "നെബൂഖദ്നെസ്സറിന്റെ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "രാജാവ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:24:19.240996562Z",
+  "model": "glm-5.3"
+}

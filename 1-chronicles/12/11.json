@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 12:11",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 12,
+  "translation": "മിഷ്മന്നാ നാലാമൻ, യിർമെയാ അഞ്ചാമൻ.",
+  "tokens": [
+    {
+      "surface": "משמנה",
+      "gloss": "മിഷ്മന്നാ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "നാലാമൻ"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "യിർമെയാ"
+    },
+    {
+      "surface": "החמשי",
+      "gloss": "അഞ്ചാമൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:52:32.358427285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 23,
+  "translation": "അവ്രാഹാം നാട്ടുജനതയുടെ മുമ്പിൽ തല കുനിച്ചു നമിച്ചു.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "തല കുനിച്ചു നമിച്ചു"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "അവ്രാഹാം"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "മുമ്പിൽ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ജനത"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "നാട്ടു"
+    }
+  ],
+  "timestamp": "2026-08-22T08:27:41.589541034Z",
+  "model": "glm-5.3"
+}

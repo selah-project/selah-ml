@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "യിതൂർ, നാഫീശ്, കെദെമാ. ഇവർ യിശ്മാഅേലിന്റെ പുത്രന്മാർ.",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "യിതൂർ"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "നാഫീശ്"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "കെദെമാ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ഇവർ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "അവർ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "യിശ്മാഅേലിന്റെ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:46:26.943420433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 2:18",
+  "book": "isaiah",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "വിഗ്രഹങ്ങൾ പൂർണ്ണമായി അപ്രത്യക്ഷമാകും.",
+  "tokens": [
+    {
+      "surface": "והאלילים",
+      "gloss": "വിഗ്രഹങ്ങൾ"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "പൂർണ്ണമായി"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "അപ്രത്യക്ഷമാകും"
+    }
+  ],
+  "timestamp": "2026-08-22T13:19:19.346068057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ഞാൻ എന്റെ പ്രിയന്റേതാണ്; എന്റെ മേൽ അവന്റെ ആസക്തി.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ഞാൻ"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "എന്റെ പ്രിയന്റേത്"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "എന്റെ മേൽ"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "അവന്റെ ആസക്തി"
+    }
+  ],
+  "timestamp": "2026-08-22T17:04:50.913798338Z",
+  "model": "glm-5.3"
+}

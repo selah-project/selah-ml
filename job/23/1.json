@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 23:1",
+  "book": "job",
+  "lang": "ml",
+  "chapter": 23,
+  "translation": "അപ്പോൾ ഇയ്യോവ് ഉത്തരം പറഞ്ഞു:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ഉത്തരം പറഞ്ഞു"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ഇയ്യോവ്"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "അരുളിച്ചെയ്തു"
+    }
+  ],
+  "timestamp": "2026-08-22T19:11:44.049124300Z",
+  "model": "glm-5.3"
+}

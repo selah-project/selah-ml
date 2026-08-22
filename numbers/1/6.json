@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 1:6",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "ശിമിയോന് — ത്സൂരിശദ്ദായിന്റെ മകൻ ശെലൂമിയേൽ.",
+  "tokens": [
+    {
+      "surface": "לשמעון",
+      "gloss": "ശിമിയോന്"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "ശെലൂമിയേൽ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "ത്സൂരിശദ്ദായ്"
+    }
+  ],
+  "timestamp": "2026-08-22T10:13:55.538315299Z",
+  "model": "glm-5.3"
+}

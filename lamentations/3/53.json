@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "കിണറ്റിൽ അവർ എന്റെ ജീവനെ മുറിച്ചുമാറ്റി; എന്റെ മേൽ ഒരു കല്ല് എറിഞ്ഞു.",
+  "tokens": [
+    {
+      "surface": "צמתו",
+      "gloss": "മുറിച്ചുമാറ്റി"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "കിണറ്റിൽ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "എന്റെ ജീവനെ"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "എറിഞ്ഞു"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ഒരു കല്ല്"
+    },
+    {
+      "surface": "בי",
+      "gloss": "എന്റെ മേൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:08:48.604742751Z",
+  "model": "glm-5.3"
+}

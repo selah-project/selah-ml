@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 46:13",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 46,
+  "translation": "യിസ്സാസ്‌കാറിന്റെ പുത്രന്മാർ: തോലാ, പുവാ, യോവ്, ശിംരോൻ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "യിസ്സാസ്‌കാറിന്റെ"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "തോലാ"
+    },
+    {
+      "surface": "ופוה",
+      "gloss": "പുവാ"
+    },
+    {
+      "surface": "ויוב",
+      "gloss": "യോവ്"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "ശിംരോൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T08:55:45.651008116Z",
+  "model": "glm-5.3"
+}

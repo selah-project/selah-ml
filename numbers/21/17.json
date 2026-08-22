@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 21,
+  "translation": "അന്ന് യിസ്രായേൽ ഈ ഗാനം ⟨את⟩ പാടി: കിണറേ, ഉയർന്നുവാ; അതിനോടു പാടുവിൻ.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "അന്ന്"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "പാടി"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "യിസ്രായേൽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ഈ ഗാനം"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ഗാനം"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ഈ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ഉയർന്നുവാ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "കിണറേ"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "പാടുവിൻ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "അതിനോടു"
+    }
+  ],
+  "timestamp": "2026-08-22T10:37:17.147507746Z",
+  "model": "glm-5.3"
+}

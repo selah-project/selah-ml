@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 15,
+  "translation": "യാഹ്‌വെ എന്നേക്കും അനന്തകാലം വാഴുന്നു.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "വാഴുന്നു"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "എന്നേക്കും"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "അനന്തകാലം"
+    }
+  ],
+  "timestamp": "2026-08-22T09:14:56.398367955Z",
+  "model": "glm-5.3"
+}

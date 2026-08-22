@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 15:25",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 15,
+  "translation": "ഹാസോർ ഹദത്തായ്, കെരിയോത്ത്, ഹെസ്രോൺ — അതു ⟨ആണ്⟩ ഹാസോർ;",
+  "tokens": [
+    {
+      "surface": "וחצור",
+      "gloss": "ഹാസോർ"
+    },
+    {
+      "surface": "חדתה",
+      "gloss": "ഹദത്തായ്"
+    },
+    {
+      "surface": "וקריות",
+      "gloss": "കെരിയോത്ത്"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ഹെസ്രോൺ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "അതു ⟨ആണ്⟩"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "ഹാസോർ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:33:21.136240667Z",
+  "model": "glm-5.3"
+}

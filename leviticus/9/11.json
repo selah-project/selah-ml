@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "ml",
+  "chapter": 9,
+  "translation": "⟨את⟩ മാംസവും ⟨את⟩ തുകലും പാളയത്തിന് പുറത്ത് അഗ്നിയിൽ ദഹിപ്പിച്ചു.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "മാംസം"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "മാംസവും"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "തുകൽ"
+    },
+    {
+      "surface": "העור",
+      "gloss": "തുകലും"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ദഹിപ്പിച്ചു"
+    },
+    {
+      "surface": "באש",
+      "gloss": "അഗ്നിയിൽ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "പുറത്ത്"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "പാളയത്തിന്"
+    }
+  ],
+  "timestamp": "2026-08-22T09:53:45.295478175Z",
+  "model": "glm-5.3"
+}

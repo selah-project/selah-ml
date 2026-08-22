@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 5:19",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 5,
+  "translation": "നീ മോഷ്ടിക്കരുത്.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "വേണ്ട"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "മോഷ്ടിക്കുക"
+    }
+  ],
+  "timestamp": "2026-08-22T10:58:03.581632974Z",
+  "model": "glm-5.3"
+}

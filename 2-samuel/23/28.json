@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 23:28",
+  "book": "2-samuel",
+  "lang": "ml",
+  "chapter": 23,
+  "translation": "ത്സൽമോൻ അഹോഹ്യൻ, മഹറായ് നെതോഫാത്യൻ,",
+  "tokens": [
+    {
+      "surface": "צלמון",
+      "gloss": "ത്സൽമോൻ"
+    },
+    {
+      "surface": "האחחי",
+      "gloss": "അഹോഹ്യൻ"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "മഹറായ്"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "നെതോഫാത്യൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T12:37:57.886143133Z",
+  "model": "glm-5.3"
+}

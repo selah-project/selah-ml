@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 26:24",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 26,
+  "translation": "ഉം — ഗെരെഷോമിന്റെ മകൻ, മോശെയുടെ മകൻ — ഭണ്ഡാരങ്ങളുടെ മേൽ നായകൻ ⟨ആയിരുന്നു⟩.",
+  "tokens": [
+    {
+      "surface": "ושבאל",
+      "gloss": "ഉം"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "ഗെരെഷോമിന്റെ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെയുടെ"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "നായകൻ"
+    },
+    {
+      "surface": "על",
+      "gloss": "മേൽ"
+    },
+    {
+      "surface": "האצרות",
+      "gloss": "ഭണ്ഡാരങ്ങളുടെ"
+    }
+  ],
+  "timestamp": "2026-08-22T18:02:25.926171025Z",
+  "model": "glm-5.3"
+}

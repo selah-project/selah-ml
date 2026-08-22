@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 33,
+  "translation": "ഒരു തോറ മോശെ നമുക്കു കല്പിച്ചു — യാക്കോബിന്റെ സഭയ്ക്കുള്ള ഒരു അവകാശഭാരം.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "ഒരു തോറ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "കല്പിച്ചു"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "നമുക്കു"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെ"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "അവകാശഭാരം"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "സഭയ്ക്കുള്ള"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "യാക്കോബിന്റെ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:20:33.575012568Z",
+  "model": "glm-5.3"
+}

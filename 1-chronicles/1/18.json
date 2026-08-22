@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "അർപഛ്ശദ് ⟨את⟩ ശാലഖിനെ ജനിപ്പിച്ചു; ശാലഖ് ⟨את⟩ എവെറിനെ ജനിപ്പിച്ചു.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "അർപഛ്ശദ്"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ജനിപ്പിച്ചു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ശാലഖിനെ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ശാലഖ്"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ശാലഖ്"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ജനിപ്പിച്ചു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "എവെറിനെ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "എവെർ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:47:09.949433552Z",
+  "model": "glm-5.3"
+}

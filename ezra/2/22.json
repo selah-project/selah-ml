@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "നെതോഫായിലെ പുരുഷന്മാർ — അമ്പത്തിആറു പേർ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "പുരുഷന്മാർ"
+    },
+    {
+      "surface": "נטפה",
+      "gloss": "നെതോഫാ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "അമ്പത്"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ആറ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:30:23.805450138Z",
+  "model": "glm-5.3"
+}

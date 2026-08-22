@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "ഞാൻ എന്റെ കണ്ണുകളെ ⟨את⟩ ഉയർത്തി നോക്കി, ആ, ഇതാ നാല് കൊമ്പുകൾ.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "ഉയർത്തി"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "എന്റെ കണ്ണുകളെ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "എന്റെ കണ്ണുകൾ"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "നോക്കി"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ആ, ഇതാ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "നാല്"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "കൊമ്പുകൾ"
+    }
+  ],
+  "timestamp": "2026-08-22T15:33:22.544283700Z",
+  "model": "glm-5.3"
+}

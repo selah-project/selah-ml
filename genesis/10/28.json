@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "കൂടാതെ ⟨את⟩ ഓബാലിനെയും ⟨את⟩ അബീമായേലിനെയും ⟨את⟩ ശെബായെയും.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ഓബാലിനെ"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "ഓബാൽ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "അബീമായേലിനെ"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "അബീമായേൽ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ശെബായെ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ശെബാ"
+    }
+  ],
+  "timestamp": "2026-08-22T08:20:11.719495389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 23:35",
+  "book": "2-samuel",
+  "lang": "ml",
+  "chapter": 23,
+  "translation": "ഹെസ്രോ കർമ്മേലി, പആരായ് അർബി.",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "ഹെസ്രോ"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "കർമ്മേലി"
+    },
+    {
+      "surface": "פערי",
+      "gloss": "പആരായ്"
+    },
+    {
+      "surface": "הארבי",
+      "gloss": "അർബി"
+    }
+  ],
+  "timestamp": "2026-08-22T12:37:47.444101592Z",
+  "model": "glm-5.3"
+}

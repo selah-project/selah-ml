@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "lamentations 3:59",
+  "book": "lamentations",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "യാഹ്‌വേ, എന്റെ ദ്രോഹം നീ കണ്ടു; എന്റെ വിധി വിധിക്കുക.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "നീ കണ്ടു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വേ"
+    },
+    {
+      "surface": "עותתי",
+      "gloss": "എന്റെ ദ്രോഹം"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "വിധിക്കുക"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "എന്റെ വിധി"
+    }
+  ],
+  "timestamp": "2026-08-22T17:08:33.616089465Z",
+  "model": "glm-5.3"
+}

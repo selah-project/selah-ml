@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 7:36",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "യെരീഖോയുടെ മക്കൾ — മുന്നൂറ്റിനാപതുപേർ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "യെരീഖോ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "മൂന്ന്"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "നൂറ്"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "നാപത്"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "അഞ്ച്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:41:50.405550919Z",
+  "model": "glm-5.3"
+}

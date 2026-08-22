@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 12:13",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 12,
+  "translation": "യോഹാനാൻ എട്ടാമത്തെയാൾ, എൽസാബാദ് ഒൻപതാമത്തെയാൾ.",
+  "tokens": [
+    {
+      "surface": "יוחנן",
+      "gloss": "യോഹാനാൻ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "എട്ടാമത്തെയാൾ"
+    },
+    {
+      "surface": "אלזבד",
+      "gloss": "എൽസാബാദ്"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "ഒൻപതാമത്തെയാൾ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:55:38.466676671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "അസ്ഗദിന്റെ പുത്രന്മാർ — രണ്ടായിരം മുന്നൂറ്റിരുപത്തിരണ്ടു്.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "അസ്ഗദിന്റെ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "രണ്ടായിരം"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "മൂന്നു്"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "നൂറ്റി"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ഇരുപത്തി"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "രണ്ടു്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:41:58.587614312Z",
+  "model": "glm-5.3"
+}

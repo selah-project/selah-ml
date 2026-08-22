@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 12:12",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 12,
+  "translation": "അത്തായ് ആറാമൻ, ഏലിയേൽ ഏഴാമൻ.",
+  "tokens": [
+    {
+      "surface": "עתי",
+      "gloss": "അത്തായ്"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ആറാമൻ"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "ഏലിയേൽ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ഏഴാമൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:52:32.358541258Z",
+  "model": "glm-5.3"
+}

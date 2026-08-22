@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 2:15",
+  "book": "leviticus",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "നീ അതിന്മേൽ എണ്ണ ഒഴിക്കുക, നീ അതിന്മേൽ ലെബോനാ ഇടുക; അതു ധാന്യകാഴ്ച ⟨ആകുന്നു⟩.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "നീ ഒഴിക്കുക"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "അതിന്മേൽ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "എണ്ണ"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "നീ ഇടുക"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "അതിന്മേൽ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ലെബോനാ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ധാന്യകാഴ്ച"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "അതു"
+    }
+  ],
+  "timestamp": "2026-08-22T09:46:25.258614155Z",
+  "model": "glm-5.3"
+}

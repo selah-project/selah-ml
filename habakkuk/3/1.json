@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 3:1",
+  "book": "habakkuk",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "ഹബക്കൂക്ക് പ്രവാചകന്റെ പ്രാർഥന, ശിഗയോനോത്തിന്റെ മേൽ.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "പ്രാർഥന"
+    },
+    {
+      "surface": "לחבקוק",
+      "gloss": "ഹബക്കൂക്ക്-വേണ്ടി"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "പ്രവാചകൻ"
+    },
+    {
+      "surface": "על",
+      "gloss": "മേൽ"
+    },
+    {
+      "surface": "שגינות",
+      "gloss": "ശിഗയോനോത്ത്"
+    }
+  ],
+  "timestamp": "2026-08-22T15:28:50.759557869Z",
+  "model": "glm-5.3"
+}

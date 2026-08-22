@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 20,
+  "translation": "നിന്റെ അയൽക്കാരനെതിരെ കള്ളസാക്ഷ്യം പറയരുത്.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "അരുത്"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "പറയരുത്"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "നിന്റെ അയൽക്കാരനെതിരെ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "സാക്ഷ്യം"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "കള്ള"
+    }
+  ],
+  "timestamp": "2026-08-22T09:17:42.350441650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 2:37",
+  "book": "ezra",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "ഇമ്മേരിന്റെ പുത്രന്മാർ — ആയിരത്തി അമ്പത്തിരണ്ടു്.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ഇമ്മേരിന്റെ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ആയിരം"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "അമ്പത്"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "രണ്ട്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:30:39.302926794Z",
+  "model": "glm-5.3"
+}

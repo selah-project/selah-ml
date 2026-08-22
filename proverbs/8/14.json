@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 8:14",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 8,
+  "translation": "എനിക്കു ⟨ഉണ്ട്⟩ ആലോചനയും വിവേകവും; ഞാൻ ⟨ആകുന്നു⟩ ബോധ്യം; എനിക്കു ⟨ഉണ്ട്⟩ ബലം.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "എനിക്കു"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ആലോചനയും"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "വിവേകവും"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ഞാൻ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ബോധ്യം"
+    },
+    {
+      "surface": "לי",
+      "gloss": "എനിക്കു"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "ബലം"
+    }
+  ],
+  "timestamp": "2026-08-22T19:10:35.435089888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 21,
+  "translation": "കണ്ണിന് പകരം കണ്ണ്, പല്ലിന് പകരം പല്ല്, കൈക്ക് പകരം കൈ, കാലിന് പകരം കാൽ.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "കണ്ണ്"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "പകരം"
+    },
+    {
+      "surface": "עין",
+      "gloss": "കണ്ണിന്"
+    },
+    {
+      "surface": "שן",
+      "gloss": "പല്ല്"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "പകരം"
+    },
+    {
+      "surface": "שן",
+      "gloss": "പല്ലിന്"
+    },
+    {
+      "surface": "יד",
+      "gloss": "കൈ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "പകരം"
+    },
+    {
+      "surface": "יד",
+      "gloss": "കൈക്ക്"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "കാൽ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "പകരം"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "കാലിന്"
+    }
+  ],
+  "timestamp": "2026-08-22T09:22:03.893745588Z",
+  "model": "glm-5.3"
+}

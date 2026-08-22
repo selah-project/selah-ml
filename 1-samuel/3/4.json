@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "യാഹ്‌വെ ശെമുവേലിനെ വിളിച്ചു; അവൻ പറഞ്ഞു: \"ഇതാ, ഞാൻ.\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "വിളിച്ചു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "നോക്കി"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ശെമുവേലിനെ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "പറഞ്ഞു"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ഇതാ, ഞാൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T12:01:50.929253172Z",
+  "model": "glm-5.3"
+}

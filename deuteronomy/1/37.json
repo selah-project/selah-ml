@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 1:37",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "യാഹ്‌വെ നിങ്ങളുടെ നിമിത്തം എന്നോടുകൂടി ക്രുദ്ധനായി പറഞ്ഞു: നീയും അവിടേക്ക് വരില്ല.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "കൂടി"
+    },
+    {
+      "surface": "בי",
+      "gloss": "എന്നോട്"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "ക്രുദ്ധനായി"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "നിങ്ങളുടെ നിമിത്തം"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറഞ്ഞു"
+    },
+    {
+      "surface": "גם",
+      "gloss": "നീയും"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "നീ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "വരും"
+    },
+    {
+      "surface": "שם",
+      "gloss": "അവിടേക്ക്"
+    }
+  ],
+  "timestamp": "2026-08-22T10:55:29.532337599Z",
+  "model": "glm-5.3"
+}

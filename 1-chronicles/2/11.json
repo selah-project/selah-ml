@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "നഖ്ശോൺ ⟨את⟩ സൽമായെ ജനിപ്പിച്ചു; സൽമാ ⟨את⟩ ബോഅസിനെ ജനിപ്പിച്ചു.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "നഖ്ശോൺ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ജനിപ്പിച്ചു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "സൽമാ"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "സൽമായെ"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "സൽമാ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ജനിപ്പിച്ചു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ബോഅസ്"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "ബോഅസിനെ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:47:10.235756058Z",
+  "model": "glm-5.3"
+}

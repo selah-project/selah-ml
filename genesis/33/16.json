@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 33,
+  "translation": "ആ ദിവസം എസാവ് സ്വന്തം വഴിയിലൂടെ സെയിറിലേക്ക് മടങ്ങി.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "മടങ്ങി"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ആ ദിവസം"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ആ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "എസാവ്"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "സ്വന്തം വഴിയിലൂടെ"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "സെയിറിലേക്ക്"
+    }
+  ],
+  "timestamp": "2026-08-22T08:42:16.720740828Z",
+  "model": "glm-5.3"
+}

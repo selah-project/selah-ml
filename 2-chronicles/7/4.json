@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "രാജാവും ജനമൊന്നന്നും യാഹ്‌വെയുടെ മുമ്പിൽ യാഗം അർപ്പിച്ചു.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "രാജാവും"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ഒന്നന്നും"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ജനമൊ"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "അർപ്പിച്ചു"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "യാഗം"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "മുമ്പിൽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെയുടെ"
+    }
+  ],
+  "timestamp": "2026-08-22T18:07:41.155508167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 18:17",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 18,
+  "translation": "യാഹ്‌വെ എന്നോട് പറഞ്ഞു: അവർ സംസാരിച്ചത് നന്നായിത്തന്നെ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "പറഞ്ഞു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "എന്നോട്"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "നന്നായിത്തന്നെ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "അത്"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "സംസാരിച്ചു"
+    }
+  ],
+  "timestamp": "2026-08-22T11:10:05.089118082Z",
+  "model": "glm-5.3"
+}

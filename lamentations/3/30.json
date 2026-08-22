@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "തന്നെ അടിക്കുന്നവന് അവൻ കവിൾ കൊടുക്കട്ടെ; നിന്ദയിൽ അവൻ സംതൃപ്തനാകട്ടെ.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "കൊടുക്കട്ടെ"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "തന്നെ അടിക്കുന്നവന്"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "കവിൾ"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "സംതൃപ്തനാകട്ടെ"
+    },
+    {
+      "surface": "בחרതה",
+      "gloss": "നിന്ദയിൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T19:12:33.528998654Z",
+  "model": "glm-5.3"
+}

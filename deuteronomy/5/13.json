@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 5:13",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 5,
+  "translation": "ആറു ദിവസം നീ പ്രവർത്തിക്കുകയും നിന്റെ എല്ലാ ജോലിയും ചെയ്യുകയും വേണം.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "ആറു"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ദിവസം"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "നീ പ്രവർത്തിക്കും"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ചെയ്യുകയും വേണം"
+    },
+    {
+      "surface": "כל",
+      "gloss": "എല്ലാ"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "നിന്റെ ജോലിയും"
+    }
+  ],
+  "timestamp": "2026-08-22T11:01:11.746507937Z",
+  "model": "glm-5.3"
+}

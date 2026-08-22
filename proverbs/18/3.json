@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 18,
+  "translation": "ദുഷ്ടൻ വരുമ്പോൾ അപമാനവും വരുന്നു; നിന്ദയോടൊപ്പം അപകീർത്തിയും.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "വരുമ്പോൾ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ദുഷ്ടൻ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "വരുന്നു"
+    },
+    {
+      "surface": "גם",
+      "gloss": "യും"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "അപമാനം"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ഒപ്പം"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "നിന്ദ"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "അപകീർത്തി"
+    }
+  ],
+  "timestamp": "2026-08-22T16:34:59.395415729Z",
+  "model": "glm-5.3"
+}

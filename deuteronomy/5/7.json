@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 5,
+  "translation": "നിനക്കു മറ്റു എലോഹീം ഉണ്ടായിരിക്കരുത് എന്റെ മുഖത്തിന്നു നേരെ",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ആയിരിക്കരുത്"
+    },
+    {
+      "surface": "לך",
+      "gloss": "നിനക്കു"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "എലോഹീം"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "മറ്റു"
+    },
+    {
+      "surface": "על",
+      "gloss": "നേരെ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "മുഖത്തിന്നു"
+    }
+  ],
+  "timestamp": "2026-08-22T10:58:17.906787434Z",
+  "model": "glm-5.3"
+}

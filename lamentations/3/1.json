@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "ഞാൻ ⟨is⟩ ⟨the⟩ പുരുഷൻ — കോപത്തിന്റെ ⟨his⟩ വടിയിൽ ദുരിതം കണ്ടവൻ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ഞാൻ"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "പുരുഷൻ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "കണ്ടവൻ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ദുരിതം"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "വടിയിൽ"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "കോപത്തിന്റെ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:08:46.139179815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "യാർദ്ദേന്‌പ്പുറം, മോആബ് ദേശത്ത്, മോശെ ഈ തോറ ⟨את⟩ വ്യക്തമാക്കാൻ തുടങ്ങി, പറയുന്നതു:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "പ്പുറം"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "യാർദ്ദേന്‌"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ദേശത്ത്"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "മോആബ്"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "തുടങ്ങാൻ സമ്മതിച്ചു"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "വ്യക്തമാക്കാൻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "തോറ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ഈ തോറ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ഈ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയുന്നതു"
+    }
+  ],
+  "timestamp": "2026-08-22T10:57:05.150370882Z",
+  "model": "glm-5.3"
+}

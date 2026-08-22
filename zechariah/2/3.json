@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "യാഹ്‌വെ എനിക്കു കാണിച്ചു നാല് ശില്പികളെ.",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "എനിക്കു കാണിച്ചു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "നാല്"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "ശില്പികളെ"
+    }
+  ],
+  "timestamp": "2026-08-22T15:33:22.544616341Z",
+  "model": "glm-5.3"
+}

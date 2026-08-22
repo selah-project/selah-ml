@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 31:46",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 31,
+  "translation": "മനുഷ്യന്മാരുടെ നെഫെശ് പതിനാറായിരം",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "നെഫെശ്"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "മനുഷ്യന്മാരുടെ"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ആറ്"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "പത്ത്"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ആയിരം"
+    }
+  ],
+  "timestamp": "2026-08-22T10:48:19.921411967Z",
+  "model": "glm-5.3"
+}

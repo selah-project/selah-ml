@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 34,
+  "translation": "അവിടെ മരിച്ചു മോശെ, യാഹ്‌വെയുടെ ദാസൻ, മോവാബ് ദേശത്ത്, യാഹ്‌വെയുടെ വാക്കു പ്രകാരം.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "മരിച്ചു"
+    },
+    {
+      "surface": "שם",
+      "gloss": "അവിടെ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ദാസൻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെയുടെ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ദേശത്ത്"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "മോവാബ്"
+    },
+    {
+      "surface": "על",
+      "gloss": "പ്രകാരം"
+    },
+    {
+      "surface": "פי",
+      "gloss": "വാക്കു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെയുടെ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:23:30.879788503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 2:20",
+  "book": "ezra",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "ഗിബ്ബാരിന്റെ പുത്രന്മാർ — തൊണ്ണൂറ്റിഅഞ്ചു പേർ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ഗിബ്ബാർ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "തൊണ്ണൂറ്"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "അഞ്ച്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:30:19.386084188Z",
+  "model": "glm-5.3"
+}

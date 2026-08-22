@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 23:20",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 23,
+  "translation": "ഉസ്സീയേലിന്റെ പുത്രന്മാർ: മീഖാ പ്രധാനൻ, യിഷ്ഷീയാ രണ്ടാമൻ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "ഉസ്സീയേലിന്റെ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "മീഖാ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "പ്രധാനൻ"
+    },
+    {
+      "surface": "וישיה",
+      "gloss": "യിഷ്ഷീയാ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "രണ്ടാമൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T18:00:09.890560501Z",
+  "model": "glm-5.3"
+}

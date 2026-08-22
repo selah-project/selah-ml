@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "കാരണം ആരു ഭക്ഷിക്കും? ആരു ആസ്വദിക്കാൻ ത്വരപ്പെടും — പുറത്ത്, എന്നിൽനിന്ന്?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "കാരണം"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ആരു"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ഭക്ഷിക്കും"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ആരു"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "ആസ്വദിക്കാൻ ത്വരപ്പെടും"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "പുറത്ത്"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "എന്നിൽനിന്ന്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:11:35.209153323Z",
+  "model": "glm-5.3"
+}

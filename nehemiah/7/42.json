@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "nehemiah 7:42",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ഖാരിമിന്റെ പുത്രന്മാർ — ആയിരത്തിപ്പതിനേഴുപേർ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ഖാരിമിന്റെ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ആയിരം"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ഏഴ്"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "പത്ത്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:41:52.964431525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 40,
+  "translation": "യോസേഫ് അവനോട് പറഞ്ഞു: ഇതാ അതിന്റെ വ്യാഖ്യാനം — മൂന്ന് ശാഖകൾ മൂന്ന് ദിവസങ്ങൾ ⟨is⟩ അവ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "പറഞ്ഞു"
+    },
+    {
+      "surface": "തו",
+      "gloss": "അവനോട്"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "യോസേഫ്"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ഇതാ"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "വ്യാഖ്യാനം"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "മൂന്ന്"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "ശാഖകൾ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "മൂന്ന്"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ദിവസങ്ങൾ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "അവ"
+    }
+  ],
+  "timestamp": "2026-08-22T08:48:38.098813711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 9:2",
+  "book": "zechariah",
+  "lang": "ml",
+  "chapter": 9,
+  "translation": "ഖമാത്തും അതിൽ ചേരും; സോർ, സിദോൻ — കാരണം അവർ വളരെ ജ്ഞാനികൾ.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "…ഉം"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ഖമാത്തും"
+    },
+    {
+      "surface": "תגבל",
+      "gloss": "ചേരും"
+    },
+    {
+      "surface": "בה",
+      "gloss": "അതിൽ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "സോർ"
+    },
+    {
+      "surface": "וצידון",
+      "gloss": "സിദോൻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "കാരണം"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ജ്ഞാനികൾ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "വളരെ"
+    }
+  ],
+  "timestamp": "2026-08-22T15:34:01.666397298Z",
+  "model": "glm-5.3"
+}

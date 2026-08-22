@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 11:26",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "യെഷൂഅിലും മൊലാദായിലും ബേത്-പാലെതിലും.",
+  "tokens": [
+    {
+      "surface": "ובישוע",
+      "gloss": "യെഷൂഅിലും"
+    },
+    {
+      "surface": "ובמולדה",
+      "gloss": "മൊലാദായിലും"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "ബേത്...ഇൽ"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "പാലെതിലും"
+    }
+  ],
+  "timestamp": "2026-08-22T17:44:12.956511235Z",
+  "model": "glm-5.3"
+}

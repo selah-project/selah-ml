@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 11:43",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "ഹാനാൻ മാഅഖായുടെ മകൻ, യോശാഫാത് മിത്നി,",
+  "tokens": [
+    {
+      "surface": "חנן",
+      "gloss": "ഹാനാൻ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…മകൻ"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "മാഅഖാ"
+    },
+    {
+      "surface": "ויושפט",
+      "gloss": "യോശാഫാത്"
+    },
+    {
+      "surface": "המתני",
+      "gloss": "മിത്നി"
+    }
+  ],
+  "timestamp": "2026-08-22T17:52:05.148393321Z",
+  "model": "glm-5.3"
+}

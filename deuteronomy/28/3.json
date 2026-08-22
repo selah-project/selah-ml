@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 28,
+  "translation": "അനുഗൃഹീതൻ നീ പട്ടണത്തിൽ, അനുഗൃഹീതൻ നീ വയലിൽ.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "അനുഗൃഹീതൻ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "നീ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "പട്ടണത്തിൽ"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "അനുഗൃഹീതൻ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "നീ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "വയലിൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:18:12.979151581Z",
+  "model": "glm-5.3"
+}

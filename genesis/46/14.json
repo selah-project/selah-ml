@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 46:14",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 46,
+  "translation": "സെബൂലൂനിന്റെ പുത്രന്മാർ: സെരെദ്, ഏലോൺ, യാഹ്‌ലെഎൽ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "സെബൂലൂനിന്റെ"
+    },
+    {
+      "surface": "סרד",
+      "gloss": "സെരെദ്"
+    },
+    {
+      "surface": "ואלון",
+      "gloss": "ഏലോൺ"
+    },
+    {
+      "surface": "ויחלאל",
+      "gloss": "യാഹ്‌ലെഎൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T08:55:45.651181976Z",
+  "model": "glm-5.3"
+}

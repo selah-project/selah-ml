@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 26:36",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 26,
+  "translation": "ഇവർ ശൂതെലാഹിന്റെ പുത്രന്മാർ: ഏരാന് ഏരാനികളുടെ കുടുംബം.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ഇവർ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "שותלח",
+      "gloss": "ശൂതെലാഹിന്റെ"
+    },
+    {
+      "surface": "לערן",
+      "gloss": "ഏരാന്"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "കുടുംബം"
+    },
+    {
+      "surface": "הערני",
+      "gloss": "ഏരാനികളുടെ"
+    }
+  ],
+  "timestamp": "2026-08-22T10:44:43.114199656Z",
+  "model": "glm-5.3"
+}

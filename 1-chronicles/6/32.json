@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 6:32",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "മഹ്‌ലിയുടെ മകൻ, മൂശിയുടെ മകൻ, മെരാരിയുടെ മകൻ, ലേവിയുടെ മകൻ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "മഹ്‌ലിയുടെ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "മൂശിയുടെ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "മെരാരിയുടെ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ലേവിയുടെ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:50:38.274519916Z",
+  "model": "glm-5.3"
+}

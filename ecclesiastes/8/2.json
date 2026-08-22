@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "ml",
+  "chapter": 8,
+  "translation": "ഞാൻ — രാജാവിന്റെ വാക്ക് പാലിക്കുക, എലോഹീം-ന്റെ സത്യത്തിന്റെ കാര്യത്തിൽ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ഞാൻ"
+    },
+    {
+      "surface": "പי",
+      "gloss": "വാക്ക്"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "രാജാവിന്റെ"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "പാലിക്കുക"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "വീണ്ടും"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "കാര്യത്തിൽ"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "സത്യത്തിന്റെ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "എലോഹീം-ന്റെ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:14:17.941088063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 20,
+  "translation": "ആറു ദിവസം നീ പണിയെടുക്കുക, നിന്റെ എല്ലാ ജോലിയും ചെയ്യുക;",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "ആറു"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ദിവസം"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "നീ പണിയെടുക്കുക"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ചെയ്യുക"
+    },
+    {
+      "surface": "כל",
+      "gloss": "എല്ലാ"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "നിന്റെ ജോലിയും"
+    }
+  ],
+  "timestamp": "2026-08-22T09:20:15.711043655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 46:23",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 46,
+  "translation": "ദാന്റെ പുത്രന്മാർ: ഹുഷീം.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ദാന്റെ"
+    },
+    {
+      "surface": "חשים",
+      "gloss": "ഹുഷീം"
+    }
+  ],
+  "timestamp": "2026-08-22T08:55:12.532406723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "ശെരൂഗ് മുപ്പതു വർഷം ജീവിച്ചു, ⟨את⟩ നാഖോറിനെ ജനിപ്പിച്ചു.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ജീവിച്ചു"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "ശെരൂഗ്"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "മുപ്പതു"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "വർഷം"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ജനിപ്പിച്ചു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "നാഖോറിനെ"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "നാഖോറിനെ"
+    }
+  ],
+  "timestamp": "2026-08-22T18:28:14.082179221Z",
+  "model": "glm-5.3"
+}

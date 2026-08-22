@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 2:18",
+  "book": "ezra",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "യോരാഹിന്റെ പുത്രന്മാർ — നൂറ്റിപ്പന്ത്രണ്ടു പേർ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "യോരാഹ്"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "നൂറ്"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "രണ്ട്"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "പത്ത്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:30:19.385758550Z",
+  "model": "glm-5.3"
+}

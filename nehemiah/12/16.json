@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 12:16",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 12,
+  "translation": "ഇദ്ദോയ്ക്കു സെഖര്യാഹു; ഗിന്നെഥോനു മെഷുല്ലാം;",
+  "tokens": [
+    {
+      "surface": "לעדיא",
+      "gloss": "ഇദ്ദോയ്ക്കു"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "സെഖര്യാഹു"
+    },
+    {
+      "surface": "לגנתון",
+      "gloss": "ഗിന്നെഥോനു"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "മെഷുല്ലാം"
+    }
+  ],
+  "timestamp": "2026-08-22T17:44:21.957892405Z",
+  "model": "glm-5.3"
+}

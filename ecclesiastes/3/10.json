@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "ഞാൻ കണ്ടു ⟨את⟩ കഠിനത, എലോഹീം മനുഷ്യപുത്രർക്ക് നൽകിയതിനെ, അതിൽ അവരെ അലട്ടുവാൻ.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ഞാൻ കണ്ടു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "കഠിനത"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "കഠിനത"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "എന്ന"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "നൽകിയതിനെ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "എലോഹീം"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "പുത്രർക്ക്"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "മനുഷ്യന്റെ"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "അലട്ടുവാൻ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "അതിൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:12:00.643986668Z",
+  "model": "glm-5.3"
+}

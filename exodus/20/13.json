@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 20:13",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 20,
+  "translation": "നിന്നെ കൊല്ലരുത്.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "അരുത്"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "കൊല്ലരുത്"
+    }
+  ],
+  "timestamp": "2026-08-22T09:17:42.350004141Z",
+  "model": "glm-5.3"
+}

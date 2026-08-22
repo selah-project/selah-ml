@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 12:13",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 12,
+  "translation": "എസ്രായ്ക്കു മെഷുല്ലാം; അമര്യാഹുവിനു യെഹോചാനാൻ;",
+  "tokens": [
+    {
+      "surface": "לעזרא",
+      "gloss": "എസ്രായ്ക്കു"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "മെഷുല്ലാം"
+    },
+    {
+      "surface": "לאמריה",
+      "gloss": "അമര്യാഹുവിനു"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "യെഹോചാനാൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:44:21.957367507Z",
+  "model": "glm-5.3"
+}

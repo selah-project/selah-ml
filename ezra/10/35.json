@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 10:35",
+  "book": "ezra",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "ബെനായാ, ബെദെയാ, കെലുഹയ്.",
+  "tokens": [
+    {
+      "surface": "בניה",
+      "gloss": "ബെനായാ"
+    },
+    {
+      "surface": "בדיה",
+      "gloss": "ബെദെയാ"
+    },
+    {
+      "surface": "כלהי",
+      "gloss": "കെലുഹയ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:36:39.530470555Z",
+  "model": "glm-5.3"
+}

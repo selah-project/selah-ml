@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "സെരഹ്യാവിന്റെ മകൻ, ഉസ്സീയുടെ മകൻ, ബുക്കീയുടെ മകൻ,",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "സെരഹ്യാവ്"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ഉസ്സീ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "ബുക്കീ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:34:01.410505905Z",
+  "model": "glm-5.3"
+}

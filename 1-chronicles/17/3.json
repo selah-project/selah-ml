@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 17:3",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 17,
+  "translation": "ആ രാത്രിയിൽ ആയി, എലോഹീമിന്റെ വചനം നാതാനിലേക്കു വന്നു പറയുന്നതു:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ആയി"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "രാത്രിയിൽ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ആ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ആയി"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "വചനം"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "എലോഹീമിന്റെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ലേക്കു"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "നാതാനിലേക്ക്"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "പറയുന്നതു"
+    }
+  ],
+  "timestamp": "2026-08-22T17:58:07.324364476Z",
+  "model": "glm-5.3"
+}

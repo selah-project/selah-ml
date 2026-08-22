@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 15:35",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 15,
+  "translation": "യാർമൂത്, അദുല്ലാം, സൊക്കോ, അസേക്കാ —",
+  "tokens": [
+    {
+      "surface": "ירמות",
+      "gloss": "യാർമൂത്"
+    },
+    {
+      "surface": "ועדלם",
+      "gloss": "അദുല്ലാം"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "സൊക്കോ"
+    },
+    {
+      "surface": "ועזקה",
+      "gloss": "അസേക്കാ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:33:52.645253511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 25,
+  "translation": "ആരക്കിൽ ഞാൻ നിനക്കു തരുന്ന ⟨את⟩ സാക്ഷ്യം നിക്ഷേപിക്കുക.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "നിക്ഷേപിക്കുക"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ഇൽ"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ആരക്ക്"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "സാക്ഷ്യം"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "സാക്ഷ്യം"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "യത്"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ഞാൻ തരുന്ന"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "നിനക്കു"
+    }
+  ],
+  "timestamp": "2026-08-22T18:31:44.310745124Z",
+  "model": "glm-5.3"
+}

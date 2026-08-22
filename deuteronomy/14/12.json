@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 14,
+  "translation": "ഇവയാകുന്നു അവയിൽനിന്നു നിങ്ങൾ ഭക്ഷിക്കാത്തവ: നെശർ, പെരെസ്, അസ്നിയ.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ഇവയാകുന്നു"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-വ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "അല്ല"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ഭക്ഷിക്കാത്ത"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "അവയിൽനിന്നു"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "നെശർ"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "പെരെസ്"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "അസ്നിയ"
+    }
+  ],
+  "timestamp": "2026-08-22T18:35:49.292105422Z",
+  "model": "glm-5.3"
+}

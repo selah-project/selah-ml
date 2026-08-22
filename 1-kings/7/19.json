@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 7:19",
+  "book": "1-kings",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "പ്രാകാരത്തിൽ, തൂണുകളുടെ തലയിലുള്ള കിരീടങ്ങൾ — താമരവേല, നാലു മുഴം.",
+  "tokens": [
+    {
+      "surface": "וכתרת",
+      "gloss": "കിരീടങ്ങൾ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ആ"
+    },
+    {
+      "surface": "על",
+      "gloss": "മീതെ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "തല"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "തൂണുകളുടെ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "വേല"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "താമര"
+    },
+    {
+      "surface": "באולם",
+      "gloss": "പ്രാകാരത്തിൽ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "നാലു"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "മുഴം"
+    }
+  ],
+  "timestamp": "2026-08-22T12:44:51.078117770Z",
+  "model": "glm-5.3"
+}

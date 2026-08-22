@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 5:18",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 5,
+  "translation": "നീ വ്യഭിചാരം ചെയ്യരുത്.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "വേണ്ട"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "വ്യഭിചാരം ചെയ്യുക"
+    }
+  ],
+  "timestamp": "2026-08-22T10:58:03.581493230Z",
+  "model": "glm-5.3"
+}

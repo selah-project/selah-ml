@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 2:2",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "ദാൻ, യോസേഫ്, ബിൻയാമീൻ, നഫ്താലി, ഗാദ്, ആശേർ.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "ദാൻ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "യോസേഫ്"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ബിൻയാമീൻ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "നഫ്താലി"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ഗാദ്"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ആശേർ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:47:32.927892890Z",
+  "model": "glm-5.3"
+}

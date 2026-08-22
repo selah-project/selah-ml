@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "ml",
+  "chapter": 30,
+  "translation": "യാഹ്‌വെ യിഴ്ഖിയാഹുവിന് ചെവികൊണ്ടു, ⟨את⟩ ജനത്തെ സൗഖ്യമാക്കി.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ചെവികൊണ്ടു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "നേരെ"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "യിഴ്ഖിയാഹുവിന്"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "സൗഖ്യമാക്കി"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ജനത്തെ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ജനത്തെ"
+    }
+  ],
+  "timestamp": "2026-08-22T18:23:20.621457587Z",
+  "model": "glm-5.3"
+}

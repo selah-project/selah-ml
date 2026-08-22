@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 94,
+  "translation": "നീതിയിലേക്ക് വിധി ⟨he⟩ മടങ്ങും, അതിനു ശേഷം ഹൃദയത്തിൽ നേരായവരെല്ലാം.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "കാരണം"
+    },
+    {
+      "surface": "עד",
+      "gloss": "വരെ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "നീതിയിലേക്ക്"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "മടങ്ങും"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "വിധി"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "അതിനു ശേഷം"
+    },
+    {
+      "surface": "כל",
+      "gloss": "എല്ലാ"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "നേരായവരും"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ഹൃദയത്തിന്റെ"
+    }
+  ],
+  "timestamp": "2026-08-22T16:10:23.720756893Z",
+  "model": "glm-5.3"
+}

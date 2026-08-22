@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 4,
+  "translation": "ഈ വടിയോ ⟨את⟩ കൈയിൽ എടുത്തുകൊൾക — അതിനാൽ അതിൽ വഴി നീ ⟨את⟩ അടയാളങ്ങളെ ചെയ്യും.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ഈ വടിയോ"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "വടി"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ഈ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "എടുത്തുകൊൾക"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "കൈയിൽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "അതിനാൽ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ചെയ്യും"
+    },
+    {
+      "surface": "בו",
+      "gloss": "അതിൽ വഴി"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "അടയാളങ്ങളെ"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "അടയാളങ്ങൾ"
+    }
+  ],
+  "timestamp": "2026-08-22T09:05:06.265830081Z",
+  "model": "glm-5.3"
+}

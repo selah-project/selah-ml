@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "അവന് ഏഴു പുത്രന്മാരും മൂന്നു പുത്രിമാരും ജനിച്ചു.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "ജനിച്ചു"
+    },
+    {
+      "surface": "לו",
+      "gloss": "അവന്"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ഏഴു"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "മൂന്നു"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "പുത്രിമാർ"
+    }
+  ],
+  "timestamp": "2026-08-22T16:43:12.271097130Z",
+  "model": "glm-5.3"
+}

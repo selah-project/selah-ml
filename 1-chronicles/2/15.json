@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 2:15",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "ഒത്സെം ആറാമത്, ദാവീദ് ഏഴാമത്.",
+  "tokens": [
+    {
+      "surface": "אצם",
+      "gloss": "ഒത്സെം"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ആറാമത്"
+    },
+    {
+      "surface": "ഓס_דויד",
+      "gloss": "ദാവീദ്"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ഏഴാമത്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:47:02.538743274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 5:7",
+  "book": "esther",
+  "lang": "ml",
+  "chapter": 5,
+  "translation": "എസ്ഥേർ ഉത്തരം പറഞ്ഞു: എന്റെ അപേക്ഷയും ആവശ്യവും ⟨is⟩ ഇതാണ് —",
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "ഉത്തരം പറഞ്ഞു"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "എസ്ഥേർ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "പറഞ്ഞു"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "എന്റെ അപേക്ഷ"
+    },
+    {
+      "surface": "ובקשתי",
+      "gloss": "ആവശ്യവും"
+    }
+  ],
+  "timestamp": "2026-08-22T17:17:16.649351922Z",
+  "model": "glm-5.3"
+}

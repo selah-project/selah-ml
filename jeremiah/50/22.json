@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "ml",
+  "chapter": 50,
+  "translation": "യുദ്ധത്തിന്റെ ശബ്ദം ⟨⟨the⟩⟩ ദേശത്ത്, വലിയ തകർച്ചയും.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ശബ്ദം"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "യുദ്ധത്തിന്റെ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ദേശത്ത്"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "തകർച്ചയും"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "വലിയ"
+    }
+  ],
+  "timestamp": "2026-08-22T14:32:20.995828396Z",
+  "model": "glm-5.3"
+}

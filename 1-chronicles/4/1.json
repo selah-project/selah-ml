@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 4,
+  "translation": "യഹൂദായുടെ പുത്രന്മാർ: പെരെസ്, ചെസ്രോൺ, കർമി, ചൂർ, ശോവാൽ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "യഹൂദായുടെ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "പെരെസ്"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ചെസ്രോൺ"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "കർമി"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "ചൂർ"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "ശോവാൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:49:33.773353563Z",
+  "model": "glm-5.3"
+}

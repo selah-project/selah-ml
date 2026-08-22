@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 15:4",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 15,
+  "translation": "ദാവിദ് അഹരോന്റെ മക്കളെ ⟨את⟩ ലേവ്യരെയും ⟨את⟩ കൂട്ടി.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "കൂട്ടി"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ദാവിദ്"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "അഹരോന്റെ മക്കളെ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "മക്കളെ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "അഹരോന്റെ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ലേവ്യരെയും"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ലേവ്യരെയും"
+    }
+  ],
+  "timestamp": "2026-08-22T17:56:21.858114185Z",
+  "model": "glm-5.3"
+}

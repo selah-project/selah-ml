@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 23,
+  "translation": "നീ വിശപ്പുള്ള ഒരാളാണെങ്കിൽ നിന്റെ തൊണ്ടയിൽ ഒരു കത്തി വയ്ക്കുക.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "വയ്ക്കുക"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "കത്തി"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "നിന്റെ തൊണ്ടയിൽ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ആണെങ്കിൽ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ഉടമസ്ഥൻ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "വിശപ്പുള്ള ആൾ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "നീ"
+    }
+  ],
+  "timestamp": "2026-08-22T16:38:36.806633697Z",
+  "model": "glm-5.3"
+}

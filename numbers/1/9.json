@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 1:9",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "സെബൂലൂനിന് — ഖെലോന്റെ മകനായ എലിആവ്.",
+  "tokens": [
+    {
+      "surface": "לזבולן",
+      "gloss": "സെബൂലൂനിന്"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "എലിആവ്"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "ഖെലോൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T10:14:35.120722188Z",
+  "model": "glm-5.3"
+}

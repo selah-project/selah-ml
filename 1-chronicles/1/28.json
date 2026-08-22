@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "അവ്രാഹാമിന്റെ പുത്രന്മാർ: യിത്സാക്കും യിശ്മായേലും.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "അവ്രാഹാമിന്റെ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "യിത്സാക്ക്"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "യിശ്മായേലും"
+    }
+  ],
+  "timestamp": "2026-08-22T17:46:22.365312007Z",
+  "model": "glm-5.3"
+}

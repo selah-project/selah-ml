@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 10:4",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "പാശ്ഖൂർ, അമര്യാഹ്, മല്കിയാഹ്.",
+  "tokens": [
+    {
+      "surface": "פשחור",
+      "gloss": "പാശ്ഖൂർ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "അമര്യാഹ്"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "മല്കിയാഹ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:42:37.551937412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 6:27",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "ഏത്താന്റെ മകൻ, സിമ്മായുടെ മകൻ, ശിംഇയുടെ മകൻ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ഏത്താൻ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "സിമ്മാ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ശിംഇ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:50:52.013081072Z",
+  "model": "glm-5.3"
+}

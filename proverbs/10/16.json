@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "നീതിമാന്റെ പ്രവൃത്തി ജീവന്; ദുഷ്ടന്റെ വരുമാനം പാപത്തിന്.",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "പ്രവൃത്തി"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "നീതിമാന്റെ"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "ജീവന്"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "വരുമാനം"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ദുഷ്ടന്റെ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "പാപത്തിന്"
+    }
+  ],
+  "timestamp": "2026-08-22T16:32:22.958878264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 27,
+  "translation": "കല്ലുകളുടെ മേൽ ഈ തോറയുടെ എല്ലാ വാക്കുകളും ⟨את⟩ നീ വ്യക്തമായി കൊത്തി എഴുതും.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "നീ എഴുതും"
+    },
+    {
+      "surface": "על",
+      "gloss": "മേൽ"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "കല്ലുകളുടെ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "എല്ലാ വാക്കുകളും"
+    },
+    {
+      "surface": "כל",
+      "gloss": "എല്ലാ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "വാക്കുകളും"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "തോറയുടെ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ഈ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "കൊത്തി വ്യക്തമായി"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "നന്നായി"
+    }
+  ],
+  "timestamp": "2026-08-22T11:14:17.461435540Z",
+  "model": "glm-5.3"
+}

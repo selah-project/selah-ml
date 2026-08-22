@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 14:56",
+  "book": "leviticus",
+  "lang": "ml",
+  "chapter": 14,
+  "translation": "ഉയർച്ചയ്ക്കും പുറണയ്ക്കും വെളുത്ത പുള്ളിക്കും:",
+  "tokens": [
+    {
+      "surface": "ולשאת",
+      "gloss": "ഉയർച്ചയ്ക്കും"
+    },
+    {
+      "surface": "ולספחת",
+      "gloss": "പുറണയ്ക്കും"
+    },
+    {
+      "surface": "ולבהרת",
+      "gloss": "വെളുത്ത പുള്ളിക്കും"
+    }
+  ],
+  "timestamp": "2026-08-22T09:57:34.558991593Z",
+  "model": "glm-5.3"
+}

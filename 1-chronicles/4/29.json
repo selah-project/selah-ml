@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 4:29",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 4,
+  "translation": "ബില്‍ഹയിലും എസെമിലും തോലാദിലും",
+  "tokens": [
+    {
+      "surface": "ובבלהה",
+      "gloss": "ബില്‍ഹയിലും"
+    },
+    {
+      "surface": "ובעצם",
+      "gloss": "എസെമിലും"
+    },
+    {
+      "surface": "ובתולד",
+      "gloss": "തോലാദിലും"
+    }
+  ],
+  "timestamp": "2026-08-22T17:48:46.095438317Z",
+  "model": "glm-5.3"
+}

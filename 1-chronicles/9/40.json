@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 9,
+  "translation": "യെഹോനാതാന്റെ മകൻ മെരിവ്-ബഅൽ; മെരിവ്-ബഅൾ ⟨את⟩ മിഖായെ ജനിപ്പിച്ചു.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "യെഹോനാതാന്റെ"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "മെരിവ്-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ബഅൽ"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "മെരിവ്-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ബഅൽ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ജനിപ്പിച്ചു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "മിഖായെ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "മിഖാ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:52:49.691234565Z",
+  "model": "glm-5.3"
+}

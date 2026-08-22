@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 8,
+  "translation": "മിഖായേൽ, യിഷ്പാ, യോഹാ — ബെരിയായുടെ പുത്രന്മാർ.",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "മിഖായേൽ"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "യിഷ്പാ"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "യോഹാ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "ബെരിയായുടെ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:51:13.592328861Z",
+  "model": "glm-5.3"
+}

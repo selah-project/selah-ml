@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 14:6",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 14,
+  "translation": "നോഗായും, നെഫെഗും, യാഫീഅയും,",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "നോഗായും"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "നെഫെഗും"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "യാഫീഅയും"
+    }
+  ],
+  "timestamp": "2026-08-22T17:55:08.888979361Z",
+  "model": "glm-5.3"
+}

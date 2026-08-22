@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "ml",
+  "chapter": 18,
+  "translation": "ഹോ, ചിറകടിയുടെ മുഴക്കമുള്ള ദേശമേ, കൂഷിന്റെ നദികൾക്കപ്പുറത്തുള്ളതേ.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ഹോ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ദേശം"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "മുഴക്കം"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "ചിറകുകളുടെ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ഏത്"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "അപ്പുറത്ത്"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "നദികൾക്ക്"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "കൂഷ്"
+    }
+  ],
+  "timestamp": "2026-08-22T13:29:29.301790723Z",
+  "model": "glm-5.3"
+}

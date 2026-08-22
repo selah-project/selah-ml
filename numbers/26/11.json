@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 26,
+  "translation": "കോരഹിന്റെ പുത്രന്മാർ എങ്കിലും മരിച്ചില്ല.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "കോരഹിന്റെ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "മരിച്ചു"
+    }
+  ],
+  "timestamp": "2026-08-22T10:43:57.085747817Z",
+  "model": "glm-5.3"
+}

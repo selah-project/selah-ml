@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 16,
+  "translation": "ഓമർ ⟨ആകുന്നു⟩ ഏഫയുടെ പത്തിലൊരു ഭാഗം.",
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "ഓമർ"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "പത്തിലൊരു ഭാഗം"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ഏഫയുടെ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ആകുന്നു⟩"
+    }
+  ],
+  "timestamp": "2026-08-22T09:18:24.290007304Z",
+  "model": "glm-5.3"
+}

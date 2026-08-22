@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 7:38",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "പത്ത് ⟨ശെക്കെൽ⟩ തൂക്കമുള്ള ഒരു സ്വർണത്തട്ട്, ധൂപവർഗ്ഗം നിറച്ചത്.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "തട്ട്"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ഒരു"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "പത്ത്"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "സ്വർണം"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "നിറച്ചത്"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ധൂപവർഗ്ഗം"
+    }
+  ],
+  "timestamp": "2026-08-22T18:34:32.083535675Z",
+  "model": "glm-5.3"
+}

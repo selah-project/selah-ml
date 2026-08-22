@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 19,
+  "translation": "സൂര്യൻ ഭൂമിക്കു മേൽ പുറത്തുവന്നു — ലോത്ത് സോഅറിലേക്കു കടന്നു.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "സൂര്യൻ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "പുറത്തുവന്നു"
+    },
+    {
+      "surface": "על",
+      "gloss": "മേൽ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ഭൂമിക്കു"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "ലോത്തും"
+    },
+    {
+      "surface": "בא",
+      "gloss": "കടന്നു"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "സോഅറിലേക്കു"
+    }
+  ],
+  "timestamp": "2026-08-22T08:23:48.740091085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 28:44",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 28,
+  "translation": "അവൻ നിനക്കു കടം കൊടുക്കും, നീ അവനു കടം കൊടുക്കുകയില്ല; അവൻ ശിരസ്സായിരിക്കും, നീ വാലായിരിക്കും.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "അവൻ"
+    },
+    {
+      "surface": "ילוך",
+      "gloss": "കടം കൊടുക്കും"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "നീ"
+    },
+    {
+      "surface": "ച൜א",
+      "gloss": "",
+      "surface2": ""
+    }
+  ],
+  "timestamp": "2026-08-22T11:17:07.693433163Z",
+  "model": "glm-5.3"
+}

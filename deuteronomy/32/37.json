@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 32:37",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 32,
+  "translation": "അവൻ പറയും — എവിടെ ⟨അവരുടെ⟩ ദൈവങ്ങൾ, അവർ ശരണം വെച്ച പാറ എവിടെ?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "അവൻ പറയും"
+    },
+    {
+      "surface": "אי",
+      "gloss": "എവിടെ"
+    },
+    {
+      "surface": "אלהימו",
+      "gloss": "അവരുടെ ദൈവങ്ങൾ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "പാറ"
+    },
+    {
+      "surface": "חסיו",
+      "gloss": "ശരണം വെച്ച"
+    },
+    {
+      "surface": "בו",
+      "gloss": "അതിൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:20:51.482334864Z",
+  "model": "glm-5.3"
+}

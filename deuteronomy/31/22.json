@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 31,
+  "translation": "അങ്ങനെ മോശെ ആ ദിവസം ⟨את⟩ ഈ പാട്ട് എഴുതി, യിസ്രായേൽ മക്കളെ ⟨את⟩ അതു പഠിപ്പിച്ചു.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "എഴുതി"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ഈ പാട്ട്"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "പാട്ട്"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ഈ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ദിവസം"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ആ"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "പഠിപ്പിച്ചു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "യിസ്രായേൽ മക്കളെ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "മക്കളെ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "യിസ്രായേലിന്റെ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:23:23.801976910Z",
+  "model": "glm-5.3"
+}

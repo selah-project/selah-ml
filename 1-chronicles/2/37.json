@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "സാബാദ് ⟨את⟩ എഫ്ലാലിനെ ജനിപ്പിച്ചു, എഫ്ലാൽ ⟨את⟩ ഒവേദിനെ ജനിപ്പിച്ചു.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "സാബാദ്"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ജനിപ്പിച്ചു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "എഫ്ലാലിനെ"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "എഫ്ലാൽ"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "എഫ്ലാൽ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ജനിപ്പിച്ചു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ഒവേദിനെ"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ഒവേദ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:46:45.792775915Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 10:32",
+  "book": "ezra",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "ബിൻയാമീൻ, മല്ലൂഖ്, ശെമര്യാഹ്.",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "ബിൻയാമീൻ"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "മല്ലൂഖ്"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "ശെമര്യാഹ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:36:23.076812162Z",
+  "model": "glm-5.3"
+}

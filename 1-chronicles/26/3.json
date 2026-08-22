@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 26:3",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 26,
+  "translation": "അഞ്ചാമൻ ഏലാം, ആറാമൻ യെഹോഹാനാൻ, ഏഴാമൻ എല്യെഹോഏനായ്.",
+  "tokens": [
+    {
+      "surface": "עילם",
+      "gloss": "ഏലാം"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "അഞ്ചാമൻ"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "യെഹോഹാനാൻ"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ആറാമൻ"
+    },
+    {
+      "surface": "אליהועיני",
+      "gloss": "എല്യെഹോഏനായ്"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ഏഴാമൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T18:01:19.982903942Z",
+  "model": "glm-5.3"
+}

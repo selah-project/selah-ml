@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "നിനിവെയ്ക്കും കലഹിനും ഇടയിൽ ⟨את⟩ റെസെനും — അതു വലിയ നഗരം ആകുന്നു.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "റെസെനും"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "റെസെൻ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ഇടയിൽ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "നിനിവെയ്ക്കും"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "കലഹിനും ഇടയിൽ"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "കലഹ്"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "അതു"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "നഗരം"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "വലിയ"
+    }
+  ],
+  "timestamp": "2026-08-22T08:20:00.669404714Z",
+  "model": "glm-5.3"
+}

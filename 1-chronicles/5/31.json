@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 5,
+  "translation": "അവീഷുവ ⟨את⟩ ബുക്കിയെ ജനിപ്പിച്ചു; ബുക്കി ⟨את⟩ ഉസ്സിയെ ജനിപ്പിച്ചു.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "അവീഷുവ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ജനിപ്പിച്ചു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ബുക്കിയെ"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "ബുക്കി"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "ബുക്കി"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ജനിപ്പിച്ചു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ഉസ്സിയെ"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ഉസ്സി"
+    }
+  ],
+  "timestamp": "2026-08-22T17:49:10.276190558Z",
+  "model": "glm-5.3"
+}

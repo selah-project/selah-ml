@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 18:7",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 18,
+  "translation": "വിഡ്ഢിയുടെ വായ് അവന്നു നാശം; അവന്റെ അധരങ്ങൾ അവന്റെ നെഫെശിന്റെ കെണി.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "വായ്"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "വിഡ്ഢിയുടെ"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "നാശം"
+    },
+    {
+      "surface": "לו",
+      "gloss": "അവന്നു"
+    },
+    {
+      "surface": "ושפתיו",
+      "gloss": "അവന്റെ അധരങ്ങൾ"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "കെണി"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "നെഫെശിന്റെ"
+    }
+  ],
+  "timestamp": "2026-08-22T16:35:25.188543025Z",
+  "model": "glm-5.3"
+}

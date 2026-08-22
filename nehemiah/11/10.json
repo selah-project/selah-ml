@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 11:10",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "പുരോഹിതന്മാരിൽ നിന്ന്: യെദായാ യോയാരിബിന്റെ മകൻ, യാഖിൻ.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "നിന്ന്"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "പുരോഹിതന്മാരിൽ"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "യെദായാ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "യോയാരിബിന്റെ"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "യാഖിൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:45:04.345075968Z",
+  "model": "glm-5.3"
+}

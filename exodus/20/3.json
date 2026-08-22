@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 20,
+  "translation": "എനിക്ക് മുമ്പിൽ മറ്റു ദൈവങ്ങൾ നിനക്കു ഉണ്ടായിരിക്കരുത്.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "വേണ്ട"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ഉണ്ടായിരിക്കരുത്"
+    },
+    {
+      "surface": "לך",
+      "gloss": "നിനക്കു"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ദൈവങ്ങൾ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "മറ്റു"
+    },
+    {
+      "surface": "על",
+      "gloss": "മുമ്പിൽ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "എനിക്ക്"
+    }
+  ],
+  "timestamp": "2026-08-22T09:19:24.534233645Z",
+  "model": "glm-5.3"
+}

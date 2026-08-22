@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 39,
+  "translation": "ഞാൻ മൗനിയായി; എന്റെ വായ തുറക്കുകയില്ല, കാരണം നീ ⟨അത്⟩ ചെയ്തു.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "ഞാൻ മൗനിയായി"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "തുറക്കുകയില്ല"
+    },
+    {
+      "surface": "פי",
+      "gloss": "എന്റെ വായ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "കാരണം"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "നീ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ചെയ്തു"
+    }
+  ],
+  "timestamp": "2026-08-22T15:51:19.351169252Z",
+  "model": "glm-5.3"
+}

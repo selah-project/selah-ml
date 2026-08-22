@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 8,
+  "translation": "ആടുകളും കാളകളും — എല്ലാം; പിന്നെയും വയലിലെ മൃഗങ്ങളും —",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "ആടുകളും"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "കാളകളും"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "എല്ലാം"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "പിന്നെയും"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "മൃഗങ്ങളും"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "വയലിലെ"
+    }
+  ],
+  "timestamp": "2026-08-22T15:41:07.332959989Z",
+  "model": "glm-5.3"
+}

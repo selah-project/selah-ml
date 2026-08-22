@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 24:28",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 24,
+  "translation": "മാഹ്ലീക്ക് എലആസാർ; അവന്ന് പുത്രന്മാർ ഉണ്ടായിരുന്നില്ല.",
+  "tokens": [
+    {
+      "surface": "למחלי",
+      "gloss": "മാഹ്ലീക്ക്"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "എലആസാർ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ആയിരുന്നു"
+    },
+    {
+      "surface": "לו",
+      "gloss": "അവന്ന്"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "പുത്രന്മാർ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:59:25.761828892Z",
+  "model": "glm-5.3"
+}

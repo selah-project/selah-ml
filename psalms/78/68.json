@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 78,
+  "translation": "യെഹൂദാ ഗോത്രം ⟨את⟩ തിരഞ്ഞെടുത്തു, സ്നേഹിച്ച ⟨את⟩ സീയോൻ മലയെയും.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "തിരഞ്ഞെടുത്തു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "യെഹൂദാ ഗോത്രം"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ഗോത്രം"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "യെഹൂദാ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "സീയോൻ മല"
+    },
+    {
+      "surface": "הר",
+      "gloss": "മല"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "സീയോൻ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "അതു"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "സ്നേഹിച്ച"
+    }
+  ],
+  "timestamp": "2026-08-22T16:04:15.129085923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 17,
+  "translation": "യാഹ്‌വെ അവനോടു കല്പിച്ചതുപോലെ മോശെ അങ്ങനെ ⟨את⟩ ചെയ്തു.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ചെയ്തു"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "പോലെ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "കല്പിച്ചതു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "അവനോടു"
+    },
+    {
+      "surface": "כן",
+      "gloss": "അങ്ങനെ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ചെയ്തു"
+    }
+  ],
+  "timestamp": "2026-08-22T10:36:26.480077177Z",
+  "model": "glm-5.3"
+}

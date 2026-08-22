@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "അവൻ ⟨את⟩ ബേത്ത്-ലെഖെമിനെയും ⟨את⟩ ഏതാമിനെയും ⟨את⟩ തെക്കോവയെയും ⟨പണിതു⟩.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "⟨പണിതു⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ബേത്ത്-ലെഖെമിനെ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ബേത്ത്-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ലെഖെം"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ഏതാമിനെ"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "ഏതാം"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "തെക്കോവയെ"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "തെക്കോവ"
+    }
+  ],
+  "timestamp": "2026-08-22T18:08:32.725894846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 1:35",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "ഏസാവിന്റെ പുത്രന്മാർ: എലീഫാസ്, രെഉവേൽ, യെഊശ്, യാലാം, ഖോറാഹ്.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ഏസാവിന്റെ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "എലീഫാസ്"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "രെഉവേൽ"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "യെഊശ്"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "യാലാം"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "ഖോറാഹ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:46:52.539567249Z",
+  "model": "glm-5.3"
+}

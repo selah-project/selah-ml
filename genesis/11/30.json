@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "ശാരായ് ⟨ആയിരുന്നു⟩ വന്ധ്യ; അവൾക്ക് സന്താനം ⟨ഉണ്ടായിരുന്നില്ല⟩.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "⟨ആയിരുന്നു⟩"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ശാരായ്"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "വന്ധ്യ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "לה",
+      "gloss": "അവൾക്ക്"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "സന്താനം"
+    }
+  ],
+  "timestamp": "2026-08-22T08:22:25.724980150Z",
+  "model": "glm-5.3"
+}

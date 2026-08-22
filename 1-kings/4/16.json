@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "ml",
+  "chapter": 4,
+  "translation": "ബാഅനാ ഖൂശായിയുടെ മകൻ, ആശേരിലും ബെഅലോതിലും.",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "ബാഅനാ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "ഖൂശായിയുടെ"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "ആശേരിലും"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "ബെഅലോതിലും"
+    }
+  ],
+  "timestamp": "2026-08-22T12:40:25.291079120Z",
+  "model": "glm-5.3"
+}

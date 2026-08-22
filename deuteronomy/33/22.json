@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 33:22",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 33,
+  "translation": "ദാനെപ്പറ്റി അവൻ പറഞ്ഞു: ദാൻ സിംഹത്തിന്റെ കുട്ടൻ; ബാശാനിൽ നിന്നു അവൻ ചാടിവീഴും.",
+  "tokens": [
+    {
+      "surface": "ולדן",
+      "gloss": "ദാനെപ്പറ്റി"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "അവൻ പറഞ്ഞു"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ദാൻ"
+    },
+    {
+      "surface": "גור",
+      "gloss": "കുട്ടൻ"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "സിംഹത്തിന്റെ"
+    },
+    {
+      "surface": "יזנק",
+      "gloss": "ചാടിവീഴും"
+    },
+    {
+      "surface": "מן",
+      "gloss": "നിന്നു"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ബാശാനിൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T11:21:10.831040591Z",
+  "model": "glm-5.3"
+}

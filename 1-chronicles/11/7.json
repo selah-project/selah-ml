@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "ദാവീദ് കോട്ടയിൽ പാർത്തു; അതിനാൽ അതിനെ ദാവീദിന്റെ നഗരം എന്നു വിളിച്ചു.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "പാർത്തു"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ദാവീദ്"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "കോട്ടയിൽ"
+    },
+    {
+      "surface": "על",
+      "gloss": "അതിന്റെ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "മേൽ"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "വിളിച്ചു"
+    },
+    {
+      "surface": "לו",
+      "gloss": "അതിനെ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "നഗരം"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ദാവീദിന്റെ"
+    }
+  ],
+  "timestamp": "2026-08-22T19:16:53.369758265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 13:4",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 13,
+  "translation": "ഇവർ അവരുടെ പേരുകൾ: രെഉവേൻ ഗോത്രത്തിന്നു — സഖൂരിന്റെ മകൻ ശമ്മുഅ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ഇവർ"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "അവരുടെ പേരുകൾ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ഗോത്രത്തിന്നു"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "രെഉവേൻ"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "ശമ്മുഅ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "സഖൂർ"
+    }
+  ],
+  "timestamp": "2026-08-22T10:29:15.409832445Z",
+  "model": "glm-5.3"
+}

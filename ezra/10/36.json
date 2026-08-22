@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 10:36",
+  "book": "ezra",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "വന്യാ, മെരെമോത്, എല്യാശീബ്.",
+  "tokens": [
+    {
+      "surface": "וניה",
+      "gloss": "വന്യാ"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "മെരെമോത്"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "എല്യാശീബ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:36:39.530581802Z",
+  "model": "glm-5.3"
+}

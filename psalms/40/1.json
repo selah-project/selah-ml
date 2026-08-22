@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 40,
+  "translation": "സംഗീതനയകനു വേണ്ടി, ദാവീദിന്റേത്, ഒരു മിസ്മോർ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "സംഗീതനയകനു വേണ്ടി"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ദാവീദിന്റേത്"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "മിസ്മോർ"
+    }
+  ],
+  "timestamp": "2026-08-22T15:51:52.075056341Z",
+  "model": "glm-5.3"
+}

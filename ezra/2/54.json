@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezra 2:54",
+  "book": "ezra",
+  "lang": "ml",
+  "chapter": 2,
+  "translation": "നെത്സിയാഖിന്റെ മക്കൾ, ഖത്തീഫായുടെ മക്കൾ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "നെത്സിയാഖിന്റെ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "ഖത്തീഫായുടെ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:32:49.867450110Z",
+  "model": "glm-5.3"
+}

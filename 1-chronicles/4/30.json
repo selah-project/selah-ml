@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 4:30",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 4,
+  "translation": "ബെത്തൂവേലിലും ഖോര്‍മയിലും സിക്‌ലാഗിലും",
+  "tokens": [
+    {
+      "surface": "ובבתואל",
+      "gloss": "ബെത്തൂവേലിലും"
+    },
+    {
+      "surface": "ובחרמה",
+      "gloss": "ഖോര്‍മയിലും"
+    },
+    {
+      "surface": "ובציקלג",
+      "gloss": "സിക്‌ലാഗിലും"
+    }
+  ],
+  "timestamp": "2026-08-22T17:48:46.095711241Z",
+  "model": "glm-5.3"
+}

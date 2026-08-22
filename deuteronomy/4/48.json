@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 4:48",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 4,
+  "translation": "അർനോൻ നദിയുടെ തീരത്തുള്ള അരോഎര്‍ മുതൽ സിയോൻ മലയായ — അതു ഖെർമോൻ — വരെ.",
+  "tokens": [
+    {
+      "surface": "מערער",
+      "gloss": "അരോഎര്‍ മുതൽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "എന്ന"
+    },
+    {
+      "surface": "על",
+      "gloss": "തീരത്തു"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "അരികിൽ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "നദിയുടെ"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "അർനോൻ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "വരെ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "മലയായ"
+    },
+    {
+      "surface": "שיאן",
+      "gloss": "സിയോൻ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "അതു"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "ഖെർമോൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T10:59:53.478285667Z",
+  "model": "glm-5.3"
+}

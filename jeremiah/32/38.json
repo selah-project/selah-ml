@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 32:38",
+  "book": "jeremiah",
+  "lang": "ml",
+  "chapter": 32,
+  "translation": "അവർ എനിക്ക് ജനമായിരിക്കും, ഞാനും അവർക്ക് എലോഹീമായിരിക്കും.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "അവർ ആയിരിക്കും"
+    },
+    {
+      "surface": "לי",
+      "gloss": "എനിക്ക്"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ജനമായി"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ഞാനും"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ആയിരിക്കും"
+    },
+    {
+      "surface": "להם",
+      "gloss": "അവർക്ക്"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "എലോഹീമായി"
+    }
+  ],
+  "timestamp": "2026-08-22T14:20:13.692884610Z",
+  "model": "glm-5.3"
+}

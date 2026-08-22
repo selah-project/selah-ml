@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "lamentations 3:46",
+  "book": "lamentations",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "നമ്മുടെ ശത്രുക്കൾ എല്ലാം നമ്മുടെ നേരെ അവരുടെ വായ തുറന്നു.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "തുറന്നു"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "നമ്മുടെ നേരെ"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "അവരുടെ വായ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "എല്ലാം"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "നമ്മുടെ ശത്രുക്കൾ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:08:46.536747788Z",
+  "model": "glm-5.3"
+}

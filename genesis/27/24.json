@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 27,
+  "translation": "അവൻ പറഞ്ഞു: നീ തന്നെയാണോ എന്റെ മകൻ ഏസാവ്? അവൻ പറഞ്ഞു: ഞാനത്രേ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "അവൻ പറഞ്ഞു"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "നീ തന്നെയാണോ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ഈ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "എന്റെ മകൻ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ഏസാവ്"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "അവൻ പറഞ്ഞു"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ഞാനത്രേ"
+    }
+  ],
+  "timestamp": "2026-08-22T08:35:53.519830339Z",
+  "model": "glm-5.3"
+}

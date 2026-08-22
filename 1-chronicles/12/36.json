@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 12:36",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 12,
+  "translation": "ദാനിയിൽ നിന്ന്, യുദ്ധം നിരത്തുന്നവർ, ഇരുപത്തിയെട്ടായിരവും ആറുനൂറും.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "നിന്ന്"
+    },
+    {
+      "surface": "הדני",
+      "gloss": "ദാനിയിൽ"
+    },
+    {
+      "surface": "ערכי",
+      "gloss": "നിരത്തുന്നവർ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "യുദ്ധം"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ഇരുപത്"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "എട്ട്"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ആയിരവും"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ആറ്"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "നൂറും"
+    }
+  ],
+  "timestamp": "2026-08-22T17:55:09.193978823Z",
+  "model": "glm-5.3"
+}

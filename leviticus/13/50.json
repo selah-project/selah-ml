@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "ml",
+  "chapter": 13,
+  "translation": "പുരോഹിതൻ ⟨את⟩ വ്രണം കാണും; ⟨את⟩ വ്രണം ഏഴു ദിവസം അടച്ചിടും.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "കാണും"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "പുരോഹിതൻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "വ്രണം"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "വ്രണം"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "അടച്ചിടും"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "വ്രണം"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "വ്രണം"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ഏഴ്"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ദിവസം"
+    }
+  ],
+  "timestamp": "2026-08-22T10:00:26.744201472Z",
+  "model": "glm-5.3"
+}

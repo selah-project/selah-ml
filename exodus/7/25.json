@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "യാഹ്‌വെ ⟨את⟩ യഅോറിനെ അടിച്ചതിനു ശേഷം ഏഴു ദിവസം നിറഞ്ഞു.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "നിറഞ്ഞു"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ഏഴു"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ദിവസം"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ശേഷം"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "അടിച്ചതിനു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "യഅോറിനെ"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "യഅോർ"
+    }
+  ],
+  "timestamp": "2026-08-22T09:07:51.095639882Z",
+  "model": "glm-5.3"
+}

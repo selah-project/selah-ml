@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 23:16",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 23,
+  "translation": "ഗെർഷോമിന്റെ പുത്രന്മാർ: ശെബുവേൽ തലവൻ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "ഗെർഷോമിന്റെ"
+    },
+    {
+      "surface": "שבואל",
+      "gloss": "ശെബുവേൽ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "തലവൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T18:00:10.614350898Z",
+  "model": "glm-5.3"
+}

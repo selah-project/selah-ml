@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "ml",
+  "chapter": 42,
+  "translation": "പടിഞ്ഞാറേ ദിക്കിലേക്ക് തിരിഞ്ഞു, അളന്നു — അഞ്ഞൂറ് കോൽ, അളവുകോലിൽക്കൊണ്ട്.",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "തിരിഞ്ഞു"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ലേക്ക്"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ദിക്ക്"
+    },
+    {
+      "surface": "הים",
+      "gloss": "പടിഞ്ഞാറേ"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "അളന്നു"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "അഞ്ഞൂറ്"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "קנים",
+      "gloss": "കോൽ"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "കോലിൽക്കൊണ്ട്"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "അളവ്"
+    }
+  ],
+  "timestamp": "2026-08-22T15:04:40.862267621Z",
+  "model": "glm-5.3"
+}

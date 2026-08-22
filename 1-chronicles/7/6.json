@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 7:6",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ബിന്യാമിൻ: ബെലാ, ബെഖെർ, യിദിയാവേൽ — മൂന്നു പേർ.",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "ബിന്യാമിൻ"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "ബെലാ"
+    },
+    {
+      "surface": "ובכר",
+      "gloss": "ബെഖെർ"
+    },
+    {
+      "surface": "וידיעאל",
+      "gloss": "യിദിയാവേൽ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "മൂന്ന്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:51:42.677276127Z",
+  "model": "glm-5.3"
+}

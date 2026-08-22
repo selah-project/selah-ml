@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 47,
+  "translation": "കാരണം യാഹ്‌വെ അത്യുന്നതൻ, ഭയാനകൻ; ഭൂമിയാകെമുഴുവൻ ⟨അവൻ⟩ മഹാരാജാവു്.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "കാരണം"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "അത്യുന്നതൻ"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ഭയാനകൻ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "രാജാവു്"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "മഹാ"
+    },
+    {
+      "surface": "על",
+      "gloss": "മുഴുവൻ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ആകെ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ഭൂമിയിൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T15:54:18.681295354Z",
+  "model": "glm-5.3"
+}

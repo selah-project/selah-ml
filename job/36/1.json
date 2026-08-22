@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 36:1",
+  "book": "job",
+  "lang": "ml",
+  "chapter": 36,
+  "translation": "എലീഹൂ വീണ്ടും കൂട്ടിച്ചേർത്തു, പറഞ്ഞു:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "കൂട്ടിച്ചേർത്തു"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "എലീഹൂ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "പറഞ്ഞു"
+    }
+  ],
+  "timestamp": "2026-08-22T16:58:26.648372262Z",
+  "model": "glm-5.3"
+}

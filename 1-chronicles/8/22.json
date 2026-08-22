@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 8:22",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 8,
+  "translation": "യിശ്പാൻ, ഏവെർ, എലീഏൽ.",
+  "tokens": [
+    {
+      "surface": "וישפן",
+      "gloss": "യിശ്പാൻ"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "ഏവെർ"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "എലീഏൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:50:10.180879919Z",
+  "model": "glm-5.3"
+}

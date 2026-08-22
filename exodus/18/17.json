@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "ml",
+  "chapter": 18,
+  "translation": "മോശെയുടെ മാമൻ അവനോട് പറഞ്ഞു: നീ ചെയ്യുന്ന കാര്യം നല്ലതല്ല.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "പറഞ്ഞു"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "മാമൻ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെയുടെ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "അവനോട്"
+    },
+    {
+      "surface": "לא",
+      "gloss": "അല്ല"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "നല്ലത്"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "കാര്യം"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ഏത്"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "നീ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ചെയ്യുന്നു"
+    }
+  ],
+  "timestamp": "2026-08-22T18:31:08.776149491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 14:5",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 14,
+  "translation": "യിബ്ഹാറും, എലീശുഅയും, എൽപാലെതും,",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "യിബ്ഹാറും"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "എലീശുഅയും"
+    },
+    {
+      "surface": "ואלפלט",
+      "gloss": "എൽപാലെതും"
+    }
+  ],
+  "timestamp": "2026-08-22T17:55:08.888790892Z",
+  "model": "glm-5.3"
+}

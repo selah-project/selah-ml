@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "കാരണം ഭൂമിയിൽ നന്നു ചെയ്തു പാപം ചെയ്യാത്ത നീതിമാനായ ⟨a⟩ മനുഷ്യൻ ഇല്ല.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "കാരണം"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "മനുഷ്യൻ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "നീതിമാൻ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ഭൂമിയിൽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "അവൻ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ചെയ്യുന്ന"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "നന്നു"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "വും ഇല്ല"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "പാപം ചെയ്യുന്നു"
+    }
+  ],
+  "timestamp": "2026-08-22T17:14:25.425953564Z",
+  "model": "glm-5.3"
+}

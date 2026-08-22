@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "നാം പ്രമാണം ലംഘിച്ചു, കലാപം ചെയ്തു; നീ ക്ഷമിച്ചില്ല.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "നാം"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "പ്രമാണം ലംഘിച്ചു"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "കലാപം ചെയ്തു"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "നീ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "ക്ഷമിച്ചു"
+    }
+  ],
+  "timestamp": "2026-08-22T17:08:10.438255383Z",
+  "model": "glm-5.3"
+}

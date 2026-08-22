@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 4:35",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 4,
+  "translation": "യോവേൽ, യോശിബ്യാഹിന്റെ മകനായ യെഹൂ — അവൻ സെരായാഹിന്റെ മകൻ, അവൻ അസിയേലിന്റെ മകൻ.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "യോവേൽ"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "യെഹൂ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകനായ"
+    },
+    {
+      "surface": "יושביה",
+      "gloss": "യോശിബ്യാഹ്"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "സെരായാഹ്"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "עשיאל",
+      "gloss": "അസിയേൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:49:05.582149718Z",
+  "model": "glm-5.3"
+}

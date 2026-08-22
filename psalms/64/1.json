@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 64,
+  "translation": "സംഗീതനയകന്‍ക്‍ — ദാവീദിന്റെ ഒരു സംഗീതശകലം.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "സംഗീതനയകന്‍ക്‍"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "സംഗീതശകലം"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ദാവീദിന്റെ"
+    }
+  ],
+  "timestamp": "2026-08-22T15:58:39.761068349Z",
+  "model": "glm-5.3"
+}

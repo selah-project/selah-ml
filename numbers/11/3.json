@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "ആ സ്ഥലത്തിന്റെ പേര് തബെരാ എന്നു വിളിച്ചു, കാരണം യാഹ്‌വെയുടെ അഗ്നി അവരിൽ കത്തി.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "വിളിച്ചു"
+    },
+    {
+      "surface": "שם",
+      "gloss": "പേര്"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "സ്ഥലത്തിന്റെ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ആ"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "തബെരാ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "കാരണം"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "കത്തി"
+    },
+    {
+      "surface": "בם",
+      "gloss": "അവരിൽ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "അഗ്നി"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെയുടെ"
+    }
+  ],
+  "timestamp": "2026-08-22T10:25:50.575995171Z",
+  "model": "glm-5.3"
+}

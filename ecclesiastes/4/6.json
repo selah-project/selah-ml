@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "ml",
+  "chapter": 4,
+  "translation": "ഒരു കൈപ്പിടി ശാന്തത നിറഞ്ഞത് നല്ലത് — രണ്ടു കൈകൾ നിറയെ പ്രയാസവും റൂഅഖ് വ്യാമോഹവും ആകുന്നതിനേക്കാൾ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "നല്ലത്"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "നിറഞ്ഞത്"
+    },
+    {
+      "surface": "כף",
+      "gloss": "കൈപ്പിടി"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ശാന്തത"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "നിറയെ"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "രണ്ടു കൈകൾ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "പ്രയാസം"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "വ്യാമോഹം"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "റൂഅഖ്"
+    }
+  ],
+  "timestamp": "2026-08-22T19:12:49.073906510Z",
+  "model": "glm-5.3"
+}

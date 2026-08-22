@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "ml",
+  "chapter": 25,
+  "translation": "⟨את⟩ എദോമിനെയും ⟨את⟩ മോആവിനെയും ⟨את⟩ അമ്മോന്റെ മക്കളെയും",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "എദോമിനെ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "എദോമിനെ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "മോആവിനെ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "മോആവിനെ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "അമ്മോന്റെ മക്കളെ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "മക്കളെ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "അമ്മോന്റെ"
+    }
+  ],
+  "timestamp": "2026-08-22T14:12:26.235950278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 102,
+  "translation": "വഴിയിൽ അവൻ എന്റെ ബലം തളർത്തി; എന്റെ ദിവസങ്ങൾ ചുരുക്കി.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "തളർത്തി"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "വഴിയിൽ"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "എന്റെ ബലം"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "ചുരുക്കി"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "എന്റെ ദിവസങ്ങൾ"
+    }
+  ],
+  "timestamp": "2026-08-22T16:11:29.867412444Z",
+  "model": "glm-5.3"
+}

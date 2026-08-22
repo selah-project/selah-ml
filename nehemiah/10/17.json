@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 10:17",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "അദോനിയാ, ബിഗ്വായ്, ആദീൻ,",
+  "tokens": [
+    {
+      "surface": "אדניה",
+      "gloss": "അദോനിയാ"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "ബിഗ്വായ്"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "ആദീൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:44:02.960258956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 34:21",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 34,
+  "translation": "ബിൻയാമിൻ ഗോത്രത്തിന് — കിസ്ലോന്റെ മകൻ എലീദാദ്.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ഗോത്രത്തിന്"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ബിൻയാമിൻ"
+    },
+    {
+      "surface": "אלידד",
+      "gloss": "എലീദാദ്"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "כסלון",
+      "gloss": "കിസ്ലോൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T10:51:48.583770883Z",
+  "model": "glm-5.3"
+}

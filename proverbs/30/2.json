@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 30,
+  "translation": "ഞാൻ മനുഷ്യനെക്കാൾ മൃഗസഹജനാണ്; മനുഷ്യബുദ്ധി എനിക്കില്ല.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "കാരണ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "മൃഗസഹജൻ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ഞാൻ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "മനുഷ്യനെക്കാൾ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "בינת",
+      "gloss": "ബുദ്ധി"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "മനുഷ്യന്റെ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "എനിക്ക്"
+    }
+  ],
+  "timestamp": "2026-08-22T16:41:37.645384870Z",
+  "model": "glm-5.3"
+}

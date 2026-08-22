@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "ml",
+  "chapter": 13,
+  "translation": "ബാവേലിന്റെ ഭാരം — യിശയാഹ്‌വു ബൻ അമോത്സ് കണ്ടത്.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ഭാരം"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ബാവേലിന്റെ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "അത്"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "കണ്ടത്"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "യിശയാഹ്‌വു"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ബൻ"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "അമോത്സ്"
+    }
+  ],
+  "timestamp": "2026-08-22T18:50:48.748645641Z",
+  "model": "glm-5.3"
+}

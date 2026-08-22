@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "nehemiah 7:66",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "മുഴുവൻ സഭ ഒന്നായി: നാല് പതിനായിരം രണ്ടായിരം മുന്നൂറ്റിഅറുപത്.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "മുഴുവൻ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "സഭ"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ഒന്നായി"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "നാല്"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "പതിനായിരം"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "രണ്ടായിരം"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "മുന്നൂറ്"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(നൂറുകൾ)"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "അറുപത്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:42:17.089358963Z",
+  "model": "glm-5.3"
+}

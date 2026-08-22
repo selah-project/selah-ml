@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 1:38",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "സെഇരിന്റെ പുത്രന്മാർ: ലോതാൻ, ശോബാൽ, സിബ്ഇലോൺ, അനാഹ്, ദിശോൻ, ഏസെർ, ദിശാൻ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "സെഇരിന്റെ"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "ലോതാൻ"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "ശോബാൽ"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "സിബ്ഇലോൺ"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "അനാഹ്"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "ദിശോൻ"
+    },
+    {
+      "surface": "ואצר",
+      "gloss": "ഏസെർ"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "ദിശാൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:46:26.857528136Z",
+  "model": "glm-5.3"
+}

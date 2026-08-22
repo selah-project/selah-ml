@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 3,
+  "translation": "എലീശാമാ, എല്യാദാ, എലീഫലെത് — ഒൻപതുപേർ.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "എലീശാമാ"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "എല്യാദാ"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "എലീഫലെത്"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "ഒൻപതുപേർ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:48:32.113983024Z",
+  "model": "glm-5.3"
+}

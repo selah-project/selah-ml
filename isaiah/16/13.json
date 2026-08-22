@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 16:13",
+  "book": "isaiah",
+  "lang": "ml",
+  "chapter": 16,
+  "translation": "ഇതാ, യാഹ്‌വെ അന്നുമുതൽ മോആബിനെക്കുറിച്ചു സംസാരിച്ച ⟨ആ⟩ വചനം.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ഇത്"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "വചനം"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ഏത്"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "സംസാരിച്ചു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(-നെക്കുറിച്ച്)"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "മോആബ്"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "അന്നുമുതൽ"
+    }
+  ],
+  "timestamp": "2026-08-22T13:27:56.362579627Z",
+  "model": "glm-5.3"
+}

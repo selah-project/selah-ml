@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "അഗ്നി എന്നും ബലിപീഠത്തിൽ കത്തിക്കൊണ്ടിരിക്കും, അണയരുത്.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "അഗ്നി"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "എന്നും"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "കത്തിക്കൊണ്ടിരിക്കും"
+    },
+    {
+      "surface": "על",
+      "gloss": "…മേൽ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ബലിപീഠത്തിൽ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "അല്ല"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "അണയരുത്"
+    }
+  ],
+  "timestamp": "2026-08-22T09:49:19.655432872Z",
+  "model": "glm-5.3"
+}

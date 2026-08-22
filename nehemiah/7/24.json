@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 7:24",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ഖാരിഫ് ⟨വംശജർ⟩, നൂറ്റിപ്പന്ത്രണ്ടു ⟨പേർ⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "വംശജർ"
+    },
+    {
+      "surface": "חריף",
+      "gloss": "ഖാരിഫ്"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "നൂറ്"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "രണ്ടു"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "പന്ത്രണ്ട്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:41:51.623759868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "ഞാൻ ഇന്നു നിനക്കു കല്പിക്കുന്ന ഈ വാക്കുകൾ നിന്റെ ഹൃദയത്തിൽ ⟨ആയിരിക്കും⟩.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ആയിരിക്കും"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "വാക്കുകൾ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ഈ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "എന്ന"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ഞാൻ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "കല്പിക്കുന്ന"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ഇന്നു"
+    },
+    {
+      "surface": "על",
+      "gloss": "ത്തിൽ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "നിന്റെ ഹൃദയ"
+    }
+  ],
+  "timestamp": "2026-08-22T10:58:13.027662385Z",
+  "model": "glm-5.3"
+}

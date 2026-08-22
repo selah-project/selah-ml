@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 78,
+  "translation": "അവർ അവന്റെ കൈയെ ⟨את⟩ ഓര്‍ത്തില്ല — ശത്രുവില്‍ നിന്നു അവനെ മോചിച്ച ദിവസം.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ഇല്ല"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "ഓര്‍ത്തു"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "അവന്റെ കൈയെ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "അവന്റെ കൈ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ദിവസം"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "മോചിച്ച"
+    },
+    {
+      "surface": "מני",
+      "gloss": "നിന്നു"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ശത്രുവില്‍"
+    }
+  ],
+  "timestamp": "2026-08-22T16:04:28.633628050Z",
+  "model": "glm-5.3"
+}

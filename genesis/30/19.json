@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 30:19",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 30,
+  "translation": "ലേആ വീണ്ടും ഗർഭം ധരിച്ചു, യാക്കോവിന് ആറാമത്തെ മകനെ പ്രസവിച്ചു.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ഗർഭം ധരിച്ചു"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "വീണ്ടും"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ലേആ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "പ്രസവിച്ചു"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകനെ"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "ആറാമത്തെ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "യാക്കോവിന്"
+    }
+  ],
+  "timestamp": "2026-08-22T08:38:42.889923195Z",
+  "model": "glm-5.3"
+}

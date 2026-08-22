@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 15:34",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 15,
+  "translation": "സാനോഅഖ്, എൻ-ഗന്നിം, തപ്പുഅഖ്, എനാം —",
+  "tokens": [
+    {
+      "surface": "וזנוח",
+      "gloss": "സാനോഅഖ്"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "എൻ-"
+    },
+    {
+      "surface": "ഒന്നിം",
+      "gloss": "ഗന്നിം"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "തപ്പുഅഖ്"
+    },
+    {
+      "surface": "והעינם",
+      "gloss": "എനാം"
+    }
+  ],
+  "timestamp": "2026-08-22T11:33:52.645146611Z",
+  "model": "glm-5.3"
+}

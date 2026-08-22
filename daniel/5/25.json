@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "ml",
+  "chapter": 5,
+  "translation": "ഇതാ ⟨ആ⟩ ലിഖിതം, എഴുതപ്പെട്ടത്: മെനെ, മെനെ, തെക്വേൽ, ഉഫര്സിൻ.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "ഇതാ"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "ലിഖിതം"
+    },
+    {
+      "surface": "די",
+      "gloss": "എഴുതപ്പെട്ടത്"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "എഴുതപ്പെട്ടത്"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "മെനെ"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "മെനെ"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "തെക്വേൽ"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "ഉഫര്സിൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:23:17.039911163Z",
+  "model": "glm-5.3"
+}

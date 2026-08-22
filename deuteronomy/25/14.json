@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 25,
+  "translation": "നിന്റെ വീട്ടിൽ ഒരു ഐഫായും ഒരു ഐഫായും — വലുതും ചെറുതും — നിനക്കു ഉണ്ടാകരുത്.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "അരുത്"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ആയിരിക്കുക"
+    },
+    {
+      "surface": "לך",
+      "gloss": "നിനക്കു"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "നിന്റെ വീട്ടിൽ"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ഒരു ഐഫാ"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "ഒരു ഐഫായും"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "വലുത്"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "ചെറുതും"
+    }
+  ],
+  "timestamp": "2026-08-22T11:15:47.988379501Z",
+  "model": "glm-5.3"
+}

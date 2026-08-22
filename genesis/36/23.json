@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 36:23",
+  "book": "genesis",
+  "lang": "ml",
+  "chapter": 36,
+  "translation": "ഇവർ ഷോവാലിന്റെ മക്കൾ: അൽവാനും മനാഖത്തും ഏവാലും ഷെഫോയും ഓനാമും.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ഇവർ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "മക്കൾ"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "ഷോവാലിന്റെ"
+    },
+    {
+      "surface": "עלון",
+      "gloss": "അൽവാനും"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "മനാഖത്തും"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "ഏവാലും"
+    },
+    {
+      "surface": "שפו",
+      "gloss": "ഷെഫോയും"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "ഓനാമും"
+    }
+  ],
+  "timestamp": "2026-08-22T08:46:07.184803020Z",
+  "model": "glm-5.3"
+}

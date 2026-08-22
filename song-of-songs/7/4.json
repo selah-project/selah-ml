@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 7:4",
+  "book": "song-of-songs",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "നിന്റെ രണ്ടു മുലകൾ രണ്ടു മാൻക്കുട്ടികൾ പോലെ — ഒരു പെൺകലമാന്റെ ഇരട്ടികൾ.",
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "രണ്ടു"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "മുലകൾ"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "രണ്ടു ... പോലെ"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "മാൻക്കുട്ടികൾ"
+    },
+    {
+      "surface": "תאמי",
+      "gloss": "ഇരട്ടികൾ"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "പെൺകലമാന്റെ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:04:46.201743765Z",
+  "model": "glm-5.3"
+}

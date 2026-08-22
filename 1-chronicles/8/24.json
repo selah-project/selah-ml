@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 8:24",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 8,
+  "translation": "ഹനന്യാഹ്, ഏലാം, അനതോതിയാഹ്.",
+  "tokens": [
+    {
+      "surface": "וחנניה",
+      "gloss": "ഹനന്യാഹ്"
+    },
+    {
+      "surface": "ועילם",
+      "gloss": "ഏലാം"
+    },
+    {
+      "surface": "וענתתיה",
+      "gloss": "അനതോതിയാഹ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:50:10.181117133Z",
+  "model": "glm-5.3"
+}

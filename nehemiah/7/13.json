@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 7:13",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "സത്തൂവിന്റെ പുത്രന്മാർ — എണ്ണൂറ്റി നാപ്പത്തഞ്ച്.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "പുത്രന്മാർ"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "സത്തൂവിന്റെ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "എട്ട്"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "നൂറുകൾ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "നാപ്പത്"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "അഞ്ച്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:41:47.617724104Z",
+  "model": "glm-5.3"
+}

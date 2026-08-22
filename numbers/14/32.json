@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 14:32",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 14,
+  "translation": "നിങ്ങളുടെ ശവങ്ങൾ — നിങ്ങൾ — ഈ മരുഭൂമിയിൽ വീഴും.",
+  "tokens": [
+    {
+      "surface": "ופגריכם",
+      "gloss": "നിങ്ങളുടെ ശവങ്ങൾ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "നിങ്ങൾ"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "വീഴും"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "മരുഭൂമിയിൽ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ഈ"
+    }
+  ],
+  "timestamp": "2026-08-22T10:30:38.730399404Z",
+  "model": "glm-5.3"
+}

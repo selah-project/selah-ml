@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "ml",
+  "chapter": 78,
+  "translation": "കടലിനെ പിളർത്തി അവരെ കടത്തി; വെള്ളത്തെ കുന്നു പോലെ നിർത്തി.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "പിളർത്തി"
+    },
+    {
+      "surface": "ים",
+      "gloss": "കടലിനെ"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "അവരെ കടത്തി"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "നിർത്തി"
+    },
+    {
+      "surface": "מים",
+      "gloss": "വെള്ളത്തെ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "പോലെ"
+    },
+    {
+      "surface": "נד",
+      "gloss": "കുന്നു"
+    }
+  ],
+  "timestamp": "2026-08-22T16:03:43.807232176Z",
+  "model": "glm-5.3"
+}

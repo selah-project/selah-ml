@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 1:6",
+  "book": "ezekiel",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "ഒരോന്നിനും നാല് മുഖങ്ങൾ, ഒരോന്നിനും നാല് ചിറകുകൾ അവയ്ക്ക്.",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "നാല്"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "മുഖങ്ങൾ"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ഒരോന്നിനും"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "നാല്"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "ചിറകുകൾ"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ഒരോന്നിനും"
+    },
+    {
+      "surface": "להם",
+      "gloss": "അവയ്ക്ക്"
+    }
+  ],
+  "timestamp": "2026-08-22T14:35:11.300421809Z",
+  "model": "glm-5.3"
+}

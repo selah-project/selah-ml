@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "ഖിവിയെയും ⟨את⟩ അർക്കിയെയും ⟨את⟩ സിനിയെയും ⟨את⟩ ⟨ജനിപ്പിച്ചു⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ഖിവിയെ"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ഖിവി"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "അർക്കിയെ"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "അർക്കി"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "സിനിയെ"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "സിനി"
+    }
+  ],
+  "timestamp": "2026-08-22T17:46:42.711251148Z",
+  "model": "glm-5.3"
+}

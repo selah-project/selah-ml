@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 19:21",
+  "book": "joshua",
+  "lang": "ml",
+  "chapter": 19,
+  "translation": "രെമെത്ത്, എൻ-ഗന്നീം, എൻ-ഹദ്ദാഹ്, ബേത്ത്-പത്സെസ്സ്.",
+  "tokens": [
+    {
+      "surface": "ורמת",
+      "gloss": "രെമെത്ത്"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "എൻ-"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "ഗന്നീം"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "എൻ-"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "ഹദ്ദാഹ്"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ബേത്ത്-"
+    },
+    {
+      "surface": "פצץ",
+      "gloss": "പത്സെസ്സ്"
+    }
+  ],
+  "timestamp": "2026-08-22T11:35:19.589605203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 11,
+  "translation": "കാണുക, ഞാൻ ഇന്ന് നിങ്ങളുടെ മുമ്പിൽ അനുഗ്രഹവും ശാപവും വയ്ക്കുന്നു.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "കാണുക"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ഞാൻ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "വയ്ക്കുന്നു"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "നിങ്ങളുടെ മുമ്പിൽ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ഇന്ന്"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "അനുഗ്രഹം"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "ശാപം"
+    }
+  ],
+  "timestamp": "2026-08-22T11:05:37.257666281Z",
+  "model": "glm-5.3"
+}

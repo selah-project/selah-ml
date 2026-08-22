@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "ഒരു ദുരിതം ഉണ്ട് — സൂര്യന് കീഴിൽ ഞാൻ കണ്ടത് — മനുഷ്യന് മേൽ അത് ഭാരമേറിയതാണ്.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ഉണ്ട്"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ദുരിതം"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ഞാൻ കണ്ടത്"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "കീഴിൽ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "സൂര്യന്"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "ഭാരമേറിയത്"
+    },
+    {
+      "surface": "היא",
+      "gloss": "അത്"
+    },
+    {
+      "surface": "על",
+      "gloss": "മേൽ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "മനുഷ്യന്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:14:48.471813727Z",
+  "model": "glm-5.3"
+}

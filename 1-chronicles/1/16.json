@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 1,
+  "translation": "അർവാദിയെയും ⟨את⟩ ത്സെമാരിയെയും ⟨את⟩ ഖമാത്തിയെയും ⟨את⟩ ⟨ജനിപ്പിച്ചു⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "അർവാദിയെ"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "അർവാദി"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ത്സെമാരിയെ"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "ത്സെമാരി"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ഖമാത്തിയെ"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "ഖമാത്തി"
+    }
+  ],
+  "timestamp": "2026-08-22T17:46:42.711361233Z",
+  "model": "glm-5.3"
+}

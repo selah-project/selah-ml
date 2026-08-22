@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 10:7",
+  "book": "nehemiah",
+  "lang": "ml",
+  "chapter": 10,
+  "translation": "ദാനിയേൽ, ഗിന്തോൻ, ബാരൂഖ്",
+  "tokens": [
+    {
+      "surface": "דניאל",
+      "gloss": "ദാനിയേൽ"
+    },
+    {
+      "surface": "גנתון",
+      "gloss": "ഗിന്തോൻ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ബാരൂഖ്"
+    }
+  ],
+  "timestamp": "2026-08-22T17:42:24.152115228Z",
+  "model": "glm-5.3"
+}

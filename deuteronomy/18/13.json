@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "ml",
+  "chapter": 18,
+  "translation": "യാഹ്‌വെ നിന്റെ എലോഹീമിനോടുകൂടെ തികഞ്ഞവൻ ആയിരിക്കും നീ.",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "തികഞ്ഞവൻ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ആയിരിക്കും നീ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-നോടുകൂടെ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "നിന്റെ എലോഹീം"
+    }
+  ],
+  "timestamp": "2026-08-22T11:10:49.834564085Z",
+  "model": "glm-5.3"
+}

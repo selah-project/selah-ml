@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "ml",
+  "chapter": 8,
+  "translation": "മോശെ സഭയോടു പറഞ്ഞു: ചെയ്യേണ്ടതിന് യാഹ്‌വെ കല്പിച്ച വചനം ഇതുതന്നെ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "പറഞ്ഞു"
+    },
+    {
+      "surface": "משה",
+      "gloss": "മോശെ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "സഭയോട്"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "സഭ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ഇതു"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "വചനം"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "കല്പിച്ച"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "കല്പിച്ചു"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ചെയ്യുവാൻ"
+    }
+  ],
+  "timestamp": "2026-08-22T09:54:49.330011710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 7:32",
+  "book": "numbers",
+  "lang": "ml",
+  "chapter": 7,
+  "translation": "ഒരു സ്വർണ്ണകരണ്ടി, പത്ത് ശേക്കൽ, ധൂപവർഗ്ഗം നിറഞ്ഞത്.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "കരണ്ടി"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ഒരു"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "പത്ത്"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "സ്വർണ്ണ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "നിറഞ്ഞത്"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ധൂപവർഗ്ഗം"
+    }
+  ],
+  "timestamp": "2026-08-22T10:22:16.724640409Z",
+  "model": "glm-5.3"
+}

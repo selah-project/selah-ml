@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 6:1",
+  "book": "job",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "അയ്യോവ് മറുപടിയായി പറഞ്ഞു, ഇപ്രകാരം:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "മറുപടിയായി"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "അയ്യോവ്"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "പറഞ്ഞു"
+    }
+  ],
+  "timestamp": "2026-08-22T16:45:36.923766400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 30:22",
+  "book": "proverbs",
+  "lang": "ml",
+  "chapter": 30,
+  "translation": "അടിമ രാജാവാകുമ്പോൾ, നബാൽ അപ്പം നിറഞ്ഞു തൃപ്തനാകുമ്പോൾ —",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "കീഴിൽ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "അടിമ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ആകുമ്പോൾ"
+    },
+    {
+      "surface": "ימלוך",
+      "gloss": "രാജാവാകുമ്പോൾ"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "നബാൽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ആകുമ്പോൾ"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "തൃപ്തനാകുമ്പോൾ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "അപ്പം"
+    }
+  ],
+  "timestamp": "2026-08-22T16:40:11.363000467Z",
+  "model": "glm-5.3"
+}

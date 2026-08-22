@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 17:26",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 17,
+  "translation": "ഇപ്പോൾ, യാഹ്‌വെ, നീതന്നെ ⟨is⟩ ആ എലോഹീം; നീ നിന്റെ അടിമയോട് ഈ നന്മ കല്പിച്ചു.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ഇപ്പോൾ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "യാഹ്‌വെ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "നീ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "അവൻതന്നെ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ആ എലോഹീം"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "കല്പിച്ചു"
+    },
+    {
+      "surface": "על",
+      "gloss": "എക്കിൽ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "നിന്റെ അടിമയോട്"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "ഈ നന്മ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ഈ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:58:12.286407730Z",
+  "model": "glm-5.3"
+}

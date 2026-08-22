@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 6:21",
+  "book": "1-chronicles",
+  "lang": "ml",
+  "chapter": 6,
+  "translation": "എൽക്കാനായുടെ മകൻ, യോഎലിന്റെ മകൻ, അസര്യായുടെ മകൻ, സെഫന്യായുടെ മകൻ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "എൽക്കാനാ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "യോഎൽ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "അസര്യാ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "മകൻ"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "സെഫന്യാ"
+    }
+  ],
+  "timestamp": "2026-08-22T17:51:05.182139742Z",
+  "model": "glm-5.3"
+}

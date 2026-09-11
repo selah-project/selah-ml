@@ -69,3 +69,8 @@
 ചെയ്യുന്നു — സ്വീകരിക്കാം, നിങ്ങളോടൊപ്പം ചേർന്ന് തിരുത്താം,
 കൂടുതൽ തെളിവിനായി കാത്തിരിക്കാം, അല്ലെങ്കിൽ കാരണസഹിതം
 നിരസിക്കാം. വിലയിരുത്തൽ പാഠത്തിന്റേതാണ്, വ്യക്തിയുടേതല്ല.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.

@@ -87,3 +87,9 @@
 എല്ലാവർക്കും സ്വാഗതം. പിഴവ് അറിയിക്കുന്നതിനോ തിരുത്തൽ
 നിർദ്ദേശിക്കുന്നതിനോ മുമ്പ് ദയവായി
 [CONTRIBUTING.md](CONTRIBUTING.md) വായിക്കുക.
+
+## Selah
+
+- The languages of Selah — every chair, native name and status: https://selahproject.com/learn/languages/index.md
+- How the renderings are made — the process, the discipline, the receipts: https://selahproject.com/learn/data-sources/selah-renderings.md
+- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://selahproject.com/learn/data-sources/oshb-wlc.md

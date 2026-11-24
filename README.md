@@ -79,7 +79,7 @@
 പ്രവൃത്തി ഉപകാരപ്രദമെന്ന് തോന്നുകയും വിവർത്തനം, പരിശോധന,
 പ്രസിദ്ധീകരണം, വികസനം എന്നിവയിൽ സഹകരിക്കാൻ ആഗ്രഹിക്കുകയും
 ചെയ്താൽ, കാണുക
-[selahproject.com/support](https://selahproject.com/support)
+[s33k3r.com/learn/support](https://s33k3r.com/learn/support)
 
 ## പരിശോധനയിൽ പങ്കുചേരുക
 
@@ -90,6 +90,6 @@
 
 ## Selah
 
-- The languages of Selah — every chair, native name and status: https://selahproject.com/learn/languages/index.md
-- How the renderings are made — the process, the discipline, the receipts: https://selahproject.com/learn/data-sources/selah-renderings.md
-- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://selahproject.com/learn/data-sources/oshb-wlc.md
+- The languages of Selah — every chair, native name and status: https://s33k3r.com/learn/languages/index
+- How the renderings are made — the process, the discipline, the receipts: https://s33k3r.com/learn/data-sources/selah-renderings
+- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://s33k3r.com/learn/data-sources/oshb-wlc
